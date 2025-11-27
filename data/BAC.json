@@ -7,12 +7,13 @@
   "ocf_ttm": 61472000000.0,
   "capex_ttm": 0,
   "sbc_ttm": 3923000000.0,
+  "buyback_ttm": 22727000000.0,
   "total_debt": 365684000000.0,
   "cash_and_equivalents": 254719000000.0,
   "shares_outstanding": 7302495550,
   "beta": 1.304,
-  "analyst_growth_estimate": 31.5,
+  "analyst_growth_estimate": 12.6,
   "forward_eps": 3.66,
   "sector_type": "Financial",
-  "last_updated": "2025-11-27T06:54:28Z"
+  "last_updated": "2025-11-27T08:50:45Z"
 }

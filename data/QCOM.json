@@ -7,12 +7,13 @@
   "ocf_ttm": 14012000000.0,
   "capex_ttm": 1192000000.0,
   "sbc_ttm": 2783000000.0,
+  "buyback_ttm": 8791000000.0,
   "total_debt": 14811000000.0,
   "cash_and_equivalents": 5520000000.0,
   "shares_outstanding": 1071000000,
   "beta": 1.208,
-  "analyst_growth_estimate": 0,
+  "analyst_growth_estimate": 10.0,
   "forward_eps": 12.23,
-  "sector_type": "SaaS",
-  "last_updated": "2025-11-27T06:53:42Z"
+  "sector_type": "Semiconductor",
+  "last_updated": "2025-11-27T08:52:05Z"
 }
