@@ -1,6 +1,18 @@
 {
   "ticker": "COST",
-  "price": 908.26,
   "name": "Costco Wholesale Corporation",
-  "last_updated": "2025-11-27T05:10:45Z"
+  "price": 908.26,
+  "market_cap": 402792513536,
+  "revenue_ttm": 275235000000.0,
+  "ocf_ttm": 13335000000.0,
+  "capex_ttm": 5498000000.0,
+  "sbc_ttm": 860000000.0,
+  "total_debt": 8173000000.0,
+  "cash_and_equivalents": 14161000000.0,
+  "shares_outstanding": 443179176,
+  "beta": 0.982,
+  "analyst_growth_estimate": 11.0,
+  "forward_eps": 19.68,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:53:08Z"
 }

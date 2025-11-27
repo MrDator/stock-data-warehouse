@@ -1,6 +1,18 @@
 {
   "ticker": "XOM",
-  "price": 114.77,
   "name": "Exxon Mobil Corporation",
-  "last_updated": "2025-11-27T05:10:52Z"
+  "price": 114.77,
+  "market_cap": 489292857344,
+  "revenue_ttm": 241593000000.0,
+  "ocf_ttm": 54301000000.0,
+  "capex_ttm": 25178000000.0,
+  "sbc_ttm": 0,
+  "total_debt": 38989000000.0,
+  "cash_and_equivalents": 14352000000.0,
+  "shares_outstanding": 4217000000,
+  "beta": 0.378,
+  "analyst_growth_estimate": -8.3,
+  "forward_eps": 7.87,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:54:48Z"
 }

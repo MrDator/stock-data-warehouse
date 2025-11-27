@@ -1,6 +1,18 @@
 {
   "ticker": "MS",
-  "price": 167.94,
   "name": "Morgan Stanley",
-  "last_updated": "2025-11-27T05:12:02Z"
+  "price": 167.94,
+  "market_cap": 268088623104,
+  "revenue_ttm": 64247000000.0,
+  "ocf_ttm": -3679000000.0,
+  "capex_ttm": 3068000000.0,
+  "sbc_ttm": 1848000000.0,
+  "total_debt": 353120000000.0,
+  "cash_and_equivalents": 73473000000.0,
+  "shares_outstanding": 1589309311,
+  "beta": 1.217,
+  "analyst_growth_estimate": 48.9,
+  "forward_eps": 7.93,
+  "sector_type": "Financial",
+  "last_updated": "2025-11-27T06:52:44Z"
 }

@@ -1,6 +1,18 @@
 {
   "ticker": "ADBE",
-  "price": 317.52,
   "name": "Adobe Inc.",
-  "last_updated": "2025-11-27T05:10:40Z"
+  "price": 317.52,
+  "market_cap": 134691979264,
+  "revenue_ttm": 23181000000.0,
+  "ocf_ttm": 9792000000.0,
+  "capex_ttm": 193000000.0,
+  "sbc_ttm": 1894000000.0,
+  "total_debt": 6636000000.0,
+  "cash_and_equivalents": 4982000000.0,
+  "shares_outstanding": 418600000,
+  "beta": 1.536,
+  "analyst_growth_estimate": 11.2,
+  "forward_eps": 20.55,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:55:19Z"
 }

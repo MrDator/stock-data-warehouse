@@ -1,6 +1,18 @@
 {
   "ticker": "BAC",
-  "price": 52.99,
   "name": "Bank of America Corporation",
-  "last_updated": "2025-11-27T05:12:14Z"
+  "price": 52.99,
+  "market_cap": 392494153728,
+  "revenue_ttm": 107264000000.0,
+  "ocf_ttm": 61472000000.0,
+  "capex_ttm": 0,
+  "sbc_ttm": 3923000000.0,
+  "total_debt": 365684000000.0,
+  "cash_and_equivalents": 254719000000.0,
+  "shares_outstanding": 7302495550,
+  "beta": 1.304,
+  "analyst_growth_estimate": 31.5,
+  "forward_eps": 3.66,
+  "sector_type": "Financial",
+  "last_updated": "2025-11-27T06:54:28Z"
 }

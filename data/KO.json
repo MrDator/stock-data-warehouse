@@ -1,6 +1,18 @@
 {
   "ticker": "KO",
-  "price": 72.88,
   "name": "Coca-Cola Company (The)",
-  "last_updated": "2025-11-27T05:11:47Z"
+  "price": 72.88,
+  "market_cap": 313651265536,
+  "revenue_ttm": 47663000000.0,
+  "ocf_ttm": 7603000000.0,
+  "capex_ttm": 2033000000.0,
+  "sbc_ttm": 283000000.0,
+  "total_debt": 47416000000.0,
+  "cash_and_equivalents": 12732000000.0,
+  "shares_outstanding": 4301608845,
+  "beta": 0.398,
+  "analyst_growth_estimate": 30.1,
+  "forward_eps": 2.97,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:52:39Z"
 }

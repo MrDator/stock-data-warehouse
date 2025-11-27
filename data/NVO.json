@@ -1,6 +1,18 @@
 {
   "ticker": "NVO",
-  "price": 48.71,
   "name": "Novo Nordisk A/S",
-  "last_updated": "2025-11-27T05:10:51Z"
+  "price": 48.71,
+  "market_cap": 216441880576,
+  "revenue_ttm": 315603000000.0,
+  "ocf_ttm": 123784000000.0,
+  "capex_ttm": 62834000000.0,
+  "sbc_ttm": 0,
+  "total_debt": 101214000000.0,
+  "cash_and_equivalents": 32084000000.0,
+  "shares_outstanding": 3368607341,
+  "beta": 0.352,
+  "analyst_growth_estimate": -26.5,
+  "forward_eps": 4.07,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:55:21Z"
 }

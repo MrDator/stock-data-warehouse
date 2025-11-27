@@ -1,6 +1,18 @@
 {
   "ticker": "WMT",
-  "price": 109.1,
   "name": "Walmart Inc.",
-  "last_updated": "2025-11-27T05:11:26Z"
+  "price": 109.1,
+  "market_cap": 870663585792,
+  "revenue_ttm": 523565000000.0,
+  "ocf_ttm": 38438000000.0,
+  "capex_ttm": 24685000000.0,
+  "sbc_ttm": 0,
+  "total_debt": 65014000000.0,
+  "cash_and_equivalents": 9431000000.0,
+  "shares_outstanding": 7972851122,
+  "beta": 0.649,
+  "analyst_growth_estimate": 35.2,
+  "forward_eps": 2.72,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:53:39Z"
 }

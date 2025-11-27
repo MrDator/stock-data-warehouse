@@ -1,6 +1,18 @@
 {
   "ticker": "JNJ",
-  "price": 207.56,
   "name": "Johnson & Johnson",
-  "last_updated": "2025-11-27T05:11:22Z"
+  "price": 207.56,
+  "market_cap": 500073299968,
+  "revenue_ttm": 92149000000.0,
+  "ocf_ttm": 24204000000.0,
+  "capex_ttm": 5525000000.0,
+  "sbc_ttm": 1283000000.0,
+  "total_debt": 45795000000.0,
+  "cash_and_equivalents": 18231000000.0,
+  "shares_outstanding": 2409295102,
+  "beta": 0.358,
+  "analyst_growth_estimate": 91.0,
+  "forward_eps": 10.6,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:55:32Z"
 }

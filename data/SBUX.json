@@ -1,6 +1,18 @@
 {
   "ticker": "SBUX",
-  "price": 86.7,
   "name": "Starbucks Corporation",
-  "last_updated": "2025-11-27T05:11:46Z"
+  "price": 86.7,
+  "market_cap": 98586566656,
+  "revenue_ttm": 37184400000.0,
+  "ocf_ttm": 4747500000.0,
+  "capex_ttm": 2305500000.0,
+  "sbc_ttm": 318300000.0,
+  "total_debt": 26611500000.0,
+  "cash_and_equivalents": 3219800000.0,
+  "shares_outstanding": 1137100000,
+  "beta": 0.984,
+  "analyst_growth_estimate": -85.4,
+  "forward_eps": 3.72,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:54:50Z"
 }

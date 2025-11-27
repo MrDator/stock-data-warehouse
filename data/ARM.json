@@ -1,6 +1,18 @@
 {
   "ticker": "ARM",
-  "price": 132.61,
   "name": "Arm Holdings plc",
-  "last_updated": "2025-11-27T05:11:21Z"
+  "price": 132.61,
+  "market_cap": 140699025408,
+  "revenue_ttm": 4412000000.0,
+  "ocf_ttm": 1580000000.0,
+  "capex_ttm": 442000000.0,
+  "sbc_ttm": 926000000.0,
+  "total_debt": 429000000.0,
+  "cash_and_equivalents": 2518000000.0,
+  "shares_outstanding": 1060998569,
+  "beta": 4.132,
+  "analyst_growth_estimate": 120.0,
+  "forward_eps": 2.06,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:55:35Z"
 }

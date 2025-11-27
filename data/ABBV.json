@@ -1,6 +1,18 @@
 {
   "ticker": "ABBV",
-  "price": 227.66,
   "name": "AbbVie Inc.",
-  "last_updated": "2025-11-27T05:10:43Z"
+  "price": 227.66,
+  "market_cap": 402362793984,
+  "revenue_ttm": 59644000000.0,
+  "ocf_ttm": 20860000000.0,
+  "capex_ttm": 1176000000.0,
+  "sbc_ttm": 962000000.0,
+  "total_debt": 68743000000.0,
+  "cash_and_equivalents": 5629000000.0,
+  "shares_outstanding": 1767384632,
+  "beta": 0.352,
+  "analyst_growth_estimate": -88.7,
+  "forward_eps": 12.13,
+  "sector_type": "General",
+  "last_updated": "2025-11-27T06:55:50Z"
 }

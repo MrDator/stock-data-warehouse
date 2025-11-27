@@ -1,6 +1,18 @@
 {
   "ticker": "U",
-  "price": 42.47,
   "name": "Unity Software Inc.",
-  "last_updated": "2025-11-27T05:10:48Z"
+  "price": 42.47,
+  "market_cap": 18173458432,
+  "revenue_ttm": 1803658000.0,
+  "ocf_ttm": 413712000.0,
+  "capex_ttm": 22713000.0,
+  "sbc_ttm": 402718000.0,
+  "total_debt": 2234307000.0,
+  "cash_and_equivalents": 1898558000.0,
+  "shares_outstanding": 427912843,
+  "beta": 2.059,
+  "analyst_growth_estimate": 0,
+  "forward_eps": -1.04,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:53:53Z"
 }

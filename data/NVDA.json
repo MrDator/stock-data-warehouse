@@ -1,6 +1,18 @@
 {
   "ticker": "NVDA",
-  "price": 180.26,
   "name": "NVIDIA Corporation",
-  "last_updated": "2025-11-27T05:12:01Z"
+  "price": 180.26,
+  "market_cap": 4396100878336,
+  "revenue_ttm": 187142000000.0,
+  "ocf_ttm": 83159000000.0,
+  "capex_ttm": 5835000000.0,
+  "sbc_ttm": 6074000000.0,
+  "total_debt": 10481000000.0,
+  "cash_and_equivalents": 11486000000.0,
+  "shares_outstanding": 24347000000,
+  "beta": 2.269,
+  "analyst_growth_estimate": 66.7,
+  "forward_eps": 4.12,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:53:48Z"
 }

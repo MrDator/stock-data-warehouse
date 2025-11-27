@@ -1,6 +1,18 @@
 {
   "ticker": "MSFT",
-  "price": 485.5,
   "name": "Microsoft Corporation",
-  "last_updated": "2025-11-27T05:10:58Z"
+  "price": 485.5,
+  "market_cap": 3608802230272,
+  "revenue_ttm": 293812000000.0,
+  "ocf_ttm": 147039000000.0,
+  "capex_ttm": 69022000000.0,
+  "sbc_ttm": 12125000000.0,
+  "total_debt": 60556000000.0,
+  "cash_and_equivalents": 28849000000.0,
+  "shares_outstanding": 7432377655,
+  "beta": 1.065,
+  "analyst_growth_estimate": 12.7,
+  "forward_eps": 14.95,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:54:44Z"
 }

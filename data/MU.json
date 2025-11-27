@@ -1,6 +1,18 @@
 {
   "ticker": "MU",
-  "price": 230.26,
   "name": "Micron Technology, Inc.",
-  "last_updated": "2025-11-27T05:11:06Z"
+  "price": 230.26,
+  "market_cap": 259123036160,
+  "revenue_ttm": 37378000000.0,
+  "ocf_ttm": 17525000000.0,
+  "capex_ttm": 15857000000.0,
+  "sbc_ttm": 972000000.0,
+  "total_debt": 15278000000.0,
+  "cash_and_equivalents": 9642000000.0,
+  "shares_outstanding": 1125349754,
+  "beta": 1.552,
+  "analyst_growth_estimate": 256.9,
+  "forward_eps": 12.87,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:55:03Z"
 }

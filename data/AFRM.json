@@ -1,6 +1,18 @@
 {
   "ticker": "AFRM",
-  "price": 68.8,
   "name": "Affirm Holdings, Inc.",
-  "last_updated": "2025-11-27T05:11:51Z"
+  "price": 68.8,
+  "market_cap": 22709067776,
+  "revenue_ttm": 3459269000.0,
+  "ocf_ttm": 971614000.0,
+  "capex_ttm": 202402000.0,
+  "sbc_ttm": 313053000.0,
+  "total_debt": 7958291000.0,
+  "cash_and_equivalents": 1428848000.0,
+  "shares_outstanding": 289362771,
+  "beta": 3.574,
+  "analyst_growth_estimate": 0,
+  "forward_eps": 0.47,
+  "sector_type": "SaaS",
+  "last_updated": "2025-11-27T06:54:59Z"
 }
