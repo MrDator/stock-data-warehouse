@@ -2,37 +2,38 @@ name: Update Stock Data
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
+    # 每天 UTC 时间 0:00 运行 (北京时间早上 8:00)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # 允许手动点击按钮触发
 
 jobs:
-  update-data:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Important: allows the action to push changes
-      
+      contents: write # 必须有写权限才能提交代码
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.9'
-          cache: 'pip'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Fetch Data
-        run: python fetch_data.py
+    - name: Run Data Fetcher
+      run: python fetch_data.py
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data/*.json
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update stock data" && git push)
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        # 强制添加 data 目录下的所有文件（包含新的 _manifest.json）
+        git add data/
+        # 如果有变动才提交，防止报错
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Stock Data & Manifest" && git push)
