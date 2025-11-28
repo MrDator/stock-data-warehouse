@@ -11,10 +11,10 @@
   "total_debt": 42506600000.0,
   "cash_and_equivalents": 9791900000.0,
   "shares_outstanding": 895018757,
-  "beta": 0.389,
-  "analyst_growth_estimate": 45.0,
+  "beta": 1.0,
+  "analyst_growth_estimate": 20.0,
   "forward_eps": 22.66,
-  "sector_type": "BioTech",
+  "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T01:54:05Z"
+  "last_updated": "2025-11-28T02:33:58Z"
 }
