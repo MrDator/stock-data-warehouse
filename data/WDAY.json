@@ -3,13 +3,13 @@
   "name": "Workday, Inc.",
   "price": 215.34,
   "market_cap": 57495777280,
-  "revenue_ttm": 6799000000.0,
-  "ocf_ttm": 2591000000.0,
-  "capex_ttm": 199000000.0,
-  "sbc_ttm": 1616000000.0,
-  "buyback_ttm": 850000000.0,
-  "total_debt": 3776000000.0,
-  "cash_and_equivalents": 1264000000.0,
+  "revenue_ttm": 9231000000.0,
+  "ocf_ttm": 2773000000.0,
+  "capex_ttm": 188000000.0,
+  "sbc_ttm": 1624000000.0,
+  "buyback_ttm": 1494000000.0,
+  "total_debt": 3793000000.0,
+  "cash_and_equivalents": 2609000000.0,
   "shares_outstanding": 213000000,
   "beta": 1.142,
   "analyst_growth_estimate": 12.6,
@@ -17,5 +17,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T06:29:03Z"
+  "last_updated": "2025-11-28T07:52:45Z"
 }

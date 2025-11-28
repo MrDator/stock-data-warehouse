@@ -3,13 +3,13 @@
   "name": "Lowe's Companies, Inc.",
   "price": 241.61,
   "market_cap": 135531487232,
-  "revenue_ttm": 63443000000.0,
-  "ocf_ttm": 9820000000.0,
-  "capex_ttm": 2132000000.0,
-  "sbc_ttm": 228000000.0,
-  "buyback_ttm": 2236000000.0,
-  "total_debt": 39060000000.0,
-  "cash_and_equivalents": 4860000000.0,
+  "revenue_ttm": 84256000000.0,
+  "ocf_ttm": 9208000000.0,
+  "capex_ttm": 2158000000.0,
+  "sbc_ttm": 234000000.0,
+  "buyback_ttm": 1583000000.0,
+  "total_debt": 44696000000.0,
+  "cash_and_equivalents": 621000000.0,
   "shares_outstanding": 560951457,
   "beta": 0.957,
   "analyst_growth_estimate": 3.2,
@@ -17,5 +17,5 @@
   "dividend_yield": 199.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T06:29:39Z"
+  "last_updated": "2025-11-28T07:53:23Z"
 }
