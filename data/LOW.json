@@ -2,7 +2,7 @@
   "ticker": "LOW",
   "name": "Lowe's Companies, Inc.",
   "price": 241.61,
-  "market_cap": 135500906496,
+  "market_cap": 135531487232,
   "revenue_ttm": 63443000000.0,
   "ocf_ttm": 9820000000.0,
   "capex_ttm": 2132000000.0,
@@ -10,10 +10,11 @@
   "buyback_ttm": 2236000000.0,
   "total_debt": 39060000000.0,
   "cash_and_equivalents": 4860000000.0,
-  "shares_outstanding": 560824905,
+  "shares_outstanding": 560951457,
   "beta": 0.957,
   "analyst_growth_estimate": 3.2,
   "forward_eps": 12.63,
   "sector_type": "General",
-  "last_updated": "2025-11-27T18:27:02Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:52:26Z"
 }

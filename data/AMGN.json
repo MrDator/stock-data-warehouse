@@ -7,7 +7,7 @@
   "ocf_ttm": 13126000000.0,
   "capex_ttm": 1587000000.0,
   "sbc_ttm": 503000000.0,
-  "buyback_ttm": 0,
+  "buyback_ttm": 0.0,
   "total_debt": 54587000000.0,
   "cash_and_equivalents": 9445000000.0,
   "shares_outstanding": 538480671,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 12.4,
   "forward_eps": 20.67,
   "sector_type": "BioTech",
-  "last_updated": "2025-11-27T18:25:48Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:50:30Z"
 }

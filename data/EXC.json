@@ -6,8 +6,8 @@
   "revenue_ttm": 24317000000.0,
   "ocf_ttm": 6436000000.0,
   "capex_ttm": 8031000000.0,
-  "sbc_ttm": 0,
-  "buyback_ttm": 0,
+  "sbc_ttm": 0.0,
+  "buyback_ttm": 0.0,
   "total_debt": 49921000000.0,
   "cash_and_equivalents": 1533000000.0,
   "shares_outstanding": 1008290316,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 9.0,
   "forward_eps": 2.63,
   "sector_type": "General",
-  "last_updated": "2025-11-27T18:28:41Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:53:48Z"
 }

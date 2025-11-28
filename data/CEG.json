@@ -6,7 +6,7 @@
   "revenue_ttm": 24841000000.0,
   "ocf_ttm": 2416000000.0,
   "capex_ttm": 2692000000.0,
-  "sbc_ttm": 0,
+  "sbc_ttm": 0.0,
   "buyback_ttm": 400000000.0,
   "total_debt": 9037000000.0,
   "cash_and_equivalents": 3959000000.0,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 0.3,
   "forward_eps": 8.95,
   "sector_type": "General",
-  "last_updated": "2025-11-27T18:25:34Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:51:14Z"
 }

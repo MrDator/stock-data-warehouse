@@ -7,7 +7,7 @@
   "ocf_ttm": 8574000000.0,
   "capex_ttm": 16992000000.0,
   "sbc_ttm": 2547000000.0,
-  "buyback_ttm": 0,
+  "buyback_ttm": 0.0,
   "total_debt": 46553000000.0,
   "cash_and_equivalents": 11141000000.0,
   "shares_outstanding": 4770000000,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 2.8,
   "forward_eps": 0.97,
   "sector_type": "Semiconductor",
-  "last_updated": "2025-11-27T18:27:21Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:54:59Z"
 }

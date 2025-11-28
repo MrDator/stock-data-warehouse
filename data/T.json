@@ -1,0 +1,20 @@
+{
+  "ticker": "T",
+  "name": "AT&T Inc.",
+  "price": 25.82,
+  "market_cap": 183049584640,
+  "revenue_ttm": 124480000000.0,
+  "ocf_ttm": 40860000000.0,
+  "capex_ttm": 20904000000.0,
+  "sbc_ttm": 0.0,
+  "buyback_ttm": 4757000000.0,
+  "total_debt": 158493000000.0,
+  "cash_and_equivalents": 20272000000.0,
+  "shares_outstanding": 7089449495,
+  "beta": 0.598,
+  "analyst_growth_estimate": 1.6,
+  "forward_eps": 2.24,
+  "sector_type": "General",
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:49:07Z"
+}

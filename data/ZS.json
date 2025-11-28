@@ -7,7 +7,7 @@
   "ocf_ttm": 1089398000.0,
   "capex_ttm": 241290000.0,
   "sbc_ttm": 692765000.0,
-  "buyback_ttm": 0,
+  "buyback_ttm": 0.0,
   "total_debt": 1834041000.0,
   "cash_and_equivalents": 1338195000.0,
   "shares_outstanding": 159471208,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 25.5,
   "forward_eps": 3.56,
   "sector_type": "SaaS",
-  "last_updated": "2025-11-27T18:27:11Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:51:35Z"
 }

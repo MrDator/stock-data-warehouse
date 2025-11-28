@@ -1,0 +1,20 @@
+{
+  "ticker": "USB",
+  "name": "U.S. Bancorp",
+  "price": 48.95,
+  "market_cap": 76175474688,
+  "revenue_ttm": 28182000000.0,
+  "ocf_ttm": 9900000000.0,
+  "capex_ttm": 0.0,
+  "sbc_ttm": 0.0,
+  "buyback_ttm": 489000000.0,
+  "total_debt": 77984000000.0,
+  "cash_and_equivalents": 66637000000.0,
+  "shares_outstanding": 1554434067,
+  "beta": 1.115,
+  "analyst_growth_estimate": 7.2,
+  "forward_eps": 4.33,
+  "sector_type": "Financial",
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:50:50Z"
+}

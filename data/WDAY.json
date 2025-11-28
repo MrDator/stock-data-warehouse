@@ -10,10 +10,11 @@
   "buyback_ttm": 850000000.0,
   "total_debt": 3776000000.0,
   "cash_and_equivalents": 1264000000.0,
-  "shares_outstanding": 217000000,
+  "shares_outstanding": 213000000,
   "beta": 1.142,
   "analyst_growth_estimate": 12.6,
   "forward_eps": 8.3,
   "sector_type": "SaaS",
-  "last_updated": "2025-11-27T18:26:48Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:52:40Z"
 }

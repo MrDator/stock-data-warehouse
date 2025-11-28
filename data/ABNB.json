@@ -5,7 +5,7 @@
   "market_cap": 71472390144,
   "revenue_ttm": 11943000000.0,
   "ocf_ttm": 4586000000.0,
-  "capex_ttm": 0,
+  "capex_ttm": 0.0,
   "sbc_ttm": 1549000000.0,
   "buyback_ttm": 3532000000.0,
   "total_debt": 2278000000.0,
@@ -15,5 +15,6 @@
   "analyst_growth_estimate": 9.7,
   "forward_eps": 4.5,
   "sector_type": "General",
-  "last_updated": "2025-11-27T18:28:24Z"
+  "currency_code": "USD",
+  "last_updated": "2025-11-28T01:49:22Z"
 }
