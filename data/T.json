@@ -1,8 +1,8 @@
 {
   "ticker": "T",
   "name": "AT&T Inc.",
-  "price": 25.82,
-  "market_cap": 183049584640,
+  "price": 25.905,
+  "market_cap": 183652188160,
   "revenue_ttm": 124480000000.0,
   "ocf_ttm": 40860000000.0,
   "capex_ttm": 20904000000.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 430.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T12:40:37Z"
+  "last_updated": "2025-11-28T18:25:20Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "V",
   "name": "Visa Inc.",
-  "price": 333.79,
-  "market_cap": 647867006976,
+  "price": 334.045,
+  "market_cap": 648362000384,
   "revenue_ttm": 40000000000.0,
   "ocf_ttm": 23059000000.0,
   "capex_ttm": 1482000000.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 80.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T12:40:34Z"
+  "last_updated": "2025-11-28T18:30:00Z"
 }
