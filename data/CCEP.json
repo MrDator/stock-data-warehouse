@@ -8,13 +8,14 @@
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 13920500637.385561,
-  "cash_and_equivalents": 1922586626.4920616,
+  "total_debt": 13922114047.287899,
+  "cash_and_equivalents": 1922809457.5799723,
   "shares_outstanding": 449567511,
   "beta": 1.0,
   "analyst_growth_estimate": 4.5,
   "forward_eps": 4.55,
+  "dividend_yield": 258.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T02:36:24Z"
+  "last_updated": "2025-11-28T05:51:35Z"
 }
