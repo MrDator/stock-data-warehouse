@@ -3,13 +3,13 @@
   "name": "Exxon Mobil Corporation",
   "price": 114.77,
   "market_cap": 489292857344,
-  "revenue_ttm": 241593000000.0,
-  "ocf_ttm": 54301000000.0,
-  "capex_ttm": 25178000000.0,
+  "revenue_ttm": 324924000000.0,
+  "ocf_ttm": 51520000000.0,
+  "capex_ttm": 27745000000.0,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 21060000000.0,
-  "total_debt": 38989000000.0,
-  "cash_and_equivalents": 14352000000.0,
+  "buyback_ttm": 20674000000.0,
+  "total_debt": 42036000000.0,
+  "cash_and_equivalents": 13814000000.0,
   "shares_outstanding": 4217165614,
   "beta": 1.0,
   "analyst_growth_estimate": -2.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 359.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T05:49:49Z"
+  "last_updated": "2025-11-28T06:31:48Z"
 }

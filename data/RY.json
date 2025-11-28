@@ -3,13 +3,13 @@
   "name": "Royal Bank Of Canada",
   "price": 153.19,
   "market_cap": 216044863488,
-  "revenue_ttm": 45870193882.929474,
-  "ocf_ttm": 62090260267.5328,
-  "capex_ttm": 1684544923.5722325,
+  "revenue_ttm": 45871500819.14667,
+  "ocf_ttm": 62092029346.81958,
+  "capex_ttm": 1684592919.723627,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 8446942177.016112,
-  "total_debt": 372792996851.71735,
-  "cash_and_equivalents": 76749006367.7935,
+  "buyback_ttm": 8447182847.781181,
+  "total_debt": 372803618491.3456,
+  "cash_and_equivalents": 76751193104.92201,
   "shares_outstanding": 1410306580,
   "beta": 1.008,
   "analyst_growth_estimate": 15.3,
@@ -17,5 +17,5 @@
   "dividend_yield": 285.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T05:48:21Z"
+  "last_updated": "2025-11-28T06:33:11Z"
 }
