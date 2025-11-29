@@ -9,13 +9,13 @@
   "sbc_ttm": 886000000.0,
   "buyback_ttm": 2042000000.0,
   "total_debt": 24941000000.0,
-  "cash_and_equivalents": 7330000000.0,
+  "cash_and_equivalents": 7349000000.0,
   "shares_outstanding": 1240679623,
-  "beta": 0.8,
+  "beta": 1.2,
   "analyst_growth_estimate": 3.0,
   "forward_eps": 7.43,
   "dividend_yield": 248.0,
-  "sector_type": "General",
+  "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T18:29:20Z"
+  "last_updated": "2025-11-29T00:29:08Z"
 }

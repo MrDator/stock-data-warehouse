@@ -9,7 +9,7 @@
   "sbc_ttm": 448519000.0,
   "buyback_ttm": 1043438000.0,
   "total_debt": 2479142000.0,
-  "cash_and_equivalents": 2753246000.0,
+  "cash_and_equivalents": NaN,
   "shares_outstanding": 272201000,
   "beta": 1.04,
   "analyst_growth_estimate": 10.1,
@@ -17,5 +17,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T18:26:25Z"
+  "last_updated": "2025-11-29T00:24:39Z"
 }

@@ -9,7 +9,7 @@
   "sbc_ttm": 360601000.0,
   "buyback_ttm": 3401034000.0,
   "total_debt": 4483943000.0,
-  "cash_and_equivalents": 6693046000.0,
+  "cash_and_equivalents": NaN,
   "shares_outstanding": 1256030000,
   "beta": 1.78,
   "analyst_growth_estimate": 27.7,
@@ -17,5 +17,5 @@
   "dividend_yield": 67.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T18:25:04Z"
+  "last_updated": "2025-11-29T00:28:53Z"
 }

@@ -1,15 +1,15 @@
 {
   "ticker": "SNOW",
   "name": "Snowflake Inc.",
-  "price": 250.485,
-  "market_cap": 84864319488,
+  "price": 251.24,
+  "market_cap": 85120114688,
   "revenue_ttm": 4115907000.0,
   "ocf_ttm": 837700000.0,
   "capex_ttm": 103719000.0,
   "sbc_ttm": 1575055000.0,
   "buyback_ttm": 1506642000.0,
   "total_debt": 2692329000.0,
-  "cash_and_equivalents": 1880720000.0,
+  "cash_and_equivalents": 3586708000.0,
   "shares_outstanding": 338800000,
   "beta": 1.08,
   "analyst_growth_estimate": 31.8,
@@ -17,5 +17,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-11-28T18:29:02Z"
+  "last_updated": "2025-11-29T00:25:01Z"
 }
