@@ -3,13 +3,13 @@
   "name": "Toronto Dominion Bank (The)",
   "price": 83.93,
   "market_cap": 144782131200,
-  "revenue_ttm": 43032992199.241394,
-  "ocf_ttm": 13927574608.172905,
-  "capex_ttm": 1589494024.1895084,
+  "revenue_ttm": 43045314625.24161,
+  "ocf_ttm": 13931562746.080606,
+  "capex_ttm": 1589949173.1691604,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 13943319258.570099,
-  "total_debt": 301482144135.11774,
-  "cash_and_equivalents": 175524940957.561,
+  "buyback_ttm": 13947311904.93235,
+  "total_debt": 301568473047.4622,
+  "cash_and_equivalents": 175575202233.51706,
   "shares_outstanding": 1707204000,
   "beta": 0.9,
   "analyst_growth_estimate": 9.3,
@@ -17,5 +17,5 @@
   "dividend_yield": 358.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-11-30T12:35:49Z"
+  "last_updated": "2025-11-30T18:28:13Z"
 }
