@@ -3,13 +3,13 @@
   "name": "Bank Of Montreal",
   "price": 126.13,
   "market_cap": 91215364096,
-  "revenue_ttm": 25172907567.838474,
-  "ocf_ttm": 1560821937.4239278,
-  "capex_ttm": 1189947733.9442973,
+  "revenue_ttm": 25137092565.185997,
+  "ocf_ttm": 1558601262.6100137,
+  "capex_ttm": 1188254724.0632305,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 1956039235.3404453,
-  "total_debt": 191338870194.02878,
-  "cash_and_equivalents": 121152717118.92317,
+  "buyback_ttm": 1953256261.215852,
+  "total_debt": 191066640928.29718,
+  "cash_and_equivalents": 120980345895.08754,
   "shares_outstanding": 716306770,
   "beta": 1.24,
   "analyst_growth_estimate": 12.4,
@@ -17,5 +17,5 @@
   "dividend_yield": 367.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-12-01T01:46:03Z"
+  "last_updated": "2025-12-01T06:32:24Z"
 }
