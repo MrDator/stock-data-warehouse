@@ -1,15 +1,15 @@
 {
   "ticker": "BMO",
   "name": "Bank Of Montreal",
-  "price": 126.13,
-  "market_cap": 91215364096,
-  "revenue_ttm": 25180479559.973644,
-  "ocf_ttm": 1561291431.5180337,
-  "capex_ttm": 1190305669.349987,
+  "price": 124.7,
+  "market_cap": 90181214208,
+  "revenue_ttm": 25127750659.300606,
+  "ocf_ttm": 1558022026.7150748,
+  "capex_ttm": 1187813123.1194744,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 1956627610.507921,
-  "total_debt": 191396424785.8596,
-  "cash_and_equivalents": 121189159767.3819,
+  "buyback_ttm": 1952530356.4154058,
+  "total_debt": 190995633250.19116,
+  "cash_and_equivalents": 120935384967.2315,
   "shares_outstanding": 716306770,
   "beta": 1.24,
   "analyst_growth_estimate": 12.4,
@@ -17,5 +17,5 @@
   "dividend_yield": 367.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-12-01T12:41:15Z"
+  "last_updated": "2025-12-01T18:34:51Z"
 }
