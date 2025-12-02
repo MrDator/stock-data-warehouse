@@ -1,15 +1,15 @@
 {
   "ticker": "TSM",
   "name": "Taiwan Semiconductor Manufactur",
-  "price": 287.68,
-  "market_cap": 1492053655552,
-  "revenue_ttm": 115683636392.5966,
-  "ocf_ttm": 69117650058.9341,
-  "capex_ttm": 40971546812.78074,
-  "sbc_ttm": 50333375.808352716,
-  "buyback_ttm": 732.694084291676,
-  "total_debt": 30238197317.702526,
-  "cash_and_equivalents": 89358545570.38643,
+  "price": 292.665,
+  "market_cap": 1517908393984,
+  "revenue_ttm": 115679951261.4679,
+  "ocf_ttm": 69115448298.92967,
+  "capex_ttm": 40970241653.92457,
+  "sbc_ttm": 50331772.42609582,
+  "buyback_ttm": 732.6707441386341,
+  "total_debt": 30237234072.37513,
+  "cash_and_equivalents": 89355699031.6004,
   "shares_outstanding": 5186504904,
   "beta": 1.26,
   "analyst_growth_estimate": 30.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 117.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-02T12:41:57Z"
+  "last_updated": "2025-12-02T18:29:14Z"
 }
