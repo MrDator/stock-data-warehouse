@@ -1,15 +1,15 @@
 {
   "ticker": "NVO",
   "name": "Novo Nordisk A/S",
-  "price": 48.88,
-  "market_cap": 217197281280,
-  "revenue_ttm": 49081137066.63681,
-  "ocf_ttm": 19250322305.73401,
-  "capex_ttm": 9771656690.351667,
+  "price": 48.43,
+  "market_cap": 215197712384,
+  "revenue_ttm": 49052073036.53692,
+  "ocf_ttm": 19238922978.40859,
+  "capex_ttm": 9765870277.46175,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 1380821525.8241153,
-  "total_debt": 15740338992.539925,
-  "cash_and_equivalents": 5067159339.557061,
+  "buyback_ttm": 1380003854.498884,
+  "total_debt": 15731018147.229422,
+  "cash_and_equivalents": 5064158755.618553,
   "shares_outstanding": 3368607341,
   "beta": 1.2,
   "analyst_growth_estimate": 5.1,
@@ -17,5 +17,5 @@
   "dividend_yield": 350.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2025-12-01T18:34:08Z"
+  "last_updated": "2025-12-02T01:23:35Z"
 }
