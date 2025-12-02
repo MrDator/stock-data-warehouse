@@ -3,13 +3,13 @@
   "name": "Novo Nordisk A/S",
   "price": 48.43,
   "market_cap": 215197712384,
-  "revenue_ttm": 49050700784.24425,
-  "ocf_ttm": 19238384761.47847,
-  "capex_ttm": 9765597073.149504,
+  "revenue_ttm": 49082587355.599655,
+  "ocf_ttm": 19250891129.75969,
+  "capex_ttm": 9771945431.132622,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 1379965248.3129268,
-  "total_debt": 15730578065.40653,
-  "cash_and_equivalents": 5064017083.6558275,
+  "buyback_ttm": 1380862327.450529,
+  "total_debt": 15740804100.752094,
+  "cash_and_equivalents": 5067309068.061785,
   "shares_outstanding": 3368607341,
   "beta": 1.2,
   "analyst_growth_estimate": 5.1,
@@ -17,5 +17,5 @@
   "dividend_yield": 357.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2025-12-02T06:37:51Z"
+  "last_updated": "2025-12-02T12:42:17Z"
 }
