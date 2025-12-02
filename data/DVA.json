@@ -1,0 +1,21 @@
+{
+  "ticker": "DVA",
+  "name": "DaVita Inc.",
+  "price": 119.24,
+  "market_cap": 8525659648,
+  "revenue_ttm": 13317965000.0,
+  "ocf_ttm": 1893401000.0,
+  "capex_ttm": 601091000.0,
+  "sbc_ttm": 128955000.0,
+  "buyback_ttm": 1717059000.0,
+  "total_debt": 12778330000.0,
+  "cash_and_equivalents": 736484000.0,
+  "shares_outstanding": 70600000,
+  "beta": 0.99,
+  "analyst_growth_estimate": 4.8,
+  "forward_eps": 11.27,
+  "dividend_yield": 0.0,
+  "sector_type": "General",
+  "currency_code": "USD",
+  "last_updated": "2025-12-02T06:35:05Z"
+}
