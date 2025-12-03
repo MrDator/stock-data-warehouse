@@ -3,13 +3,13 @@
   "name": "Enbridge Inc",
   "price": 48.11,
   "market_cap": 105249800192,
-  "revenue_ttm": 45994443489.71759,
-  "ocf_ttm": 9180414733.34479,
-  "capex_ttm": 6277567737.870195,
+  "revenue_ttm": 45989833178.20577,
+  "ocf_ttm": 9179494522.803751,
+  "capex_ttm": 6276938497.887878,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 74260325370.91138,
-  "cash_and_equivalents": 1008191556.3957151,
+  "total_debt": 74252881792.7973,
+  "cash_and_equivalents": 1008090499.033436,
   "shares_outstanding": 2181275613,
   "beta": 0.82,
   "analyst_growth_estimate": -1.6,
@@ -17,5 +17,5 @@
   "dividend_yield": 549.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2025-12-03T01:22:40Z"
+  "last_updated": "2025-12-03T06:32:22Z"
 }
