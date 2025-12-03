@@ -1,15 +1,15 @@
 {
   "ticker": "STNE",
   "name": "StoneCo Ltd.",
-  "price": 17.44,
-  "market_cap": 4665626112,
-  "revenue_ttm": 2565541231.3012104,
-  "ocf_ttm": -62838269.563256405,
-  "capex_ttm": 226029467.03751034,
-  "sbc_ttm": 61721040.36683454,
-  "buyback_ttm": 435023678.8694279,
-  "total_debt": 3036077952.341577,
-  "cash_and_equivalents": 1414329474.5546117,
+  "price": 16.57,
+  "market_cap": 4432879616,
+  "revenue_ttm": 2571775898.121809,
+  "ocf_ttm": -62990976.39545617,
+  "capex_ttm": 226578754.0267129,
+  "sbc_ttm": 61871032.1571878,
+  "buyback_ttm": 436080854.5108603,
+  "total_debt": 3043456097.0555544,
+  "cash_and_equivalents": 1417766516.5872314,
   "shares_outstanding": 245417777,
   "beta": 1.84,
   "analyst_growth_estimate": 16.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-03T12:41:19Z"
+  "last_updated": "2025-12-03T18:34:54Z"
 }

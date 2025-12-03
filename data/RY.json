@@ -1,15 +1,15 @@
 {
   "ticker": "RY",
   "name": "Royal Bank Of Canada",
-  "price": 154.43,
-  "market_cap": 217793626112,
-  "revenue_ttm": 46196611239.43702,
-  "ocf_ttm": 62532101404.57095,
-  "capex_ttm": 1696532330.9565141,
+  "price": 156.68,
+  "market_cap": 220966813696,
+  "revenue_ttm": 46186009151.28305,
+  "ocf_ttm": 62517750333.49112,
+  "capex_ttm": 1696142978.0397894,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 8507051548.758267,
-  "total_debt": 375445832914.8793,
-  "cash_and_equivalents": 315867778080.6588,
+  "buyback_ttm": 8505099186.711993,
+  "total_debt": 375359668373.56744,
+  "cash_and_equivalents": 315795286658.9211,
   "shares_outstanding": 1410306580,
   "beta": 1.01,
   "analyst_growth_estimate": 15.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 283.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-12-03T12:43:15Z"
+  "last_updated": "2025-12-03T18:32:44Z"
 }
