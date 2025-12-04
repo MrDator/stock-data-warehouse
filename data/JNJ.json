@@ -1,8 +1,8 @@
 {
   "ticker": "JNJ",
   "name": "Johnson & Johnson",
-  "price": 205.33,
-  "market_cap": 494700560384,
+  "price": 203.145,
+  "market_cap": 489436250112,
   "revenue_ttm": 92149000000.0,
   "ocf_ttm": 24204000000.0,
   "capex_ttm": 5525000000.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 253.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2025-12-04T12:42:02Z"
+  "last_updated": "2025-12-04T18:30:38Z"
 }
