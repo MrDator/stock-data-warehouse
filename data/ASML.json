@@ -1,15 +1,15 @@
 {
   "ticker": "ASML",
   "name": "ASML Holding N.V. - New York Re",
-  "price": 1135.7195,
-  "market_cap": 440826888192,
-  "revenue_ttm": 37608873321.657906,
-  "ocf_ttm": 13299824868.651487,
-  "capex_ttm": 2832107413.8937535,
-  "sbc_ttm": 216929363.68943372,
-  "buyback_ttm": 4962054874.4892,
-  "total_debt": 3157851722.124927,
-  "cash_and_equivalents": 5987390542.90718,
+  "price": 1140.92,
+  "market_cap": 442845462528,
+  "revenue_ttm": 37569395847.91229,
+  "ocf_ttm": 13285864240.727781,
+  "capex_ttm": 2829134592.9554467,
+  "sbc_ttm": 216701656.16981572,
+  "buyback_ttm": 4956846279.449498,
+  "total_debt": 3154536972.2416606,
+  "cash_and_equivalents": 5981105668.29951,
   "shares_outstanding": 388147674,
   "beta": 1.35,
   "analyst_growth_estimate": 0.7,
@@ -17,5 +17,5 @@
   "dividend_yield": 66.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-03T18:33:40Z"
+  "last_updated": "2025-12-04T01:24:25Z"
 }
