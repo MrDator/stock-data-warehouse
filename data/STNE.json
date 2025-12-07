@@ -3,13 +3,13 @@
   "name": "StoneCo Ltd.",
   "price": 14.68,
   "market_cap": 3927258624,
-  "revenue_ttm": 2498811707.209928,
-  "ocf_ttm": -61203851.152233995,
-  "capex_ttm": 220150458.51408488,
-  "sbc_ttm": 60115680.998663805,
-  "buyback_ttm": 423708747.46032614,
-  "total_debt": 2957109805.428953,
-  "cash_and_equivalents": 1377542877.015723,
+  "revenue_ttm": 2509975730.832874,
+  "ocf_ttm": -61477293.62015076,
+  "capex_ttm": 221134031.99117485,
+  "sbc_ttm": 60384261.81283324,
+  "buyback_ttm": 425601765.03033644,
+  "total_debt": 2970321382.6070967,
+  "cash_and_equivalents": 1383697370.840228,
   "shares_outstanding": 245417777,
   "beta": 1.85,
   "analyst_growth_estimate": 16.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-07T12:33:15Z"
+  "last_updated": "2025-12-07T18:28:39Z"
 }

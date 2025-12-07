@@ -3,13 +3,13 @@
   "name": "Salesforce, Inc.",
   "price": 260.57,
   "market_cap": 249104924672,
-  "revenue_ttm": 30058000000.0,
-  "ocf_ttm": 13169000000.0,
-  "capex_ttm": 672000000.0,
-  "sbc_ttm": 3230000000.0,
-  "buyback_ttm": 6219000000.0,
-  "total_debt": 11237000000.0,
-  "cash_and_equivalents": 15372000000.0,
+  "revenue_ttm": 40317000000.0,
+  "ocf_ttm": 13502000000.0,
+  "capex_ttm": 607000000.0,
+  "sbc_ttm": 3229000000.0,
+  "buyback_ttm": 8735000000.0,
+  "total_debt": 11139000000.0,
+  "cash_and_equivalents": 11323000000.0,
   "shares_outstanding": 952000000,
   "beta": 1.25,
   "analyst_growth_estimate": 8.6,
@@ -17,5 +17,5 @@
   "dividend_yield": 64.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-07T12:34:35Z"
+  "last_updated": "2025-12-07T18:28:27Z"
 }
