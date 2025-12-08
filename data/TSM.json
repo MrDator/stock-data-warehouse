@@ -3,13 +3,13 @@
   "name": "Taiwan Semiconductor Manufactur",
   "price": 294.72,
   "market_cap": 1528566644736,
-  "revenue_ttm": 116754815612.64186,
-  "ocf_ttm": 69757648876.31418,
-  "capex_ttm": 41350925184.06584,
-  "sbc_ttm": 50799440.56843391,
-  "buyback_ttm": 739.4785068964409,
-  "total_debt": 30518189628.01016,
-  "cash_and_equivalents": 90185966112.59364,
+  "revenue_ttm": 116829940160.2162,
+  "ocf_ttm": 69802533635.74945,
+  "capex_ttm": 41377531962.80926,
+  "sbc_ttm": 50832126.88607921,
+  "buyback_ttm": 739.9543158639772,
+  "total_debt": 30537826207.251553,
+  "cash_and_equivalents": 90243995238.55484,
   "shares_outstanding": 5186504904,
   "beta": 1.27,
   "analyst_growth_estimate": 30.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 114.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-08T06:36:07Z"
+  "last_updated": "2025-12-08T12:42:28Z"
 }
