@@ -1,8 +1,8 @@
 {
   "ticker": "TXN",
   "name": "Texas Instruments Incorporated",
-  "price": 180.94,
-  "market_cap": 164499275776,
+  "price": 180.25,
+  "market_cap": 163871965184,
   "revenue_ttm": 17266000000.0,
   "ocf_ttm": 6897000000.0,
   "capex_ttm": 4817000000.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 311.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-09T12:44:24Z"
+  "last_updated": "2025-12-09T18:25:37Z"
 }
