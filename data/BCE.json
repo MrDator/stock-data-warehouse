@@ -3,12 +3,12 @@
   "name": "BCE, Inc.",
   "price": 23.15,
   "market_cap": 21587972096,
-  "revenue_ttm": 17680698967.43447,
-  "ocf_ttm": 5277637374.539678,
-  "capex_ttm": 2418225142.609575,
+  "revenue_ttm": 17694881448.774742,
+  "ocf_ttm": 5281870804.095997,
+  "capex_ttm": 2420164909.415446,
   "sbc_ttm": 0.0,
-  "buyback_ttm": 114809733.55476929,
-  "total_debt": 29586973788.721207,
+  "buyback_ttm": 114901827.58944637,
+  "total_debt": 29610706826.902924,
   "cash_and_equivalents": NaN,
   "shares_outstanding": 932525817,
   "beta": 0.66,
@@ -17,5 +17,5 @@
   "dividend_yield": 527.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T06:30:53Z"
+  "last_updated": "2025-12-10T12:41:08Z"
 }
