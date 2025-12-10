@@ -1,8 +1,8 @@
 {
   "ticker": "KR",
   "name": "Kroger Company (The)",
-  "price": 62.9,
-  "market_cap": 40381800448,
+  "price": 62.02,
+  "market_cap": 39816839168,
   "revenue_ttm": 113366000000.0,
   "ocf_ttm": 6018000000.0,
   "capex_ttm": 3806000000.0,
@@ -14,8 +14,8 @@
   "beta": 0.58,
   "analyst_growth_estimate": 0.7,
   "forward_eps": 4.58,
-  "dividend_yield": 221.0,
+  "dividend_yield": 223.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T12:43:27Z"
+  "last_updated": "2025-12-10T18:32:24Z"
 }
