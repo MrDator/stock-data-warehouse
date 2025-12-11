@@ -1,8 +1,8 @@
 {
   "ticker": "ARM",
   "name": "Arm Holdings plc",
-  "price": 140.69,
-  "market_cap": 149271887872,
+  "price": 141.52,
+  "market_cap": 150152527872,
   "revenue_ttm": 4412000000.0,
   "ocf_ttm": 1580000000.0,
   "capex_ttm": 442000000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 1060998569,
   "beta": 2.5,
   "analyst_growth_estimate": 34.5,
-  "forward_eps": 2.06,
+  "forward_eps": 2.26749,
   "dividend_yield": 0.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T18:32:42Z"
+  "last_updated": "2025-12-11T01:29:07Z"
 }

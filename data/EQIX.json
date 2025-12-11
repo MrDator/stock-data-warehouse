@@ -1,8 +1,8 @@
 {
   "ticker": "EQIX",
   "name": "Equinix, Inc.",
-  "price": 737.59,
-  "market_cap": 72421072896,
+  "price": 734.4,
+  "market_cap": 72107859968,
   "revenue_ttm": 9058000000.0,
   "ocf_ttm": 3748000000.0,
   "capex_ttm": 3862000000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 98186078,
   "beta": 1.04,
   "analyst_growth_estimate": 6.6,
-  "forward_eps": 13.38,
+  "forward_eps": 15.20333,
   "dividend_yield": 253.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T18:27:37Z"
+  "last_updated": "2025-12-11T01:29:23Z"
 }

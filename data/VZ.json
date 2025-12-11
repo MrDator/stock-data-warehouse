@@ -1,8 +1,8 @@
 {
   "ticker": "VZ",
   "name": "Verizon Communications Inc.",
-  "price": 39.85,
-  "market_cap": 168024555520,
+  "price": 39.92,
+  "market_cap": 168319696896,
   "revenue_ttm": 137491000000.0,
   "ocf_ttm": 38455000000.0,
   "capex_ttm": 17806000000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 4216425489,
   "beta": 0.8,
   "analyst_growth_estimate": 1.5,
-  "forward_eps": 4.73,
+  "forward_eps": 4.81667,
   "dividend_yield": 688.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T18:30:44Z"
+  "last_updated": "2025-12-11T01:28:58Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "ZM",
   "name": "Zoom Communications, Inc.",
-  "price": 88.06,
-  "market_cap": 26355421184,
+  "price": 88.05,
+  "market_cap": 26352431104,
   "revenue_ttm": 4805915000.0,
   "ocf_ttm": 2059093000.0,
   "capex_ttm": 57719000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 265569716,
   "beta": 0.81,
   "analyst_growth_estimate": 4.4,
-  "forward_eps": 5.29,
+  "forward_eps": 6.04987,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T18:34:11Z"
+  "last_updated": "2025-12-11T01:29:25Z"
 }

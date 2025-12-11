@@ -1,8 +1,8 @@
 {
   "ticker": "CRM",
   "name": "Salesforce, Inc.",
-  "price": 260.8916,
-  "market_cap": 248368807936,
+  "price": 264.2,
+  "market_cap": 251518418944,
   "revenue_ttm": 40317000000.0,
   "ocf_ttm": 13502000000.0,
   "capex_ttm": 607000000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 937000000,
   "beta": 1.25,
   "analyst_growth_estimate": 8.6,
-  "forward_eps": 11.13,
+  "forward_eps": 13.046,
   "dividend_yield": 64.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-10T18:30:36Z"
+  "last_updated": "2025-12-11T01:26:01Z"
 }
