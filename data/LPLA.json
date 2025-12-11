@@ -1,8 +1,8 @@
 {
   "ticker": "LPLA",
   "name": "LPL Financial Holdings Inc.",
-  "price": 386.99,
-  "market_cap": 30973759488,
+  "price": 388.63,
+  "market_cap": 31105021952,
   "revenue_ttm": 15569360000.0,
   "ocf_ttm": -1375193000.0,
   "capex_ttm": 564218000.0,
@@ -13,9 +13,9 @@
   "shares_outstanding": 80037622,
   "beta": 0.6,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 23.54778,
+  "forward_eps": 23.45551,
   "dividend_yield": 31.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-12-11T12:45:43Z"
+  "last_updated": "2025-12-11T18:28:11Z"
 }
