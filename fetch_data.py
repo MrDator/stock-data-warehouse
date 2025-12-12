@@ -138,10 +138,30 @@ def fetch_stock_data(ticker_symbol):
         except:
             time.sleep(1)
             info = stock.info
-        
-        price = info.get('currentPrice') or info.get('previousClose')
-        if not price: 
-            print(f"  -> Error: No price found for {yf_ticker}")
+        # 1. 价格 (USD)
+        price = (
+            info.get('currentPrice')
+            or info.get('regularMarketPrice')
+            or info.get('previousClose')
+        )
+        if not price or price <= 0:
+            try:
+                fi = getattr(stock, 'fast_info', None)
+                if fi and isinstance(fi, dict):
+                    price = fi.get('last_price') or price
+            except Exception:
+                pass
+        if not price or price <= 0:
+            try:
+                hist = stock.history(period="5d", interval="1d")
+                if hist is not None and not hist.empty and 'Close' in hist.columns:
+                    close_series = hist['Close'].dropna()
+                    if not close_series.empty:
+                        price = float(close_series.iloc[-1])
+            except Exception:
+                pass
+        if not price or price <= 0:
+            print(f"  -> Error: No price found for {ticker_symbol}")
             return None
 
         # 2. 汇率处理
@@ -189,7 +209,11 @@ def fetch_stock_data(ticker_symbol):
             for k in ['Cash And Cash Equivalents', 'Cash Financial']:
                 if k in recent_bs: cash_part = float(recent_bs[k]); break
             for k in ['Other Short Term Investments', 'Short Term Investments', 'Available For Sale Securities']:
-                if k in recent_bs: invest_part = float(recent_bs[k]); break if invest_part > 0 else None
+                if k in recent_bs:
+                    candidate = float(recent_bs[k])
+                    if candidate > 0:
+                        invest_part = candidate
+                        break
             raw_total_liquidity = cash_part + invest_part
             
             # Book Value
