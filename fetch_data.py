@@ -31,6 +31,7 @@ def get_ttm_value(quarterly_df, keys):
     row = safe_get_row(quarterly_df, keys)
     if row.empty:
         return 0
+    # 取最近 4 个季度
     recent_4 = row.iloc[:4]
     return float(recent_4.fillna(0).sum())
 
@@ -50,7 +51,7 @@ def get_exchange_rate(currency_code):
         return 1.0
 
 def determine_sector(info):
-    """基于行业关键词的自动分类器"""
+    """行业分类器"""
     sector = info.get('sector', '')
     industry = info.get('industry', '')
     
@@ -60,12 +61,12 @@ def determine_sector(info):
     if 'Biotechnology' in industry or 'Drug' in industry: return 'BioTech'
     if 'Bank' in industry or 'Financial' in sector or 'Insurance' in industry: return 'Financial'
     if 'Energy' in sector or 'Oil' in industry or 'Utilities' in sector: return 'Energy/Utility'
-    if 'Real Estate' in sector or 'REIT' in industry: return 'REIT' # 新增 REIT
+    if 'Real Estate' in sector or 'REIT' in industry: return 'REIT'
     
     return 'General'
 
 def calculate_sane_growth_rate(info, sector_type):
-    """智能增长率计算器"""
+    """智能增长率 (用于默认参考)"""
     market_cap = info.get('marketCap', 0)
     
     SECTOR_CONFIG = {
@@ -75,7 +76,6 @@ def calculate_sane_growth_rate(info, sector_type):
         'Financial':     {'max': 15.0, 'min': 0.0,  'cyclical': True},
         'REIT':          {'max': 10.0, 'min': 0.0,  'cyclical': False},
         'Energy/Utility':{'max': 10.0, 'min': -5.0, 'cyclical': True},
-        'Hardware':      {'max': 25.0, 'min': -5.0, 'cyclical': True},
         'General':       {'max': 20.0, 'min': -2.0, 'cyclical': False}
     }
     
@@ -108,14 +108,12 @@ def calculate_sane_growth_rate(info, sector_type):
     return round(final_growth, 2)
 
 def sanitize_beta(raw_beta, sector_type, market_cap):
-    """Beta 平滑器"""
+    """Beta 平滑修正 (PDD底 / NVDA顶)"""
     if raw_beta is None: return 1.0
     
     if raw_beta < 0.5:
-        if sector_type in ['SaaS', 'Semiconductor', 'BioTech']: 
-            return 1.2
-        else: 
-            return 0.8
+        if sector_type in ['SaaS', 'Semiconductor', 'BioTech']: return 1.2
+        else: return 0.8
 
     if market_cap > 1_000_000_000_000:
         if raw_beta > 1.35: return 1.35
@@ -158,17 +156,22 @@ def fetch_stock_data(ticker_symbol):
         q_income = stock.quarterly_income_stmt
         q_balance = stock.quarterly_balance_sheet
         
-        # 4. 损益与现金流 (除以汇率)
+        # 4. 损益与现金流
         revenue_ttm = get_ttm_value(q_income, ['Total Revenue', 'Operating Revenue']) / fx_rate
         ocf_ttm = get_ttm_value(q_cashflow, ['Operating Cash Flow', 'Total Cash From Operating Activities']) / fx_rate
         capex_ttm = abs(get_ttm_value(q_cashflow, ['Capital Expenditure', 'Capital Expenditures'])) / fx_rate
         sbc_ttm = get_ttm_value(q_cashflow, ['Stock Based Compensation', 'Issuance Of Stock']) / fx_rate
         buyback_ttm = abs(get_ttm_value(q_cashflow, ['Repurchase Of Capital Stock', 'Common Stock Repurchased'])) / fx_rate
+        
+        # [NEW] Net Income TTM (用于计算再投资率)
+        net_income_ttm = get_ttm_value(q_income, [
+            'Net Income', 'Net Income Common Stockholders', 'Net Income From Continuing And Discontinued Operation'
+        ]) / fx_rate
 
         # 5. 资产负债表 (Book Value & Liquidity)
         raw_debt = 0
         raw_total_liquidity = 0
-        raw_book_value = 0 # [NEW]
+        raw_book_value = 0
         shares = info.get('sharesOutstanding', 0)
         
         if not q_balance.empty:
@@ -180,34 +183,28 @@ def fetch_stock_data(ticker_symbol):
                     raw_debt = float(recent_bs[k])
                     break
             
-            # Liquidity (Cash + Invest)
+            # Liquidity (Cash + Short Term Invest)
             cash_part = 0
             invest_part = 0
             for k in ['Cash And Cash Equivalents', 'Cash Financial']:
-                if k in recent_bs:
-                    cash_part = float(recent_bs[k])
-                    break
+                if k in recent_bs: cash_part = float(recent_bs[k]); break
             for k in ['Other Short Term Investments', 'Short Term Investments', 'Available For Sale Securities']:
-                if k in recent_bs:
-                    invest_part = float(recent_bs[k])
-                    if invest_part > 0: break
+                if k in recent_bs: invest_part = float(recent_bs[k]); break if invest_part > 0 else None
             raw_total_liquidity = cash_part + invest_part
             
-            # [NEW] Book Value (Total Equity)
-            # 这就是"资产底"的核心
-            for k in ['Total Stockholder Equity', 'Total Equity Gross Minority', 'Stockholders Equity', 'Common Stock Equity']:
+            # Book Value
+            for k in ['Total Stockholder Equity', 'Total Equity Gross Minority', 'Stockholders Equity']:
                 if k in recent_bs:
                     raw_book_value = float(recent_bs[k])
                     break
 
-        # 如果资产负债表没抓到 Book Value，尝试用 info 里的数据兜底
+        # Fallback for Book Value
         if raw_book_value == 0:
-             # bookValue 是每股净资产
              raw_book_value = info.get('bookValue', 0) * shares
 
         total_debt = raw_debt / fx_rate
         cash = raw_total_liquidity / fx_rate
-        book_value_ttm = raw_book_value / fx_rate # [NEW]
+        book_value_ttm = raw_book_value / fx_rate
 
         # 6. 估值因子
         sector_type = determine_sector(info)
@@ -215,12 +212,9 @@ def fetch_stock_data(ticker_symbol):
         beta = sanitize_beta(info.get('beta'), sector_type, info.get('marketCap', 0))
         forward_eps = info.get('forwardEps', 0)
         
-        # [NEW] ROE (用于 RIM 模型)
-        # yfinance 通常返回小数 (0.15), 转为百分比 (15.0)
+        # ROE & Dividend
         raw_roe = info.get('returnOnEquity', 0)
         roe = raw_roe * 100 if raw_roe else 0.0
-
-        # Dividend
         raw_div_yield = info.get('dividendYield')
         dividend_yield = (raw_div_yield * 100) if raw_div_yield else 0.0
 
@@ -232,6 +226,7 @@ def fetch_stock_data(ticker_symbol):
             "market_cap": info.get('marketCap', 0),
             
             "revenue_ttm": revenue_ttm,
+            "net_income_ttm": net_income_ttm, # [NEW]
             "ocf_ttm": ocf_ttm,
             "capex_ttm": capex_ttm,
             "sbc_ttm": sbc_ttm,
@@ -239,13 +234,11 @@ def fetch_stock_data(ticker_symbol):
             
             "total_debt": total_debt,
             "cash_and_equivalents": cash,
+            "book_value_ttm": book_value_ttm, # [NEW]
             "shares_outstanding": shares,
             
-            # [NEW] Balance Sheet Quality
-            "book_value_ttm": book_value_ttm,
-            "roe": round(roe, 2),
-
             "beta": beta,
+            "roe": round(roe, 2), # [NEW]
             "analyst_growth_estimate": growth_rate,
             "forward_eps": forward_eps,
             "dividend_yield": round(dividend_yield, 2),
@@ -266,9 +259,9 @@ def load_tickers_from_lists():
     list_map = {}
     
     if not os.path.exists(LISTS_DIR) or not glob.glob(os.path.join(LISTS_DIR, "*.txt")):
-        print("No lists found. Creating sample...")
+        print("Creating sample...")
         with open(os.path.join(LISTS_DIR, "sample.txt"), "w") as f:
-            f.write("AAPL\nBRK.B\nJPM\nO\n")
+            f.write("AAPL\nBRK.B\n")
     
     file_paths = glob.glob(os.path.join(LISTS_DIR, "*.txt"))
     for file_path in file_paths:
@@ -277,12 +270,12 @@ def load_tickers_from_lists():
             tickers = [line.strip().upper() for line in f if line.strip()]
         list_map[list_name] = tickers 
         unique_tickers.update(tickers)
-        print(f"List loaded: {list_name} ({len(tickers)} stocks)")
+        print(f"List loaded: {list_name}")
 
     return unique_tickers, list_map
 
 def main():
-    print("--- Starting Hybrid Data Pipeline (v4) ---")
+    print("--- Starting Hybrid Valuation Data Pipeline (v5) ---")
     unique_tickers, list_map = load_tickers_from_lists()
     
     success_count = 0
