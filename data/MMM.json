@@ -1,8 +1,8 @@
 {
   "ticker": "MMM",
   "name": "3M Company",
-  "price": 169.655,
-  "market_cap": 90363289600,
+  "price": 168.6,
+  "market_cap": 89801367552,
   "revenue_ttm": 24825000000.0,
   "ocf_ttm": 2541000000.0,
   "capex_ttm": 953000000.0,
@@ -17,5 +17,5 @@
   "dividend_yield": 176.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-11T18:27:03Z"
+  "last_updated": "2025-12-12T01:25:49Z"
 }
