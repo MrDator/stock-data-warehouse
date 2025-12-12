@@ -11,11 +11,13 @@
   "total_debt": 3911856000.0,
   "cash_and_equivalents": 34560000.0,
   "shares_outstanding": 18745070,
+  "book_value_ttm": -40900000.0,
+  "roe": 0.0,
   "beta": 2.1,
   "analyst_growth_estimate": 8.4,
   "forward_eps": 12.732,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-12T01:26:29Z"
+  "last_updated": "2025-12-12T03:12:23Z"
 }

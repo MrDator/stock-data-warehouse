@@ -11,11 +11,13 @@
   "total_debt": 60556000000.0,
   "cash_and_equivalents": 102005000000.0,
   "shares_outstanding": 7432377655,
+  "book_value_ttm": 363076000000.0,
+  "roe": 32.24,
   "beta": 1.07,
   "analyst_growth_estimate": 18.4,
   "forward_eps": 18.72625,
   "dividend_yield": 76.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2025-12-12T01:28:14Z"
+  "last_updated": "2025-12-12T03:14:37Z"
 }

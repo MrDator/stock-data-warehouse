@@ -11,11 +11,13 @@
   "total_debt": 10481000000.0,
   "cash_and_equivalents": 60608000000.0,
   "shares_outstanding": 24305000000,
+  "book_value_ttm": 118897000000.0,
+  "roe": 107.36,
   "beta": 1.35,
   "analyst_growth_estimate": 30.0,
   "forward_eps": 7.46382,
   "dividend_yield": 2.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2025-12-12T01:26:57Z"
+  "last_updated": "2025-12-12T03:11:43Z"
 }

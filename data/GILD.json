@@ -11,11 +11,13 @@
   "total_debt": 24941000000.0,
   "cash_and_equivalents": 7349000000.0,
   "shares_outstanding": 1240679623,
+  "book_value_ttm": 21540000000.0,
+  "roe": 40.71,
   "beta": 1.2,
   "analyst_growth_estimate": 3.0,
   "forward_eps": 8.71656,
   "dividend_yield": 260.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2025-12-12T01:23:33Z"
+  "last_updated": "2025-12-12T03:15:56Z"
 }
