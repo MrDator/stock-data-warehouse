@@ -1,17 +1,17 @@
 {
   "ticker": "JD",
   "name": "JD.com, Inc.",
-  "price": 29.44,
-  "market_cap": 43435954176,
-  "revenue_ttm": 185026183211.52344,
-  "net_income_ttm": 4569360675.512666,
-  "ocf_ttm": 3264457532.1081386,
-  "capex_ttm": 329667210.6719648,
+  "price": 28.96,
+  "market_cap": 42727759872,
+  "revenue_ttm": 185020931783.67178,
+  "net_income_ttm": 4569230987.554458,
+  "ocf_ttm": 3264364880.0147586,
+  "capex_ttm": 329657854.03096485,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 15907046051.231108,
-  "cash_and_equivalents": 28137656992.83332,
-  "book_value_ttm": 32914638473.000782,
+  "total_debt": 15906594576.184597,
+  "cash_and_equivalents": 28136858387.61406,
+  "book_value_ttm": 32913704287.113113,
   "shares_outstanding": 1419000000,
   "beta": 0.8,
   "roe": 11.72,
@@ -20,5 +20,5 @@
   "dividend_yield": 340.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-15T12:41:29Z"
+  "last_updated": "2025-12-15T18:29:40Z"
 }
