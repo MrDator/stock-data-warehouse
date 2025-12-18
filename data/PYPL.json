@@ -1,8 +1,8 @@
 {
   "ticker": "PYPL",
   "name": "PayPal Holdings, Inc.",
-  "price": 60.18,
-  "market_cap": 57494675456,
+  "price": 59.782,
+  "market_cap": 57114435584,
   "revenue_ttm": 32862000000.0,
   "net_income_ttm": 4917000000.0,
   "ocf_ttm": 6426000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.44,
   "roe": 24.36,
   "analyst_growth_estimate": 7.3,
-  "forward_eps": 5.81188,
+  "forward_eps": 5.81443,
   "dividend_yield": 93.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2025-12-18T12:41:23Z"
+  "last_updated": "2025-12-18T18:30:38Z"
 }
