@@ -1,8 +1,8 @@
 {
   "ticker": "AEP",
   "name": "American Electric Power Company",
-  "price": 115.63,
-  "market_cap": 61892759552,
+  "price": 115.58,
+  "market_cap": 61866000384,
   "revenue_ttm": 21257000000.0,
   "net_income_ttm": 3662100000.0,
   "ocf_ttm": 6858200000.0,
@@ -16,9 +16,9 @@
   "beta": 0.6,
   "roe": 12.92,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 6.31677,
+  "forward_eps": 6.31737,
   "dividend_yield": 331.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2025-12-18T18:29:44Z"
+  "last_updated": "2025-12-19T01:25:51Z"
 }
