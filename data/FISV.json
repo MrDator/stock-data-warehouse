@@ -1,8 +1,8 @@
 {
   "ticker": "FISV",
   "name": "Fiserv, Inc.",
-  "price": 67.5,
-  "market_cap": 36692537344,
+  "price": 67.0,
+  "market_cap": 36420743168,
   "revenue_ttm": 21160000000.0,
   "net_income_ttm": 3607000000.0,
   "ocf_ttm": 6339000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2025-12-29T12:43:25Z"
+  "last_updated": "2025-12-29T18:31:41Z"
 }
