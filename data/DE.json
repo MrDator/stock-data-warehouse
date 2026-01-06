@@ -1,8 +1,8 @@
 {
   "ticker": "DE",
   "name": "Deere & Company",
-  "price": 465.03,
-  "market_cap": 125765238784,
+  "price": 466.1,
+  "market_cap": 126054621184,
   "revenue_ttm": 44664000000.0,
   "net_income_ttm": 5027000000.0,
   "ocf_ttm": 7459000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.01,
   "roe": 20.43,
   "analyst_growth_estimate": 12.6,
-  "forward_eps": 22.61683,
+  "forward_eps": 22.5054,
   "dividend_yield": 139.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-01-05T18:30:35Z"
+  "last_updated": "2026-01-06T01:29:33Z"
 }
