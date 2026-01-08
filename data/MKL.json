@@ -1,8 +1,8 @@
 {
   "ticker": "MKL",
   "name": "Markel Group Inc.",
-  "price": 2150.365,
-  "market_cap": 27206420480,
+  "price": 2145.39,
+  "market_cap": 27143475200,
   "revenue_ttm": 16145883000.0,
   "net_income_ttm": 2079376000.0,
   "ocf_ttm": 2593008000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 11.76,
   "analyst_growth_estimate": 3.0,
-  "forward_eps": 113.186,
+  "forward_eps": 113.156,
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-01-07T18:34:45Z"
+  "last_updated": "2026-01-08T01:30:43Z"
 }

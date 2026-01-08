@@ -1,8 +1,8 @@
 {
   "ticker": "NEE",
   "name": "NextEra Energy, Inc.",
-  "price": 78.87,
-  "market_cap": 164255432704,
+  "price": 78.37,
+  "market_cap": 163214131200,
   "revenue_ttm": 26298000000.0,
   "net_income_ttm": 6502000000.0,
   "ocf_ttm": 11967000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.73,
   "roe": 8.24,
   "analyst_growth_estimate": 5.3,
-  "forward_eps": 4.00821,
+  "forward_eps": 4.01212,
   "dividend_yield": 280.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-01-07T18:32:20Z"
+  "last_updated": "2026-01-08T01:31:18Z"
 }
