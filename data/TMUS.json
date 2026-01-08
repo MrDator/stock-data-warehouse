@@ -1,8 +1,8 @@
 {
   "ticker": "TMUS",
   "name": "T-Mobile US, Inc.",
-  "price": 197.29,
-  "market_cap": 222033903616,
+  "price": 197.595,
+  "market_cap": 222377164800,
   "revenue_ttm": 85847000000.0,
   "net_income_ttm": 11870000000.0,
   "ocf_ttm": 26845000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 19.03,
   "analyst_growth_estimate": 8.9,
-  "forward_eps": 12.28734,
+  "forward_eps": 12.31734,
   "dividend_yield": 207.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-01-08T12:46:52Z"
+  "last_updated": "2026-01-08T18:27:58Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "HUBS",
   "name": "HubSpot, Inc.",
-  "price": 398.22,
-  "market_cap": 20983451648,
+  "price": 375.0,
+  "market_cap": 19759917056,
   "revenue_ttm": 2987699000.0,
   "net_income_ttm": -3532000.0,
   "ocf_ttm": 707428000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-01-08T12:45:39Z"
+  "last_updated": "2026-01-08T18:31:31Z"
 }
