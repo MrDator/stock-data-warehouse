@@ -1,8 +1,8 @@
 {
   "ticker": "MCD",
   "name": "McDonald's Corporation",
-  "price": 308.88,
-  "market_cap": 220418129920,
+  "price": 307.09,
+  "market_cap": 219140784128,
   "revenue_ttm": 26263000000.0,
   "net_income_ttm": 8415000000.0,
   "ocf_ttm": 10485000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.53,
   "roe": 0.0,
   "analyst_growth_estimate": 3.0,
-  "forward_eps": 13.24267,
+  "forward_eps": 13.24484,
   "dividend_yield": 241.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-01-09T12:44:28Z"
+  "last_updated": "2026-01-09T18:34:13Z"
 }
