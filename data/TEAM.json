@@ -1,8 +1,8 @@
 {
   "ticker": "TEAM",
   "name": "Atlassian Corporation",
-  "price": 122.26,
-  "market_cap": 32182665216,
+  "price": 122.41,
+  "market_cap": 32222150656,
   "revenue_ttm": 5460076000.0,
   "net_income_ttm": -184788000.0,
   "ocf_ttm": 1508616000.0,
@@ -16,9 +16,9 @@
   "beta": 0.89,
   "roe": -15.35,
   "analyst_growth_estimate": 20.6,
-  "forward_eps": 5.63338,
+  "forward_eps": 5.63062,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-01-21T18:39:47Z"
+  "last_updated": "2026-01-22T01:30:37Z"
 }
