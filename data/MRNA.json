@@ -1,8 +1,8 @@
 {
   "ticker": "MRNA",
   "name": "Moderna, Inc.",
-  "price": 51.87,
-  "market_cap": 20267352064,
+  "price": 48.25,
+  "market_cap": 18852896768,
   "revenue_ttm": 2202000000.0,
   "net_income_ttm": -3116000000.0,
   "ocf_ttm": -1978000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.17,
   "roe": -29.32,
   "analyst_growth_estimate": 3.0,
-  "forward_eps": -6.93226,
+  "forward_eps": -6.96008,
   "dividend_yield": 0.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-01-23T12:42:00Z"
+  "last_updated": "2026-01-23T18:30:38Z"
 }
