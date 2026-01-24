@@ -1,8 +1,8 @@
 {
   "ticker": "BABA",
   "name": "Alibaba Group Holding Limited",
-  "price": 173.99,
-  "market_cap": 415370575872,
+  "price": 173.23,
+  "market_cap": 413556211712,
   "revenue_ttm": 145355901531.03726,
   "net_income_ttm": 17716657570.447823,
   "ocf_ttm": 18557148191.767445,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 11.19,
   "analyst_growth_estimate": 4.8,
-  "forward_eps": 8.897811,
+  "forward_eps": 8.884364,
   "dividend_yield": 59.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-01-23T18:30:56Z"
+  "last_updated": "2026-01-24T01:25:34Z"
 }
