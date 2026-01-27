@@ -1,17 +1,17 @@
 {
   "ticker": "PDD",
   "name": "PDD Holdings Inc.",
-  "price": 106.86,
-  "market_cap": 151703420928,
-  "revenue_ttm": 60184867635.851204,
-  "net_income_ttm": 14706024617.86233,
-  "ocf_ttm": 16157816602.67748,
+  "price": 106.48,
+  "market_cap": 151163961344,
+  "revenue_ttm": 60187464049.46793,
+  "net_income_ttm": 14706659045.15387,
+  "ocf_ttm": 16158513661.202187,
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 1534825791.2370763,
-  "cash_and_equivalents": 60936296535.95617,
-  "book_value_ttm": 56282152912.58646,
+  "total_debt": 1534892004.6016681,
+  "cash_and_equivalents": 60938925366.69543,
+  "book_value_ttm": 56284580960.59822,
   "shares_outstanding": 1419646462,
   "beta": 0.8,
   "roe": 30.53,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-01-27T12:46:14Z"
+  "last_updated": "2026-01-27T18:39:35Z"
 }
