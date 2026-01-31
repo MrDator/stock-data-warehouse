@@ -2,7 +2,7 @@
   "ticker": "XOM",
   "name": "Exxon Mobil Corporation",
   "price": 141.4,
-  "market_cap": 602823131136,
+  "market_cap": 596307214336,
   "revenue_ttm": 324924000000.0,
   "net_income_ttm": 29953000000.0,
   "ocf_ttm": 51520000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 42036000000.0,
   "cash_and_equivalents": 13814000000.0,
   "book_value_ttm": 260561000000.0,
-  "shares_outstanding": 4217165614,
+  "shares_outstanding": 4179000000,
   "beta": 0.8,
   "roe": 11.42,
   "analyst_growth_estimate": 3.0,
-  "forward_eps": 8.18587,
+  "forward_eps": 8.19903,
   "dividend_yield": 293.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-01-31T01:46:09Z"
+  "last_updated": "2026-01-31T06:39:24Z"
 }
