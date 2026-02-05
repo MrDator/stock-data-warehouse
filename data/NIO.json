@@ -3,15 +3,15 @@
   "name": "NIO Inc.",
   "price": 4.44,
   "market_cap": 11227246592,
-  "revenue_ttm": 10446980140.271038,
-  "net_income_ttm": -3287136541.0371995,
+  "revenue_ttm": 10450893374.249039,
+  "net_income_ttm": -3288367837.9507575,
   "ocf_ttm": 0.0,
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 3980655126.229532,
-  "cash_and_equivalents": 3471659057.8510017,
-  "book_value_ttm": 528499071.10042197,
+  "total_debt": 3982146201.610696,
+  "cash_and_equivalents": 3472959473.282333,
+  "book_value_ttm": 528697036.49277496,
   "shares_outstanding": 2370675188,
   "beta": 1.12,
   "roe": -160.03,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-02-05T01:55:42Z"
+  "last_updated": "2026-02-05T06:58:28Z"
 }
