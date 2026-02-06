@@ -1,8 +1,8 @@
 {
   "ticker": "UBER",
   "name": "Uber Technologies, Inc.",
-  "price": 76.265,
-  "market_cap": 159044452352,
+  "price": 75.21,
+  "market_cap": 156844326912,
   "revenue_ttm": 49610000000.0,
   "net_income_ttm": 16640000000.0,
   "ocf_ttm": 8966000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.0,
   "roe": 39.93,
   "analyst_growth_estimate": 20.1,
-  "forward_eps": 4.26963,
+  "forward_eps": 4.293,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-02-05T18:44:46Z"
+  "last_updated": "2026-02-06T01:51:46Z"
 }
