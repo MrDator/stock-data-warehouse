@@ -3,8 +3,8 @@
   "name": "Crown Castle Inc.",
   "price": 78.37,
   "market_cap": 34128490496,
-  "revenue_ttm": 4842000000.0,
-  "net_income_ttm": -4618000000.0,
+  "revenue_ttm": 3193000000.0,
+  "net_income_ttm": 150000000.0,
   "ocf_ttm": 3064000000.0,
   "capex_ttm": 399000000.0,
   "sbc_ttm": 78000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 542.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-02-06T06:53:29Z"
+  "last_updated": "2026-02-06T12:56:24Z"
 }
