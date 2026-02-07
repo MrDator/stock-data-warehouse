@@ -3,8 +3,8 @@
   "name": "Strategy Inc",
   "price": 134.93,
   "market_cap": 39041269760,
-  "revenue_ttm": 474942000.0,
-  "net_income_ttm": 7917690000.0,
+  "revenue_ttm": 354245000.0,
+  "net_income_ttm": 8588500000.0,
   "ocf_ttm": -62936000.0,
   "capex_ttm": 37492909000.0,
   "sbc_ttm": 62379000.0,
@@ -14,11 +14,11 @@
   "book_value_ttm": 58117048000.0,
   "shares_outstanding": 269704396,
   "beta": 2.5,
-  "roe": 25.59,
-  "analyst_growth_estimate": 10.9,
+  "roe": -11.11,
+  "analyst_growth_estimate": 1.9,
   "forward_eps": 68.88,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-02-07T06:41:05Z"
+  "last_updated": "2026-02-07T12:45:20Z"
 }
