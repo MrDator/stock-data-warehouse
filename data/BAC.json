@@ -1,8 +1,8 @@
 {
   "ticker": "BAC",
   "name": "Bank of America Corporation",
-  "price": 56.795,
-  "market_cap": 414745231360,
+  "price": 56.53,
+  "market_cap": 412810084352,
   "revenue_ttm": 81917000000.0,
   "net_income_ttm": 22981000000.0,
   "ocf_ttm": 61472000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 200.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-02-06T18:47:39Z"
+  "last_updated": "2026-02-07T01:48:50Z"
 }
