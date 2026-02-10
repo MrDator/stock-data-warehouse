@@ -1,8 +1,8 @@
 {
   "ticker": "C",
   "name": "Citigroup, Inc.",
-  "price": 122.69,
-  "market_cap": 219525070848,
+  "price": 123.77,
+  "market_cap": 221457465344,
   "revenue_ttm": 65357000000.0,
   "net_income_ttm": 11835000000.0,
   "ocf_ttm": -69391000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.14,
   "roe": 6.83,
   "analyst_growth_estimate": 3.7,
-  "forward_eps": 12.08125,
-  "dividend_yield": 196.0,
+  "forward_eps": 12.03333,
+  "dividend_yield": 194.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-02-09T13:07:17Z"
+  "last_updated": "2026-02-10T05:54:54Z"
 }
