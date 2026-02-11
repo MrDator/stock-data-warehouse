@@ -1,8 +1,8 @@
 {
   "ticker": "HOOD",
   "name": "Robinhood Markets, Inc.",
-  "price": 85.9324,
-  "market_cap": 77269458944,
+  "price": 85.6,
+  "market_cap": 76970565632,
   "revenue_ttm": 4204000000.0,
   "net_income_ttm": 2194000000.0,
   "ocf_ttm": 1175000000.0,
@@ -16,9 +16,9 @@
   "beta": 2.44,
   "roe": 27.82,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 2.59586,
+  "forward_eps": 2.85189,
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-02-10T19:03:18Z"
+  "last_updated": "2026-02-11T02:09:12Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "LRCX",
   "name": "Lam Research Corporation",
-  "price": 226.325,
-  "market_cap": 284270985216,
+  "price": 226.61,
+  "market_cap": 284628942848,
   "revenue_ttm": 20560532000.0,
   "net_income_ttm": 6213409000.0,
   "ocf_ttm": 7121860000.0,
@@ -16,9 +16,9 @@
   "beta": 1.6,
   "roe": 65.56,
   "analyst_growth_estimate": 22.1,
-  "forward_eps": 6.84685,
+  "forward_eps": 6.88244,
   "dividend_yield": 45.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-02-10T19:06:15Z"
+  "last_updated": "2026-02-11T02:10:23Z"
 }
