@@ -1,17 +1,17 @@
 {
   "ticker": "AZN",
   "name": "AstraZeneca PLC",
-  "price": 193.4,
-  "market_cap": 299824807936,
-  "revenue_ttm": 58127000000.0,
-  "net_income_ttm": 9399000000.0,
-  "ocf_ttm": 15140000000.0,
-  "capex_ttm": 5573000000.0,
+  "price": 203.895,
+  "market_cap": 316095070208,
+  "revenue_ttm": 58739000000.0,
+  "net_income_ttm": 10225000000.0,
+  "ocf_ttm": 14575000000.0,
+  "capex_ttm": 5905000000.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 32632000000.0,
-  "cash_and_equivalents": 8182000000.0,
-  "book_value_ttm": 45888000000.0,
+  "total_debt": 29622000000.0,
+  "cash_and_equivalents": 5741000000.0,
+  "book_value_ttm": 48667000000.0,
   "shares_outstanding": 1550283527,
   "beta": 1.0,
   "roe": 22.84,
@@ -20,5 +20,5 @@
   "dividend_yield": 166.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-02-11T13:06:44Z"
+  "last_updated": "2026-02-11T19:00:28Z"
 }
