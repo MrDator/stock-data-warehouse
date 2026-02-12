@@ -2,7 +2,7 @@
   "ticker": "WELL",
   "name": "Welltower Inc.",
   "price": 207.88,
-  "market_cap": 142673887232,
+  "market_cap": 144789880832,
   "revenue_ttm": 7532789000.0,
   "net_income_ttm": 840404000.0,
   "ocf_ttm": 2786560000.0,
@@ -12,13 +12,13 @@
   "total_debt": 18163962000.0,
   "cash_and_equivalents": 6806507000.0,
   "book_value_ttm": 38756818000.0,
-  "shares_outstanding": 686328043,
+  "shares_outstanding": 696507000,
   "beta": 0.83,
-  "roe": 2.75,
+  "roe": 2.54,
   "analyst_growth_estimate": 10.0,
   "forward_eps": 3.31,
-  "dividend_yield": 147.0,
+  "dividend_yield": 142.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-02-12T02:03:45Z"
+  "last_updated": "2026-02-12T06:59:01Z"
 }
