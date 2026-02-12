@@ -1,8 +1,8 @@
 {
   "ticker": "CSCO",
   "name": "Cisco Systems, Inc.",
-  "price": 85.54,
-  "market_cap": 337976623104,
+  "price": 75.6129,
+  "market_cap": 298753720320,
   "revenue_ttm": 57696000000.0,
   "net_income_ttm": 10329000000.0,
   "ocf_ttm": 13744000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.86,
   "roe": 22.42,
   "analyst_growth_estimate": 7.5,
-  "forward_eps": 4.50149,
+  "forward_eps": 4.50107,
   "dividend_yield": 192.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-02-12T13:02:10Z"
+  "last_updated": "2026-02-12T18:59:31Z"
 }
