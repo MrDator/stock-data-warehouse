@@ -1,10 +1,10 @@
 {
   "ticker": "VRTX",
   "name": "Vertex Pharmaceuticals Incorpor",
-  "price": 465.02,
-  "market_cap": 119226777600,
-  "revenue_ttm": 11723300000.0,
-  "net_income_ttm": 3675100000.0,
+  "price": 499.945,
+  "market_cap": 128181231616,
+  "revenue_ttm": 8811300000.0,
+  "net_income_ttm": 2762100000.0,
   "ocf_ttm": 3718000000.0,
   "capex_ttm": 380800000.0,
   "sbc_ttm": 696100000.0,
@@ -16,9 +16,9 @@
   "beta": 1.2,
   "roe": 22.31,
   "analyst_growth_estimate": 11.0,
-  "forward_eps": 22.03869,
+  "forward_eps": 22.04054,
   "dividend_yield": 0.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-02-13T12:58:45Z"
+  "last_updated": "2026-02-13T18:45:49Z"
 }
