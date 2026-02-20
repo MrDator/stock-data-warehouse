@@ -9,16 +9,16 @@
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 14123456790.123457,
-  "cash_and_equivalents": 2422104644.3268666,
-  "book_value_ttm": 9439153439.153439,
+  "total_debt": 14138418079.096045,
+  "cash_and_equivalents": 2424670433.1450095,
+  "book_value_ttm": 9449152542.37288,
   "shares_outstanding": 448560554,
-  "beta": 1.0,
+  "beta": 0.8,
   "roe": 22.89,
   "analyst_growth_estimate": 0.2,
   "forward_eps": 5.794152,
   "dividend_yield": 225.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-02-20T06:55:06Z"
+  "last_updated": "2026-02-20T12:58:46Z"
 }
