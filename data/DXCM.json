@@ -1,8 +1,8 @@
 {
   "ticker": "DXCM",
   "name": "DexCom, Inc.",
-  "price": 73.26,
-  "market_cap": 28572592128,
+  "price": 73.095,
+  "market_cap": 28508237824,
   "revenue_ttm": 4662000000.0,
   "net_income_ttm": 836300000.0,
   "ocf_ttm": 1440700000.0,
@@ -16,9 +16,9 @@
   "beta": 1.49,
   "roe": 34.5,
   "analyst_growth_estimate": 13.1,
-  "forward_eps": 2.98781,
+  "forward_eps": 2.9887,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-02-24T13:00:57Z"
+  "last_updated": "2026-02-24T18:58:36Z"
 }
