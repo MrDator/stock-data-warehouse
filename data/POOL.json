@@ -1,8 +1,8 @@
 {
   "ticker": "POOL",
   "name": "Pool Corporation",
-  "price": 223.31,
-  "market_cap": 8333484032,
+  "price": 226.65,
+  "market_cap": 8458126336,
   "revenue_ttm": 5294666000.0,
   "net_income_ttm": 412116000.0,
   "ocf_ttm": 456310000.0,
@@ -16,9 +16,9 @@
   "beta": 1.23,
   "roe": 33.06,
   "analyst_growth_estimate": -0.5,
-  "forward_eps": 11.89671,
+  "forward_eps": 11.8961,
   "dividend_yield": 224.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-02-27T12:57:47Z"
+  "last_updated": "2026-02-27T18:38:24Z"
 }
