@@ -1,8 +1,8 @@
 {
   "ticker": "WBD",
   "name": "Warner Bros. Discovery, Inc. - ",
-  "price": 28.2,
-  "market_cap": 69932826624,
+  "price": 28.045,
+  "market_cap": 69548441600,
   "revenue_ttm": 37863000000.0,
   "net_income_ttm": 485000000.0,
   "ocf_ttm": 5230000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.68,
   "roe": 2.08,
   "analyst_growth_estimate": -2.0,
-  "forward_eps": -0.058,
+  "forward_eps": -0.072,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-04T12:52:57Z"
+  "last_updated": "2026-03-04T18:45:11Z"
 }
