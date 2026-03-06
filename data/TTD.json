@@ -1,8 +1,8 @@
 {
   "ticker": "TTD",
   "name": "The Trade Desk, Inc.",
-  "price": 29.81,
-  "market_cap": 14575386624,
+  "price": 29.79,
+  "market_cap": 14179356672,
   "revenue_ttm": 2790505000.0,
   "net_income_ttm": 438583000.0,
   "ocf_ttm": 880533000.0,
@@ -12,7 +12,7 @@
   "total_debt": 375977000.0,
   "cash_and_equivalents": 1445447000.0,
   "book_value_ttm": 2600786000.0,
-  "shares_outstanding": 440318931,
+  "shares_outstanding": 432868418,
   "beta": 1.19,
   "roe": 16.32,
   "analyst_growth_estimate": 14.3,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-05T19:16:52Z"
+  "last_updated": "2026-03-06T01:58:04Z"
 }
