@@ -1,17 +1,17 @@
 {
   "ticker": "CCEP",
   "name": "Coca-Cola Europacific Partners ",
-  "price": 100.22,
-  "market_cap": 44821123072,
+  "price": 100.805,
+  "market_cap": 45082750976,
   "revenue_ttm": 0.0,
   "net_income_ttm": 0.0,
   "ocf_ttm": 0.0,
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 13883495145.63107,
-  "cash_and_equivalents": 2380952380.952381,
-  "book_value_ttm": 9278779472.954231,
+  "total_debt": 13910828025.477707,
+  "cash_and_equivalents": 2385639837.8691373,
+  "book_value_ttm": 9297046902.142443,
   "shares_outstanding": 447227331,
   "beta": 0.8,
   "roe": 22.89,
@@ -20,5 +20,5 @@
   "dividend_yield": 235.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-09T13:01:59Z"
+  "last_updated": "2026-03-09T18:50:40Z"
 }
