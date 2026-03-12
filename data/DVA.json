@@ -1,8 +1,8 @@
 {
   "ticker": "DVA",
   "name": "DaVita Inc.",
-  "price": 154.81,
-  "market_cap": 10348893184,
+  "price": 154.815,
+  "market_cap": 10349228032,
   "revenue_ttm": 13643069000.0,
   "net_income_ttm": 746803000.0,
   "ocf_ttm": 1886500000.0,
@@ -16,9 +16,9 @@
   "beta": 0.93,
   "roe": 64.85,
   "analyst_growth_estimate": 9.9,
-  "forward_eps": 16.24101,
+  "forward_eps": 16.33213,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-12T12:57:09Z"
+  "last_updated": "2026-03-12T18:53:17Z"
 }
