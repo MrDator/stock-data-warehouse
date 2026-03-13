@@ -1,8 +1,8 @@
 {
   "ticker": "WMT",
   "name": "Walmart Inc.",
-  "price": 124.68,
-  "market_cap": 994055094272,
+  "price": 125.33,
+  "market_cap": 999237484544,
   "revenue_ttm": 522507000000.0,
   "net_income_ttm": 17656000000.0,
   "ocf_ttm": 40977000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 80.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-12T18:52:45Z"
+  "last_updated": "2026-03-13T01:55:45Z"
 }
