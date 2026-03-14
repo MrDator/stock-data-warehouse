@@ -1,8 +1,8 @@
 {
   "ticker": "LEN",
   "name": "Lennar Corporation",
-  "price": 95.43,
-  "market_cap": 23630491648,
+  "price": 94.96,
+  "market_cap": 23514107904,
   "revenue_ttm": 34186934000.0,
   "net_income_ttm": 2078179000.0,
   "ocf_ttm": 216812000.0,
@@ -16,9 +16,9 @@
   "beta": 1.4,
   "roe": 8.41,
   "analyst_growth_estimate": -2.0,
-  "forward_eps": 8.43264,
-  "dividend_yield": 216.0,
+  "forward_eps": 8.35681,
+  "dividend_yield": 211.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-13T18:42:40Z"
+  "last_updated": "2026-03-14T01:53:19Z"
 }
