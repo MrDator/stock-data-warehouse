@@ -1,8 +1,8 @@
 {
   "ticker": "LULU",
   "name": "lululemon athletica inc.",
-  "price": 162.74,
-  "market_cap": 19299201024,
+  "price": 162.82,
+  "market_cap": 19100598272,
   "revenue_ttm": 11073296000.0,
   "net_income_ttm": 1740715000.0,
   "ocf_ttm": 1860996000.0,
@@ -12,7 +12,7 @@
   "total_debt": 1762794000.0,
   "cash_and_equivalents": 1035862000.0,
   "book_value_ttm": 4502023000.0,
-  "shares_outstanding": 112190041,
+  "shares_outstanding": 110482671,
   "beta": 1.01,
   "roe": 34.01,
   "analyst_growth_estimate": 0.8,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-20T18:46:34Z"
+  "last_updated": "2026-03-21T01:49:49Z"
 }
