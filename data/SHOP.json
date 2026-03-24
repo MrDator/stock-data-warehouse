@@ -1,8 +1,8 @@
 {
   "ticker": "SHOP",
   "name": "Shopify Inc.",
-  "price": 121.77,
-  "market_cap": 158920032256,
+  "price": 121.1,
+  "market_cap": 158045634560,
   "revenue_ttm": 11556000000.0,
   "net_income_ttm": 1231000000.0,
   "ocf_ttm": 2033000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-03-23T18:55:11Z"
+  "last_updated": "2026-03-24T01:55:28Z"
 }
