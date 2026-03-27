@@ -1,8 +1,8 @@
 {
   "ticker": "SNOW",
   "name": "Snowflake Inc.",
-  "price": 162.575,
-  "market_cap": 56202174464,
+  "price": 162.33,
+  "market_cap": 56117481472,
   "revenue_ttm": 3399952000.0,
   "net_income_ttm": -1022066000.0,
   "ocf_ttm": 873513000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-03-26T19:07:30Z"
+  "last_updated": "2026-03-27T02:04:58Z"
 }
