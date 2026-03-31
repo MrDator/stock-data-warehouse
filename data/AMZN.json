@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "name": "Amazon.com, Inc.",
-  "price": 200.7,
-  "market_cap": 2154498490368,
+  "price": 200.95,
+  "market_cap": 2157182320640,
   "revenue_ttm": 716924000000.0,
   "net_income_ttm": 77670000000.0,
   "ocf_ttm": 139514000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.35,
   "roe": 22.29,
   "analyst_growth_estimate": 13.6,
-  "forward_eps": 9.39454,
+  "forward_eps": 9.392,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-30T18:57:47Z"
+  "last_updated": "2026-03-31T02:10:12Z"
 }
