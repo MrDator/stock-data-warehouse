@@ -1,8 +1,8 @@
 {
   "ticker": "NKE",
   "name": "Nike, Inc.",
-  "price": 52.765,
-  "market_cap": 78112423936,
+  "price": 52.82,
+  "market_cap": 78193852416,
   "revenue_ttm": 46513000000.0,
   "net_income_ttm": 2524000000.0,
   "ocf_ttm": 3056000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.29,
   "roe": 17.95,
   "analyst_growth_estimate": 0.6,
-  "forward_eps": 2.23367,
-  "dividend_yield": 320.0,
+  "forward_eps": 2.22019,
+  "dividend_yield": 310.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-03-31T19:04:40Z"
+  "last_updated": "2026-04-01T07:21:57Z"
 }
