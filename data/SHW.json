@@ -1,8 +1,8 @@
 {
   "ticker": "SHW",
   "name": "Sherwin-Williams Company (The)",
-  "price": 317.82,
-  "market_cap": 78747779072,
+  "price": 318.0,
+  "market_cap": 78792376320,
   "revenue_ttm": 23574300000.0,
   "net_income_ttm": 2568500000.0,
   "ocf_ttm": 3451600000.0,
@@ -16,9 +16,9 @@
   "beta": 1.24,
   "roe": 59.39,
   "analyst_growth_estimate": 5.6,
-  "forward_eps": 13.48141,
-  "dividend_yield": 98.0,
+  "forward_eps": 13.42503,
+  "dividend_yield": 101.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-02T18:53:36Z"
+  "last_updated": "2026-04-03T02:07:51Z"
 }
