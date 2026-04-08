@@ -3,15 +3,15 @@
   "name": "Alibaba Group Holding Limited",
   "price": 119.72,
   "market_cap": 285821042688,
-  "revenue_ttm": 148855703911.92316,
-  "net_income_ttm": 13265694542.047318,
-  "ocf_ttm": 13809293745.60787,
+  "revenue_ttm": 148975662647.07175,
+  "net_income_ttm": 13276385001.97805,
+  "ocf_ttm": 13820422277.249483,
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 38466268446.94308,
-  "cash_and_equivalents": 49500761302.41274,
-  "book_value_ttm": 152209973061.60693,
+  "total_debt": 38497267359.22871,
+  "cash_and_equivalents": 49540652610.294655,
+  "book_value_ttm": 152332634910.4016,
   "shares_outstanding": 2387412815,
   "beta": 0.8,
   "roe": 8.23,
@@ -20,5 +20,5 @@
   "dividend_yield": 86.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-08T02:07:13Z"
+  "last_updated": "2026-04-08T07:16:34Z"
 }
