@@ -1,8 +1,8 @@
 {
   "ticker": "MS",
   "name": "Morgan Stanley",
-  "price": 178.53,
-  "market_cap": 283480686592,
+  "price": 178.16,
+  "market_cap": 282893189120,
   "revenue_ttm": 65966000000.0,
   "net_income_ttm": 16861000000.0,
   "ocf_ttm": -17889000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.18,
   "roe": 15.61,
   "analyst_growth_estimate": 11.0,
-  "forward_eps": 12.40346,
-  "dividend_yield": 227.0,
+  "forward_eps": 12.40366,
+  "dividend_yield": 225.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-04-09T19:05:09Z"
+  "last_updated": "2026-04-10T02:13:14Z"
 }
