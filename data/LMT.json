@@ -1,8 +1,8 @@
 {
   "ticker": "LMT",
   "name": "Lockheed Martin Corporation",
-  "price": 613.72,
-  "market_cap": 141439205376,
+  "price": 617.1,
+  "market_cap": 142218166272,
   "revenue_ttm": 75048000000.0,
   "net_income_ttm": 5017000000.0,
   "ocf_ttm": 8557000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 76.87,
   "analyst_growth_estimate": 9.1,
-  "forward_eps": 32.05038,
+  "forward_eps": 32.04721,
   "dividend_yield": 220.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-13T13:23:01Z"
+  "last_updated": "2026-04-13T19:15:26Z"
 }

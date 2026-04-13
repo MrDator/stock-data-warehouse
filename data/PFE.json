@@ -1,8 +1,8 @@
 {
   "ticker": "PFE",
   "name": "Pfizer, Inc.",
-  "price": 26.92,
-  "market_cap": 153130549248,
+  "price": 27.1728,
+  "market_cap": 154568572928,
   "revenue_ttm": 62579000000.0,
   "net_income_ttm": 7770000000.0,
   "ocf_ttm": 11704000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.2,
   "roe": 8.89,
   "analyst_growth_estimate": -1.2,
-  "forward_eps": 2.8155,
+  "forward_eps": 2.81065,
   "dividend_yield": 639.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-04-13T13:20:36Z"
+  "last_updated": "2026-04-13T19:16:26Z"
 }
