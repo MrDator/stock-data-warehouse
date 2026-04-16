@@ -1,17 +1,17 @@
 {
   "ticker": "CRWD",
   "name": "CrowdStrike Holdings, Inc.",
-  "price": 420.185,
-  "market_cap": 106564837376,
+  "price": 414.7661,
+  "market_cap": 105190531072,
   "revenue_ttm": 4812005000.0,
   "net_income_ttm": -162502000.0,
-  "ocf_ttm": 0.0,
+  "ocf_ttm": 1612349000.0,
   "capex_ttm": 370859000.0,
   "sbc_ttm": 1096679000.0,
   "buyback_ttm": 0.0,
   "total_debt": 820077000.0,
-  "cash_and_equivalents": 2130125000.0,
-  "book_value_ttm": 4432667065.02,
+  "cash_and_equivalents": 5230125000.0,
+  "book_value_ttm": 4428390000.0,
   "shares_outstanding": 253614090,
   "beta": 1.07,
   "roe": -4.14,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-04-16T13:46:38Z"
+  "last_updated": "2026-04-16T19:08:27Z"
 }
