@@ -1,8 +1,8 @@
 {
   "ticker": "LPX",
   "name": "Louisiana-Pacific Corporation",
-  "price": 72.925,
-  "market_cap": 5093697536,
+  "price": 72.51,
+  "market_cap": 5064710656,
   "revenue_ttm": 2709000000.0,
   "net_income_ttm": 146000000.0,
   "ocf_ttm": 382000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 69848440,
   "beta": 1.77,
   "roe": 8.58,
-  "analyst_growth_estimate": -2.0,
-  "forward_eps": 4.37633,
-  "dividend_yield": 163.0,
+  "analyst_growth_estimate": 9.48,
+  "forward_eps": 4.33913,
+  "dividend_yield": 165.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-16T19:16:37Z"
+  "last_updated": "2026-04-17T02:19:04Z"
 }
