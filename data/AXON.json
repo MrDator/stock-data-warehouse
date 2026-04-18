@@ -1,8 +1,8 @@
 {
   "ticker": "AXON",
   "name": "Axon Enterprise, Inc.",
-  "price": 401.41,
-  "market_cap": 32272429056,
+  "price": 402.85,
+  "market_cap": 32458510336,
   "revenue_ttm": 2779536000.0,
   "net_income_ttm": 124656000.0,
   "ocf_ttm": 211339000.0,
@@ -12,7 +12,7 @@
   "total_debt": 1909664000.0,
   "cash_and_equivalents": 1733777000.0,
   "book_value_ttm": 3242658000.0,
-  "shares_outstanding": 80397675,
+  "shares_outstanding": 80572201,
   "beta": 1.6,
   "roe": 4.48,
   "analyst_growth_estimate": 20.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-17T19:00:57Z"
+  "last_updated": "2026-04-18T02:05:20Z"
 }
