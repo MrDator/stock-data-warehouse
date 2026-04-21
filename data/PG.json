@@ -1,8 +1,8 @@
 {
   "ticker": "PG",
   "name": "Procter & Gamble Company (The)",
-  "price": 144.49,
-  "market_cap": 337634623488,
+  "price": 142.5598,
+  "market_cap": 333124239360,
   "revenue_ttm": 85259000000.0,
   "net_income_ttm": 16453000000.0,
   "ocf_ttm": 19070000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 2324000685,
   "beta": 0.8,
   "roe": 31.56,
-  "analyst_growth_estimate": 5.34,
+  "analyst_growth_estimate": 5.27,
   "forward_eps": 7.24668,
   "dividend_yield": 295.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-21T13:24:56Z"
+  "last_updated": "2026-04-21T19:12:04Z"
 }
