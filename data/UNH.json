@@ -1,8 +1,8 @@
 {
   "ticker": "UNH",
   "name": "UnitedHealth Group Incorporated",
-  "price": 346.01,
-  "market_cap": 314064928768,
+  "price": 354.01,
+  "market_cap": 321326317568,
   "revenue_ttm": 447567000000.0,
   "net_income_ttm": 12056000000.0,
   "ocf_ttm": 19697000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 12.54,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 20.14249,
+  "forward_eps": 20.65242,
   "dividend_yield": 255.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-22T13:20:47Z"
+  "last_updated": "2026-04-22T19:10:49Z"
 }
