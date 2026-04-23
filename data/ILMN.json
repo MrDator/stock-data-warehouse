@@ -1,8 +1,8 @@
 {
   "ticker": "ILMN",
   "name": "Illumina, Inc.",
-  "price": 130.11,
-  "market_cap": 19893819392,
+  "price": 130.5,
+  "market_cap": 19953451008,
   "revenue_ttm": 4343000000.0,
   "net_income_ttm": 850000000.0,
   "ocf_ttm": 1079000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 151906915,
   "beta": 1.49,
   "roe": 33.36,
-  "analyst_growth_estimate": 9.87,
+  "analyst_growth_estimate": 9.89,
   "forward_eps": 5.82414,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-22T19:11:35Z"
+  "last_updated": "2026-04-23T02:26:24Z"
 }
