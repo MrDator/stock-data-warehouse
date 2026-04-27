@@ -1,8 +1,8 @@
 {
   "ticker": "DHI",
   "name": "D.R. Horton, Inc.",
-  "price": 159.9,
-  "market_cap": 45344378880,
+  "price": 159.625,
+  "market_cap": 45266395136,
   "revenue_ttm": 25790400000.0,
   "net_income_ttm": 2524700000.0,
   "ocf_ttm": 3628200000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 283579613,
   "beta": 1.45,
   "roe": 13.08,
-  "analyst_growth_estimate": 11.12,
+  "analyst_growth_estimate": 11.1,
   "forward_eps": 12.14924,
   "dividend_yield": 113.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-27T08:22:16Z"
+  "last_updated": "2026-04-27T13:49:59Z"
 }
