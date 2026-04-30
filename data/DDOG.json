@@ -1,8 +1,8 @@
 {
   "ticker": "DDOG",
   "name": "Datadog, Inc.",
-  "price": 130.345,
-  "market_cap": 46122749952,
+  "price": 132.72,
+  "market_cap": 46963146752,
   "revenue_ttm": 3427158000.0,
   "net_income_ttm": 107741000.0,
   "ocf_ttm": 1050135000.0,
@@ -16,9 +16,9 @@
   "beta": 1.29,
   "roe": 3.34,
   "analyst_growth_estimate": 45.0,
-  "forward_eps": 2.64305,
+  "forward_eps": 2.64062,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-04-30T13:53:29Z"
+  "last_updated": "2026-04-30T19:16:16Z"
 }
