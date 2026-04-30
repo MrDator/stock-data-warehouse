@@ -2,7 +2,7 @@
   "ticker": "ADP",
   "name": "Automatic Data Processing, Inc.",
   "price": 215.06,
-  "market_cap": 86592692224,
+  "market_cap": 86153035776,
   "revenue_ttm": 21214300000.0,
   "net_income_ttm": 4235200000.0,
   "ocf_ttm": 4740200000.0,
@@ -12,7 +12,7 @@
   "total_debt": 4324000000.0,
   "cash_and_equivalents": 2470400000.0,
   "book_value_ttm": 6393000000.0,
-  "shares_outstanding": 402644364,
+  "shares_outstanding": 400600000,
   "beta": 0.86,
   "roe": 73.84,
   "analyst_growth_estimate": 7.87,
@@ -20,5 +20,5 @@
   "dividend_yield": 316.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-04-30T02:41:51Z"
+  "last_updated": "2026-04-30T08:16:05Z"
 }
