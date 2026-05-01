@@ -1,8 +1,8 @@
 {
   "ticker": "NET",
   "name": "Cloudflare, Inc.",
-  "price": 204.6651,
-  "market_cap": 72038080512,
+  "price": 204.97,
+  "market_cap": 72431083520,
   "revenue_ttm": 2167937000.0,
   "net_income_ttm": -102267000.0,
   "ocf_ttm": 603114000.0,
@@ -12,7 +12,7 @@
   "total_debt": 3518327000.0,
   "cash_and_equivalents": 4101251000.0,
   "book_value_ttm": 1459123000.0,
-  "shares_outstanding": 317576096,
+  "shares_outstanding": 319274861,
   "beta": 1.88,
   "roe": -8.16,
   "analyst_growth_estimate": 33.6,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-04-30T19:20:29Z"
+  "last_updated": "2026-05-01T02:52:19Z"
 }

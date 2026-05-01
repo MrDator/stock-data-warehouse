@@ -1,10 +1,10 @@
 {
   "ticker": "SOFI",
   "name": "SoFi Technologies, Inc.",
-  "price": 15.935,
-  "market_cap": 20419262464,
-  "revenue_ttm": 3613354000.0,
-  "net_income_ttm": 481320000.0,
+  "price": 16.1,
+  "market_cap": 20630693888,
+  "revenue_ttm": 2841595000.0,
+  "net_income_ttm": 410204000.0,
   "ocf_ttm": -3742458000.0,
   "capex_ttm": 251117000.0,
   "sbc_ttm": 262058000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-04-30T19:22:05Z"
+  "last_updated": "2026-05-01T02:46:36Z"
 }

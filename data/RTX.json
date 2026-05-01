@@ -1,8 +1,8 @@
 {
   "ticker": "RTX",
   "name": "RTX Corporation",
-  "price": 176.18,
-  "market_cap": 237258670080,
+  "price": 176.07,
+  "market_cap": 237110558720,
   "revenue_ttm": 90373000000.0,
   "net_income_ttm": 7256000000.0,
   "ocf_ttm": 11117000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1346683428,
   "beta": 0.8,
   "roe": 11.57,
-  "analyst_growth_estimate": 13.46,
+  "analyst_growth_estimate": 13.43,
   "forward_eps": 7.54515,
-  "dividend_yield": 157.0,
+  "dividend_yield": 154.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-04-30T19:21:17Z"
+  "last_updated": "2026-05-01T02:51:17Z"
 }
