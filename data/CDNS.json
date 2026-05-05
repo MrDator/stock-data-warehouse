@@ -1,8 +1,8 @@
 {
   "ticker": "CDNS",
   "name": "Cadence Design Systems, Inc.",
-  "price": 349.4,
-  "market_cap": 96466567168,
+  "price": 349.51,
+  "market_cap": 96400449536,
   "revenue_ttm": 4054393000.0,
   "net_income_ttm": 835309000.0,
   "ocf_ttm": 1728781000.0,
@@ -12,13 +12,13 @@
   "total_debt": 2616439000.0,
   "cash_and_equivalents": 3155530000.0,
   "book_value_ttm": 5474181000.0,
-  "shares_outstanding": 276092068,
+  "shares_outstanding": 275816000,
   "beta": 1.13,
   "roe": 20.66,
-  "analyst_growth_estimate": 25.08,
+  "analyst_growth_estimate": 25.09,
   "forward_eps": 9.38068,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-05-04T19:30:25Z"
+  "last_updated": "2026-05-05T02:35:24Z"
 }

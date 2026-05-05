@@ -1,8 +1,8 @@
 {
   "ticker": "MA",
   "name": "Mastercard Incorporated",
-  "price": 506.37,
-  "market_cap": 447274549248,
+  "price": 504.74,
+  "market_cap": 445980114944,
   "revenue_ttm": 33939000000.0,
   "net_income_ttm": 15570000000.0,
   "ocf_ttm": 18267000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 18960000000.0,
   "cash_and_equivalents": 8219000000.0,
   "book_value_ttm": 6719000000.0,
-  "shares_outstanding": 876700000,
+  "shares_outstanding": 877036230,
   "beta": 0.76,
   "roe": 232.08,
   "analyst_growth_estimate": 15.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 70.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-05-04T19:27:59Z"
+  "last_updated": "2026-05-05T02:31:15Z"
 }

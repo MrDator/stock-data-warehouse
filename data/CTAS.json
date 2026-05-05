@@ -1,8 +1,8 @@
 {
   "ticker": "CTAS",
   "name": "Cintas Corporation",
-  "price": 167.1199,
-  "market_cap": 66862518272,
+  "price": 166.89,
+  "market_cap": 66770538496,
   "revenue_ttm": 11027210000.0,
   "net_income_ttm": 1937235000.0,
   "ocf_ttm": 2202925000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 400087119,
   "beta": 0.96,
   "roe": 41.3,
-  "analyst_growth_estimate": 13.09,
+  "analyst_growth_estimate": 13.07,
   "forward_eps": 5.42487,
   "dividend_yield": 106.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-04T19:30:55Z"
+  "last_updated": "2026-05-05T02:33:41Z"
 }
