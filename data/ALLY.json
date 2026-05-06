@@ -1,8 +1,8 @@
 {
   "ticker": "ALLY",
   "name": "Ally Financial Inc.",
-  "price": 43.21,
-  "market_cap": 13283099648,
+  "price": 44.36,
+  "market_cap": 13636619264,
   "revenue_ttm": 7015000000.0,
   "net_income_ttm": 1077000000.0,
   "ocf_ttm": 3729000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.11,
   "roe": 9.36,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 6.4664,
+  "forward_eps": 6.4863,
   "dividend_yield": 278.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-05-06T08:26:58Z"
+  "last_updated": "2026-05-06T14:06:35Z"
 }
