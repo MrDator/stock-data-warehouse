@@ -1,8 +1,8 @@
 {
   "ticker": "PLTR",
   "name": "Palantir Technologies Inc.",
-  "price": 135.63,
-  "market_cap": 325126422528,
+  "price": 135.91,
+  "market_cap": 325818679296,
   "revenue_ttm": 4475446000.0,
   "net_income_ttm": 1625033000.0,
   "ocf_ttm": 2134473000.0,
@@ -12,13 +12,13 @@
   "total_debt": 229338000.0,
   "cash_and_equivalents": 7177043000.0,
   "book_value_ttm": 7387268000.0,
-  "shares_outstanding": 2295915766,
+  "shares_outstanding": 2296071334,
   "beta": 1.52,
   "roe": 25.98,
   "analyst_growth_estimate": 45.0,
-  "forward_eps": 2.00139,
+  "forward_eps": 2.0119,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-05-05T19:15:12Z"
+  "last_updated": "2026-05-06T02:38:48Z"
 }
