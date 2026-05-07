@@ -1,8 +1,8 @@
 {
   "ticker": "TGT",
   "name": "Target Corporation",
-  "price": 130.19,
-  "market_cap": 59129208832,
+  "price": 127.12,
+  "market_cap": 57734885376,
   "revenue_ttm": 104780000000.0,
   "net_income_ttm": 3705000000.0,
   "ocf_ttm": 6562000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 454176247,
   "beta": 1.01,
   "roe": 24.03,
-  "analyst_growth_estimate": 6.63,
+  "analyst_growth_estimate": 6.34,
   "forward_eps": 8.50907,
   "dividend_yield": 350.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-07T08:32:36Z"
+  "last_updated": "2026-05-07T14:02:15Z"
 }
