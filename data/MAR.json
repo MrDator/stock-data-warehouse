@@ -3,8 +3,8 @@
   "name": "Marriott International",
   "price": 359.06,
   "market_cap": 95145353216,
-  "revenue_ttm": 26186000000.0,
-  "net_income_ttm": 2601000000.0,
+  "revenue_ttm": 19923000000.0,
+  "net_income_ttm": 1936000000.0,
   "ocf_ttm": 3212000000.0,
   "capex_ttm": 604000000.0,
   "sbc_ttm": 236000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 358000000.0,
   "book_value_ttm": -3771000000.0,
   "shares_outstanding": 264931993,
-  "beta": 1.11,
+  "beta": 1.0,
   "roe": 0.0,
-  "analyst_growth_estimate": 6.3,
+  "analyst_growth_estimate": 20.0,
   "forward_eps": 13.00274,
-  "dividend_yield": 76.0,
+  "dividend_yield": 75.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-07T02:40:10Z"
+  "last_updated": "2026-05-07T08:31:56Z"
 }

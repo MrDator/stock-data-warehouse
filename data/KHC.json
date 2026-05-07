@@ -13,12 +13,12 @@
   "cash_and_equivalents": 3675000000.0,
   "book_value_ttm": 41664000000.0,
   "shares_outstanding": 1185762305,
-  "beta": 0.8,
-  "roe": -12.84,
-  "analyst_growth_estimate": -2.0,
+  "beta": 1.0,
+  "roe": -12.58,
+  "analyst_growth_estimate": 0.8,
   "forward_eps": 2.13979,
-  "dividend_yield": 710.0,
+  "dividend_yield": 694.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-07T02:42:34Z"
+  "last_updated": "2026-05-07T08:32:27Z"
 }

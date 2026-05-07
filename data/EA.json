@@ -3,8 +3,8 @@
   "name": "Electronic Arts Inc.",
   "price": 200.79,
   "market_cap": 50248441856,
-  "revenue_ttm": 7306000000.0,
-  "net_income_ttm": 680000000.0,
+  "revenue_ttm": 5411000000.0,
+  "net_income_ttm": 426000000.0,
   "ocf_ttm": 2522000000.0,
   "capex_ttm": 223000000.0,
   "sbc_ttm": 666000000.0,
@@ -14,11 +14,11 @@
   "book_value_ttm": 6152000000.0,
   "shares_outstanding": 250253713,
   "beta": 0.66,
-  "roe": 10.03,
-  "analyst_growth_estimate": 1.0,
+  "roe": 13.49,
+  "analyst_growth_estimate": 20.0,
   "forward_eps": 9.18711,
   "dividend_yield": 38.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-07T02:40:12Z"
+  "last_updated": "2026-05-07T08:33:06Z"
 }
