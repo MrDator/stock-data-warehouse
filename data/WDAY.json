@@ -1,8 +1,8 @@
 {
   "ticker": "WDAY",
   "name": "Workday, Inc.",
-  "price": 121.475,
-  "market_cap": 31225026560,
+  "price": 122.63,
+  "market_cap": 30618939392,
   "revenue_ttm": 9552000000.0,
   "net_income_ttm": 693000000.0,
   "ocf_ttm": 2939000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 3821000000.0,
   "cash_and_equivalents": 5443000000.0,
   "book_value_ttm": 7805000000.0,
-  "shares_outstanding": 210000000,
+  "shares_outstanding": 203712072,
   "beta": 1.03,
   "roe": 8.23,
   "analyst_growth_estimate": 45.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-05-06T19:47:30Z"
+  "last_updated": "2026-05-07T02:42:14Z"
 }

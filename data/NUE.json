@@ -1,8 +1,8 @@
 {
   "ticker": "NUE",
   "name": "Nucor Corporation",
-  "price": 234.77,
-  "market_cap": 53465497600,
+  "price": 234.22,
+  "market_cap": 53340241920,
   "revenue_ttm": 24664000000.0,
   "net_income_ttm": 1588000000.0,
   "ocf_ttm": 3234000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 227735644,
   "beta": 1.88,
   "roe": 12.29,
-  "analyst_growth_estimate": 4.47,
+  "analyst_growth_estimate": 4.46,
   "forward_eps": 15.70557,
   "dividend_yield": 97.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-06T19:47:36Z"
+  "last_updated": "2026-05-07T02:39:02Z"
 }
