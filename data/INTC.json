@@ -1,8 +1,8 @@
 {
   "ticker": "INTC",
   "name": "Intel Corporation",
-  "price": 109.83,
-  "market_cap": 551930167296,
+  "price": 109.62,
+  "market_cap": 550950141952,
   "revenue_ttm": 53763000000.0,
   "net_income_ttm": -3174000000.0,
   "ocf_ttm": 9980000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-05-07T19:41:39Z"
+  "last_updated": "2026-05-08T02:46:39Z"
 }
