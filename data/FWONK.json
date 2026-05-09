@@ -1,8 +1,8 @@
 {
   "ticker": "FWONK",
   "name": "Liberty Media Corporation - Ser",
-  "price": 94.0566,
-  "market_cap": 23558807552,
+  "price": 94.45,
+  "market_cap": 23669708800,
   "revenue_ttm": 4482000000.0,
   "net_income_ttm": 538000000.0,
   "ocf_ttm": 870000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 5100000000.0,
   "cash_and_equivalents": 1055000000.0,
   "book_value_ttm": 7757000000.0,
-  "shares_outstanding": 224102531,
-  "beta": 0.67,
-  "roe": 7.69,
-  "analyst_growth_estimate": 3.28,
-  "forward_eps": 2.08715,
+  "shares_outstanding": 224233462,
+  "beta": 0.71,
+  "roe": 2.73,
+  "analyst_growth_estimate": 3.27,
+  "forward_eps": 2.11115,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-08T19:15:58Z"
+  "last_updated": "2026-05-09T02:38:40Z"
 }

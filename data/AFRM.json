@@ -1,8 +1,8 @@
 {
   "ticker": "AFRM",
   "name": "Affirm Holdings, Inc.",
-  "price": 64.625,
-  "market_cap": 21527275520,
+  "price": 64.01,
+  "market_cap": 21436858368,
   "revenue_ttm": 3715908000.0,
   "net_income_ttm": 282328000.0,
   "ocf_ttm": 833335000.0,
@@ -12,13 +12,13 @@
   "total_debt": 9181844000.0,
   "cash_and_equivalents": 2251255000.0,
   "book_value_ttm": 3546861000.0,
-  "shares_outstanding": 292409876,
+  "shares_outstanding": 294357801,
   "beta": 2.5,
   "roe": 8.92,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 3.81202,
+  "forward_eps": 3.87605,
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-05-08T19:15:27Z"
+  "last_updated": "2026-05-09T02:41:53Z"
 }
