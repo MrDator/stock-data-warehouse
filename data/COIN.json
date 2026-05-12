@@ -1,8 +1,8 @@
 {
   "ticker": "COIN",
   "name": "Coinbase Global, Inc.",
-  "price": 214.63,
-  "market_cap": 56544956416,
+  "price": 216.6,
+  "market_cap": 57065603072,
   "revenue_ttm": 6560012000.0,
   "net_income_ttm": 800602000.0,
   "ocf_ttm": 1756433000.0,
@@ -12,7 +12,7 @@
   "total_debt": 7964423000.0,
   "cash_and_equivalents": 10684382000.0,
   "book_value_ttm": 13480573000.0,
-  "shares_outstanding": 222419270,
+  "shares_outstanding": 222426875,
   "beta": 2.5,
   "roe": 6.69,
   "analyst_growth_estimate": 15.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-05-11T19:43:46Z"
+  "last_updated": "2026-05-12T02:44:48Z"
 }
