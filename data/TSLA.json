@@ -1,8 +1,8 @@
 {
   "ticker": "TSLA",
   "name": "Tesla, Inc.",
-  "price": 434.5495,
-  "market_cap": 1632047857664,
+  "price": 433.45,
+  "market_cap": 1627918565376,
   "revenue_ttm": 97879000000.0,
   "net_income_ttm": 3862000000.0,
   "ocf_ttm": 16528000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-12T19:49:17Z"
+  "last_updated": "2026-05-13T02:48:50Z"
 }
