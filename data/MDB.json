@@ -1,8 +1,8 @@
 {
   "ticker": "MDB",
   "name": "MongoDB, Inc.",
-  "price": 305.38,
-  "market_cap": 24543246336,
+  "price": 303.0,
+  "market_cap": 24351967232,
   "revenue_ttm": 2463797000.0,
   "net_income_ttm": -71151000.0,
   "ocf_ttm": 505148000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-05-13T19:53:19Z"
+  "last_updated": "2026-05-14T02:54:29Z"
 }
