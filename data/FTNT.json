@@ -1,8 +1,8 @@
 {
   "ticker": "FTNT",
   "name": "Fortinet, Inc.",
-  "price": 122.06,
-  "market_cap": 89427058688,
+  "price": 122.145,
+  "market_cap": 89489334272,
   "revenue_ttm": 6799600000.0,
   "net_income_ttm": 1853400000.0,
   "ocf_ttm": 2590600000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 732648391,
   "beta": 0.92,
   "roe": 132.39,
-  "analyst_growth_estimate": 17.2,
+  "analyst_growth_estimate": 17.22,
   "forward_eps": 3.42734,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-05-15T14:03:06Z"
+  "last_updated": "2026-05-15T19:27:16Z"
 }
