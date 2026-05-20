@@ -1,8 +1,8 @@
 {
   "ticker": "PLD",
   "name": "Prologis, Inc.",
-  "price": 142.44,
-  "market_cap": 132802224128,
+  "price": 143.54,
+  "market_cap": 133827788800,
   "revenue_ttm": 8948185000.0,
   "net_income_ttm": 3717254000.0,
   "ocf_ttm": 5135817000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 932338000,
   "beta": 1.35,
   "roe": 6.84,
-  "analyst_growth_estimate": 0.32,
+  "analyst_growth_estimate": 0.33,
   "forward_eps": 3.39788,
-  "dividend_yield": 300.0,
+  "dividend_yield": 0.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-05-20T09:29:04Z"
+  "last_updated": "2026-05-20T15:00:40Z"
 }
