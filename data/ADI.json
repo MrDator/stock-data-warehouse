@@ -2,9 +2,9 @@
   "ticker": "ADI",
   "name": "Analog Devices, Inc.",
   "price": 398.05,
-  "market_cap": 194329657344,
-  "revenue_ttm": 11756796000.0,
-  "net_income_ttm": 2706852000.0,
+  "market_cap": 193884995584,
+  "revenue_ttm": 9116728000.0,
+  "net_income_ttm": 2137082000.0,
   "ocf_ttm": 5053908000.0,
   "capex_ttm": 493887000.0,
   "sbc_ttm": 329661000.0,
@@ -12,7 +12,7 @@
   "total_debt": 8682221000.0,
   "cash_and_equivalents": 4048847000.0,
   "book_value_ttm": 33787259000.0,
-  "shares_outstanding": 488204157,
+  "shares_outstanding": 487087040,
   "beta": 1.19,
   "roe": 7.86,
   "analyst_growth_estimate": 60.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 98.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-05-20T20:12:55Z"
+  "last_updated": "2026-05-21T02:59:04Z"
 }
