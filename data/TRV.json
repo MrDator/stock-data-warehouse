@@ -1,8 +1,8 @@
 {
   "ticker": "TRV",
   "name": "The Travelers Companies, Inc.",
-  "price": 307.77,
-  "market_cap": 65445654528,
+  "price": 307.23,
+  "market_cap": 65330831360,
   "revenue_ttm": 48942000000.0,
   "net_income_ttm": 7604000000.0,
   "ocf_ttm": 11444000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 212644693,
   "beta": 0.51,
   "roe": 25.27,
-  "analyst_growth_estimate": 3.89,
-  "forward_eps": 28.51688,
+  "analyst_growth_estimate": 3.88,
+  "forward_eps": 28.51034,
   "dividend_yield": 163.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-05-21T19:49:52Z"
+  "last_updated": "2026-05-22T03:00:46Z"
 }
