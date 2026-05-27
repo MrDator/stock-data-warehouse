@@ -1,8 +1,8 @@
 {
   "ticker": "IBM",
   "name": "International Business Machines",
-  "price": 250.93,
-  "market_cap": 235845419008,
+  "price": 250.69,
+  "market_cap": 235619844096,
   "revenue_ttm": 68912000000.0,
   "net_income_ttm": 10754000000.0,
   "ocf_ttm": 13992000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 939885280,
   "beta": 0.58,
   "roe": 35.77,
-  "analyst_growth_estimate": 9.33,
+  "analyst_growth_estimate": 9.43,
   "forward_eps": 13.45469,
-  "dividend_yield": 266.0,
+  "dividend_yield": 270.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-26T20:09:54Z"
+  "last_updated": "2026-05-27T03:34:54Z"
 }
