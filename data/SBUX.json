@@ -1,8 +1,8 @@
 {
   "ticker": "SBUX",
   "name": "Starbucks Corporation",
-  "price": 101.42,
-  "market_cap": 115588366336,
+  "price": 102.455,
+  "market_cap": 116767965184,
   "revenue_ttm": 38471600000.0,
   "net_income_ttm": 1495700000.0,
   "ocf_ttm": 4345700000.0,
@@ -16,9 +16,9 @@
   "beta": 1.01,
   "roe": 0.0,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 3.02665,
+  "forward_eps": 3.02887,
   "dividend_yield": 245.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-27T09:39:55Z"
+  "last_updated": "2026-05-27T15:36:47Z"
 }
