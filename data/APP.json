@@ -1,8 +1,8 @@
 {
   "ticker": "APP",
   "name": "Applovin Corporation",
-  "price": 599.89,
-  "market_cap": 201526771712,
+  "price": 593.5,
+  "market_cap": 199222231040,
   "revenue_ttm": 6164192000.0,
   "net_income_ttm": 3962958000.0,
   "ocf_ttm": 4430775000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 2758671000.0,
   "book_value_ttm": 2363483000.0,
   "shares_outstanding": 305732000,
-  "beta": 1.6,
+  "beta": 2.37,
   "roe": 266.44,
   "analyst_growth_estimate": 20.0,
   "forward_eps": 21.92634,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-05-29T09:48:47Z"
+  "last_updated": "2026-05-29T14:57:49Z"
 }
