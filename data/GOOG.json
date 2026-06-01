@@ -1,8 +1,8 @@
 {
   "ticker": "GOOG",
   "name": "Alphabet Inc.",
-  "price": 373.2277,
-  "market_cap": 4521818849280,
+  "price": 372.58,
+  "market_cap": 4513971830784,
   "revenue_ttm": 422499000000.0,
   "net_income_ttm": 160208000000.0,
   "ocf_ttm": 174353000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 5456000000,
   "beta": 1.27,
   "roe": 38.88,
-  "analyst_growth_estimate": 19.25,
-  "forward_eps": 14.48958,
+  "analyst_growth_estimate": 19.22,
+  "forward_eps": 14.49518,
   "dividend_yield": 23.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-06-01T17:35:24Z"
+  "last_updated": "2026-06-01T21:33:15Z"
 }
