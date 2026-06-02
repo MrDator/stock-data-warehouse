@@ -1,8 +1,8 @@
 {
   "ticker": "SPG",
   "name": "Simon Property Group, Inc.",
-  "price": 202.7,
-  "market_cap": 77021863936,
+  "price": 204.445,
+  "market_cap": 77684932608,
   "revenue_ttm": 6648586000.0,
   "net_income_ttm": 4693481000.0,
   "ocf_ttm": 4142711000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 324281912,
   "beta": 1.36,
   "roe": 113.59,
-  "analyst_growth_estimate": 3.08,
+  "analyst_growth_estimate": 3.11,
   "forward_eps": 6.885,
   "dividend_yield": 434.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-06-02T10:17:32Z"
+  "last_updated": "2026-06-02T16:19:16Z"
 }
