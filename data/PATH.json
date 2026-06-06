@@ -1,8 +1,8 @@
 {
   "ticker": "PATH",
   "name": "UiPath, Inc.",
-  "price": 11.32,
-  "market_cap": 5891419136,
+  "price": 11.24,
+  "market_cap": 5823671808,
   "revenue_ttm": 1253948000.0,
   "net_income_ttm": 304885000.0,
   "ocf_ttm": 371208000.0,
@@ -12,13 +12,13 @@
   "total_debt": 81246000.0,
   "cash_and_equivalents": 1472486000.0,
   "book_value_ttm": 2082587000.0,
-  "shares_outstanding": 455752691,
+  "shares_outstanding": 453429560,
   "beta": 0.97,
   "roe": 18.18,
-  "analyst_growth_estimate": 44.92,
+  "analyst_growth_estimate": 44.6,
   "forward_eps": 0.90702,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-06-05T19:55:46Z"
+  "last_updated": "2026-06-06T02:54:28Z"
 }
