@@ -1,8 +1,8 @@
 {
   "ticker": "CAT",
   "name": "Caterpillar, Inc.",
-  "price": 863.235,
-  "market_cap": 397599113216,
+  "price": 856.16,
+  "market_cap": 394340401152,
   "revenue_ttm": 70755000000.0,
   "net_income_ttm": 9430000000.0,
   "ocf_ttm": 12320000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 460591983,
   "beta": 1.6,
   "roe": 51.33,
-  "analyst_growth_estimate": 19.77,
+  "analyst_growth_estimate": 19.61,
   "forward_eps": 30.09904,
   "dividend_yield": 66.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-06-10T15:26:19Z"
+  "last_updated": "2026-06-10T20:29:01Z"
 }
