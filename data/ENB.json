@@ -1,17 +1,17 @@
 {
   "ticker": "ENB",
   "name": "Enbridge Inc",
-  "price": 54.46,
-  "market_cap": 118924099584,
-  "revenue_ttm": 48922346606.206604,
-  "net_income_ttm": 4892305512.257333,
-  "ocf_ttm": 8189740683.009778,
-  "capex_ttm": 7012186481.507723,
+  "price": 54.47,
+  "market_cap": 118945947648,
+  "revenue_ttm": 48977174391.057014,
+  "net_income_ttm": 4897788370.1465435,
+  "ocf_ttm": 8198919010.937566,
+  "capex_ttm": 7020045112.141975,
   "sbc_ttm": 0.0,
   "buyback_ttm": 0.0,
-  "total_debt": 77600255065.89203,
-  "cash_and_equivalents": 1158424259.6003969,
-  "book_value_ttm": 46032308346.3228,
+  "total_debt": 77687222482.3027,
+  "cash_and_equivalents": 1159722517.7682257,
+  "book_value_ttm": 46083897235.108025,
   "shares_outstanding": 2183696415,
   "beta": 0.81,
   "roe": 10.13,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-06-17T20:12:45Z"
+  "last_updated": "2026-06-18T03:41:50Z"
 }
