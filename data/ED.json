@@ -1,8 +1,8 @@
 {
   "ticker": "ED",
   "name": "Consolidated Edison, Inc.",
-  "price": 108.315,
-  "market_cap": 39917293568,
+  "price": 108.74,
+  "market_cap": 40073916416,
   "revenue_ttm": 17214000000.0,
   "net_income_ttm": 2155000000.0,
   "ocf_ttm": 4137000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 368529705,
   "beta": 0.8,
   "roe": 8.73,
-  "analyst_growth_estimate": 7.19,
+  "analyst_growth_estimate": 7.22,
   "forward_eps": 6.48943,
   "dividend_yield": 325.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-06-23T14:43:54Z"
+  "last_updated": "2026-06-23T20:01:59Z"
 }
