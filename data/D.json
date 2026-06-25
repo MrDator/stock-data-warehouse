@@ -1,8 +1,8 @@
 {
   "ticker": "D",
   "name": "Dominion Energy, Inc.",
-  "price": 69.26,
-  "market_cap": 60915040256,
+  "price": 69.775,
+  "market_cap": 61367988224,
   "revenue_ttm": 17449000000.0,
   "net_income_ttm": 2954000000.0,
   "ocf_ttm": 5060000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 879512484,
   "beta": 0.64,
   "roe": 9.79,
-  "analyst_growth_estimate": 6.88,
+  "analyst_growth_estimate": 6.82,
   "forward_eps": 3.81498,
   "dividend_yield": 386.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-06-25T08:59:28Z"
+  "last_updated": "2026-06-25T14:25:56Z"
 }
