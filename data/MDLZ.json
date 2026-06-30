@@ -1,8 +1,8 @@
 {
   "ticker": "MDLZ",
   "name": "Mondelez International, Inc.",
-  "price": 58.88,
-  "market_cap": 75581300736,
+  "price": 57.955,
+  "market_cap": 74387505152,
   "revenue_ttm": 39304000000.0,
   "net_income_ttm": 2609000000.0,
   "ocf_ttm": 3889000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 10.16,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 3.38628,
+  "forward_eps": 3.38586,
   "dividend_yield": 333.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T14:17:55Z"
+  "last_updated": "2026-06-30T19:55:29Z"
 }
