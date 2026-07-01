@@ -1,8 +1,8 @@
 {
   "ticker": "BKNG",
   "name": "Booking Holdings Inc. Common St",
-  "price": 177.37,
-  "market_cap": 137440182272,
+  "price": 178.24,
+  "market_cap": 138114334720,
   "revenue_ttm": 27687000000.0,
   "net_income_ttm": 6154000000.0,
   "ocf_ttm": 9341000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.09,
   "roe": 0.0,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 12.3037,
-  "dividend_yield": 0.0,
+  "forward_eps": 12.30301,
+  "dividend_yield": 90.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T19:56:16Z"
+  "last_updated": "2026-07-01T03:37:14Z"
 }

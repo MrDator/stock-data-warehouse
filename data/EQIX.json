@@ -1,8 +1,8 @@
 {
   "ticker": "EQIX",
   "name": "Equinix, Inc.",
-  "price": 1042.7,
-  "market_cap": 102835494912,
+  "price": 1042.39,
+  "market_cap": 102804930560,
   "revenue_ttm": 9436000000.0,
   "net_income_ttm": 1422000000.0,
   "ocf_ttm": 3819000000.0,
@@ -17,8 +17,8 @@
   "roe": 10.06,
   "analyst_growth_estimate": 10.0,
   "forward_eps": 19.22333,
-  "dividend_yield": 182.0,
+  "dividend_yield": 189.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T19:55:57Z"
+  "last_updated": "2026-07-01T03:32:09Z"
 }

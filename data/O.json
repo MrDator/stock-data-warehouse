@@ -1,8 +1,8 @@
 {
   "ticker": "O",
   "name": "Realty Income Corporation",
-  "price": 62.195,
-  "market_cap": 57996374016,
+  "price": 61.96,
+  "market_cap": 57777238016,
   "revenue_ttm": 5882045000.0,
   "net_income_ttm": 1120541000.0,
   "ocf_ttm": 4081740000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 932492530,
   "beta": 0.73,
   "roe": 2.83,
-  "analyst_growth_estimate": 8.98,
+  "analyst_growth_estimate": 8.94,
   "forward_eps": 1.72133,
-  "dividend_yield": 516.0,
+  "dividend_yield": 525.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T19:55:25Z"
+  "last_updated": "2026-07-01T03:36:21Z"
 }

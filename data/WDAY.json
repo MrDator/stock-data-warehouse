@@ -1,8 +1,8 @@
 {
   "ticker": "WDAY",
   "name": "Workday, Inc.",
-  "price": 122.365,
-  "market_cap": 30220908544,
+  "price": 122.42,
+  "market_cap": 30234492928,
   "revenue_ttm": 9854000000.0,
   "net_income_ttm": 847000000.0,
   "ocf_ttm": 3178000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T19:56:40Z"
+  "last_updated": "2026-07-01T03:37:08Z"
 }

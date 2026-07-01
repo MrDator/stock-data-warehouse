@@ -1,8 +1,8 @@
 {
   "ticker": "VRSK",
   "name": "Verisk Analytics, Inc.",
-  "price": 180.32,
-  "market_cap": 23625859072,
+  "price": 179.53,
+  "market_cap": 23522351104,
   "revenue_ttm": 3102300000.0,
   "net_income_ttm": 910200000.0,
   "ocf_ttm": 1381700000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 131021840,
   "beta": 0.69,
   "roe": 0.0,
-  "analyst_growth_estimate": 15.53,
+  "analyst_growth_estimate": 15.44,
   "forward_eps": 8.67121,
-  "dividend_yield": 0.0,
+  "dividend_yield": 111.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-06-30T19:51:49Z"
+  "last_updated": "2026-07-01T03:30:50Z"
 }
