@@ -1,8 +1,8 @@
 {
   "ticker": "EA",
   "name": "Electronic Arts Inc.",
-  "price": 205.45,
-  "market_cap": 51516891136,
+  "price": 205.49,
+  "market_cap": 51526926336,
   "revenue_ttm": 7531000000.0,
   "net_income_ttm": 887000000.0,
   "ocf_ttm": 2553000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 2980000000.0,
   "book_value_ttm": 6764000000.0,
   "shares_outstanding": 250751484,
-  "beta": 0.65,
+  "beta": 0.64,
   "roe": 13.49,
   "analyst_growth_estimate": 20.0,
   "forward_eps": 9.65893,
   "dividend_yield": 37.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-02T08:52:51Z"
+  "last_updated": "2026-07-02T13:53:50Z"
 }

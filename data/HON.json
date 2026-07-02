@@ -1,8 +1,8 @@
 {
   "ticker": "HON",
   "name": "Honeywell International Inc.",
-  "price": 221.75,
-  "market_cap": 70256287744,
+  "price": 223.54,
+  "market_cap": 70823403520,
   "revenue_ttm": 36763000000.0,
   "net_income_ttm": 4101000000.0,
   "ocf_ttm": 5161000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 12390000000.0,
   "book_value_ttm": 13590000000.0,
   "shares_outstanding": 316826559,
-  "beta": 0.84,
+  "beta": 0.93,
   "roe": 24.26,
-  "analyst_growth_estimate": 2.59,
+  "analyst_growth_estimate": 2.61,
   "forward_eps": 9.42568,
   "dividend_yield": 429.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-02T08:56:43Z"
+  "last_updated": "2026-07-02T13:55:01Z"
 }
