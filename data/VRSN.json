@@ -1,8 +1,8 @@
 {
   "ticker": "VRSN",
   "name": "VeriSign, Inc.",
-  "price": 256.985,
-  "market_cap": 23385632768,
+  "price": 256.43,
+  "market_cap": 23335129088,
   "revenue_ttm": 1683200000.0,
   "net_income_ttm": 840900000.0,
   "ocf_ttm": 1072200000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 91000000,
   "beta": 0.69,
   "roe": 0.0,
-  "analyst_growth_estimate": 9.33,
+  "analyst_growth_estimate": 9.31,
   "forward_eps": 10.4772,
-  "dividend_yield": 127.0,
+  "dividend_yield": 126.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-02T19:20:32Z"
+  "last_updated": "2026-07-03T02:39:02Z"
 }
