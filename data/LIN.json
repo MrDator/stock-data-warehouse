@@ -1,8 +1,8 @@
 {
   "ticker": "LIN",
   "name": "Linde plc",
-  "price": 540.52,
-  "market_cap": 249907970048,
+  "price": 541.0,
+  "market_cap": 250129891328,
   "revenue_ttm": 34655000000.0,
   "net_income_ttm": 7082000000.0,
   "ocf_ttm": 10429000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 462347310,
   "beta": 0.72,
   "roe": 18.23,
-  "analyst_growth_estimate": 15.51,
+  "analyst_growth_estimate": 15.53,
   "forward_eps": 19.71,
-  "dividend_yield": 117.0,
+  "dividend_yield": 118.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-07T09:37:12Z"
+  "last_updated": "2026-07-07T14:24:50Z"
 }
