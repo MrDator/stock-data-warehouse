@@ -1,8 +1,8 @@
 {
   "ticker": "MCHP",
   "name": "Microchip Technology Incorporat",
-  "price": 83.315,
-  "market_cap": 45163339776,
+  "price": 84.15,
+  "market_cap": 45694156800,
   "revenue_ttm": 4713100000.0,
   "net_income_ttm": 230000000.0,
   "ocf_ttm": 962100000.0,
@@ -12,7 +12,7 @@
   "total_debt": 5535200000.0,
   "cash_and_equivalents": 240300000.0,
   "book_value_ttm": 6432400000.0,
-  "shares_outstanding": 542079281,
+  "shares_outstanding": 543008370,
   "beta": 1.73,
   "roe": 3.4,
   "analyst_growth_estimate": 60.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 208.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-07T19:50:44Z"
+  "last_updated": "2026-07-08T02:27:39Z"
 }
