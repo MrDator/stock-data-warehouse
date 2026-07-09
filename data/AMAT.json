@@ -1,8 +1,8 @@
 {
   "ticker": "AMAT",
   "name": "Applied Materials, Inc.",
-  "price": 570.5,
-  "market_cap": 452953866240,
+  "price": 609.345,
+  "market_cap": 483795173376,
   "revenue_ttm": 29024000000.0,
   "net_income_ttm": 8508000000.0,
   "ocf_ttm": 7993000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 793959430,
   "beta": 1.57,
   "roe": 39.69,
-  "analyst_growth_estimate": 34.73,
-  "forward_eps": 16.4938,
-  "dividend_yield": 38.0,
+  "analyst_growth_estimate": 38.29,
+  "forward_eps": 16.52792,
+  "dividend_yield": 37.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-09T09:40:12Z"
+  "last_updated": "2026-07-09T15:01:24Z"
 }
