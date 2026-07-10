@@ -1,13 +1,13 @@
 {
   "ticker": "GEHC",
   "name": "GE HealthCare Technologies Inc.",
-  "price": 64.525,
-  "market_cap": 29354166272,
+  "price": 64.7,
+  "market_cap": 29431496704,
   "revenue_ttm": 20979000000.0,
   "net_income_ttm": 1910000000.0,
   "ocf_ttm": 2027000000.0,
   "capex_ttm": 508000000.0,
-  "sbc_ttm": 0.0,
+  "sbc_ttm": 143000000.0,
   "buyback_ttm": 300000000.0,
   "total_debt": 10577000000.0,
   "cash_and_equivalents": 2261000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 454891786,
   "beta": 0.84,
   "roe": 19.46,
-  "analyst_growth_estimate": 8.46,
+  "analyst_growth_estimate": 8.53,
   "forward_eps": 5.36349,
-  "dividend_yield": 0.0,
+  "dividend_yield": 22.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-09T19:47:48Z"
+  "last_updated": "2026-07-10T02:47:17Z"
 }

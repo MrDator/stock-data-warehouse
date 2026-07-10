@@ -1,8 +1,8 @@
 {
   "ticker": "TXN",
   "name": "Texas Instruments Incorporated",
-  "price": 309.025,
-  "market_cap": 281241419776,
+  "price": 308.53,
+  "market_cap": 280790925312,
   "revenue_ttm": 18438000000.0,
   "net_income_ttm": 5367000000.0,
   "ocf_ttm": 7824000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 910092791,
   "beta": 1.31,
   "roe": 32.35,
-  "analyst_growth_estimate": 36.43,
+  "analyst_growth_estimate": 35.77,
   "forward_eps": 9.57335,
-  "dividend_yield": 0.0,
+  "dividend_yield": 189.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-09T19:42:55Z"
+  "last_updated": "2026-07-10T02:44:47Z"
 }
