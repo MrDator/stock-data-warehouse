@@ -1,8 +1,8 @@
 {
   "ticker": "MRK",
   "name": "Merck & Company, Inc.",
-  "price": 123.62,
-  "market_cap": 305319706624,
+  "price": 123.54,
+  "market_cap": 305122115584,
   "revenue_ttm": 65768000000.0,
   "net_income_ttm": 8935000000.0,
   "ocf_ttm": 17890000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 2469824415,
   "beta": 1.2,
   "roe": 18.94,
-  "analyst_growth_estimate": 5.66,
+  "analyst_growth_estimate": 5.59,
   "forward_eps": 9.6362,
-  "dividend_yield": 272.0,
+  "dividend_yield": 275.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-07-11T07:49:52Z"
+  "last_updated": "2026-07-11T13:13:53Z"
 }
