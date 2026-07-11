@@ -1,8 +1,8 @@
 {
   "ticker": "MSFT",
   "name": "Microsoft Corporation",
-  "price": 385.165,
-  "market_cap": 2861173309440,
+  "price": 385.1,
+  "market_cap": 2860690440192,
   "revenue_ttm": 318273000000.0,
   "net_income_ttm": 125216000000.0,
   "ocf_ttm": 170141000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 95.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-10T19:26:45Z"
+  "last_updated": "2026-07-11T02:25:09Z"
 }
