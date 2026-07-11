@@ -13,12 +13,12 @@
   "cash_and_equivalents": 2954998000.0,
   "book_value_ttm": 1939722000.0,
   "shares_outstanding": 346600000,
-  "beta": 1.35,
-  "roe": -54.87,
-  "analyst_growth_estimate": 33.5,
-  "forward_eps": 2.68665,
+  "beta": 1.0,
+  "roe": 0.0,
+  "analyst_growth_estimate": 3.0,
+  "forward_eps": 0,
   "dividend_yield": 0.0,
-  "sector_type": "SaaS",
+  "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-11T13:11:35Z"
+  "last_updated": "2026-07-11T18:57:55Z"
 }
