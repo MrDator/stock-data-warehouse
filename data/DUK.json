@@ -13,12 +13,12 @@
   "cash_and_equivalents": 14784000000.0,
   "book_value_ttm": 54457000000.0,
   "shares_outstanding": 779596217,
-  "beta": 0.8,
-  "roe": 9.66,
-  "analyst_growth_estimate": 7.2,
-  "forward_eps": 7.1687,
+  "beta": 1.0,
+  "roe": 0.0,
+  "analyst_growth_estimate": 3.0,
+  "forward_eps": 0,
   "dividend_yield": 339.0,
-  "sector_type": "Energy/Utility",
+  "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-11T19:02:27Z"
+  "last_updated": "2026-07-12T02:33:16Z"
 }
