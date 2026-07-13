@@ -1,8 +1,8 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA Corporation",
-  "price": 210.96,
-  "market_cap": 5109662089216,
+  "price": 207.995,
+  "market_cap": 5037846691840,
   "revenue_ttm": 253491000000.0,
   "net_income_ttm": 159613000000.0,
   "ocf_ttm": 125648000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.35,
   "roe": 114.29,
   "analyst_growth_estimate": 30.0,
-  "forward_eps": 12.79003,
+  "forward_eps": 12.79063,
   "dividend_yield": 47.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-13T09:20:20Z"
+  "last_updated": "2026-07-13T14:36:18Z"
 }
