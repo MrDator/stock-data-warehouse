@@ -5,10 +5,10 @@
   "market_cap": 95684689920,
   "revenue_ttm": 26577000000.0,
   "net_income_ttm": 2584000000.0,
-  "ocf_ttm": 3423000000.0,
-  "capex_ttm": 599000000.0,
-  "sbc_ttm": 241000000.0,
-  "buyback_ttm": 3249000000.0,
+  "ocf_ttm": 0.0,
+  "capex_ttm": 0.0,
+  "sbc_ttm": 0.0,
+  "buyback_ttm": 0.0,
   "total_debt": 17406000000.0,
   "cash_and_equivalents": 454000000.0,
   "book_value_ttm": -4092000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 78.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-14T08:01:17Z"
+  "last_updated": "2026-07-14T13:40:58Z"
 }
