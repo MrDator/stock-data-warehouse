@@ -1,8 +1,8 @@
 {
   "ticker": "HPQ",
   "name": "HP Inc.",
-  "price": 24.77,
-  "market_cap": 22652727296,
+  "price": 24.385,
+  "market_cap": 22300635136,
   "revenue_ttm": 57417000000.0,
   "net_income_ttm": 2553000000.0,
   "ocf_ttm": 4594000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 495.0,
   "sector_type": "Hardware",
   "currency_code": "USD",
-  "last_updated": "2026-07-14T13:35:39Z"
+  "last_updated": "2026-07-14T19:19:53Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "BKR",
   "name": "Baker Hughes Company",
-  "price": 57.66,
-  "market_cap": 57202679808,
+  "price": 57.38,
+  "market_cap": 56924901376,
   "revenue_ttm": 27893000000.0,
   "net_income_ttm": 3116000000.0,
   "ocf_ttm": 3601000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 992068697,
   "beta": 0.96,
   "roe": 17.18,
-  "analyst_growth_estimate": 7.97,
+  "analyst_growth_estimate": 7.94,
   "forward_eps": 2.86503,
   "dividend_yield": 160.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-07-14T13:30:10Z"
+  "last_updated": "2026-07-14T19:19:05Z"
 }
