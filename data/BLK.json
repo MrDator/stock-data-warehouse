@@ -1,8 +1,8 @@
 {
   "ticker": "BLK",
   "name": "BlackRock, Inc.",
-  "price": 1109.265,
-  "market_cap": 180369063936,
+  "price": 1081.21,
+  "market_cap": 175807250432,
   "revenue_ttm": 20215000000.0,
   "net_income_ttm": 4662000000.0,
   "ocf_ttm": 4075000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.44,
   "roe": 11.9,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 62.74092,
+  "forward_eps": 63.66905,
   "dividend_yield": 224.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-16T13:44:01Z"
+  "last_updated": "2026-07-16T19:06:47Z"
 }
