@@ -2,7 +2,7 @@
   "ticker": "TGT",
   "name": null,
   "price": 139.6,
-  "market_cap": 63405080576,
+  "market_cap": 0,
   "revenue_ttm": 106377000000.0,
   "net_income_ttm": 3450000000.0,
   "ocf_ttm": 7003000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 18831000000.0,
   "cash_and_equivalents": 3534000000.0,
   "book_value_ttm": 16395000000.0,
-  "shares_outstanding": 454191112,
+  "shares_outstanding": 0,
   "beta": 0.98,
   "roe": 22.02,
-  "analyst_growth_estimate": 7.44,
+  "analyst_growth_estimate": 7.12,
   "forward_eps": 8.92317,
-  "dividend_yield": 331.0,
+  "dividend_yield": 332.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:46:35Z"
+  "last_updated": "2026-07-18T13:10:45Z"
 }

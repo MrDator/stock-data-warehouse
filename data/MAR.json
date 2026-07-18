@@ -2,7 +2,7 @@
   "ticker": "MAR",
   "name": null,
   "price": 366.24,
-  "market_cap": 0,
+  "market_cap": 96573317120,
   "revenue_ttm": 26577000000.0,
   "net_income_ttm": 2584000000.0,
   "ocf_ttm": 3423000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 17406000000.0,
   "cash_and_equivalents": 454000000.0,
   "book_value_ttm": -4092000000.0,
-  "shares_outstanding": 0,
+  "shares_outstanding": 263688623,
   "beta": 1.11,
   "roe": 0.0,
-  "analyst_growth_estimate": 12.6,
+  "analyst_growth_estimate": 17.57,
   "forward_eps": 13.08964,
-  "dividend_yield": 79.0,
+  "dividend_yield": 80.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:44:11Z"
+  "last_updated": "2026-07-18T13:11:06Z"
 }

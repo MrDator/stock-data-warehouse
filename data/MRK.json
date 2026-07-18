@@ -2,7 +2,7 @@
   "ticker": "MRK",
   "name": null,
   "price": 127.5,
-  "market_cap": 314902609920,
+  "market_cap": 0,
   "revenue_ttm": 65768000000.0,
   "net_income_ttm": 8935000000.0,
   "ocf_ttm": 17890000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 49117000000.0,
   "cash_and_equivalents": 5702000000.0,
   "book_value_ttm": 45878000000.0,
-  "shares_outstanding": 2469824415,
+  "shares_outstanding": 0,
   "beta": 1.2,
   "roe": 18.94,
-  "analyst_growth_estimate": 6.03,
+  "analyst_growth_estimate": 3.05,
   "forward_eps": 9.65629,
-  "dividend_yield": 266.0,
+  "dividend_yield": 267.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:46:30Z"
+  "last_updated": "2026-07-18T13:09:42Z"
 }

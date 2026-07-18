@@ -2,7 +2,7 @@
   "ticker": "EXC",
   "name": null,
   "price": 46.26,
-  "market_cap": 47333605376,
+  "market_cap": 0,
   "revenue_ttm": 24786000000.0,
   "net_income_ttm": 2779000000.0,
   "ocf_ttm": 6778000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 51240000000.0,
   "cash_and_equivalents": 713000000.0,
   "book_value_ttm": 29315000000.0,
-  "shares_outstanding": 1023208142,
+  "shares_outstanding": 0,
   "beta": 0.8,
   "roe": 9.76,
-  "analyst_growth_estimate": 6.35,
-  "forward_eps": 3.0374,
-  "dividend_yield": 359.0,
+  "analyst_growth_estimate": 6.3,
+  "forward_eps": 3.03753,
+  "dividend_yield": 363.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:49:10Z"
+  "last_updated": "2026-07-18T13:10:23Z"
 }

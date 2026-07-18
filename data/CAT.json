@@ -2,7 +2,7 @@
   "ticker": "CAT",
   "name": null,
   "price": 880.28,
-  "market_cap": 405449900032,
+  "market_cap": 0,
   "revenue_ttm": 70755000000.0,
   "net_income_ttm": 9430000000.0,
   "ocf_ttm": 12320000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 43066000000.0,
   "cash_and_equivalents": 4072000000.0,
   "book_value_ttm": 18661000000.0,
-  "shares_outstanding": 460591983,
+  "shares_outstanding": 0,
   "beta": 1.56,
   "roe": 51.33,
   "analyst_growth_estimate": 20.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 74.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:48:02Z"
+  "last_updated": "2026-07-18T13:07:29Z"
 }

@@ -2,7 +2,7 @@
   "ticker": "CNI",
   "name": null,
   "price": 129.03,
-  "market_cap": 78269595648,
+  "market_cap": 0,
   "revenue_ttm": 12325249643.36662,
   "net_income_ttm": 3355920114.122682,
   "ocf_ttm": 5099857346.647647,
@@ -12,13 +12,13 @@
   "total_debt": 16059914407.988588,
   "cash_and_equivalents": 408701854.49358064,
   "book_value_ttm": 15300285306.704708,
-  "shares_outstanding": 606600000,
+  "shares_outstanding": 0,
   "beta": 1.0,
   "roe": 21.85,
-  "analyst_growth_estimate": 8.16,
+  "analyst_growth_estimate": -0.5,
   "forward_eps": 6.3064356,
-  "dividend_yield": 201.0,
+  "dividend_yield": 200.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:47:51Z"
+  "last_updated": "2026-07-18T13:07:50Z"
 }
