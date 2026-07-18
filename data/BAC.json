@@ -2,7 +2,7 @@
   "ticker": "BAC",
   "name": null,
   "price": 61.27,
-  "market_cap": 0,
+  "market_cap": 434808127488,
   "revenue_ttm": 89540000000.0,
   "net_income_ttm": 24581000000.0,
   "ocf_ttm": 56567000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 383594000000.0,
   "cash_and_equivalents": 618828000000.0,
   "book_value_ttm": 300668000000.0,
-  "shares_outstanding": 0,
+  "shares_outstanding": 7096590651,
   "beta": 1.18,
   "roe": 11.2,
   "analyst_growth_estimate": 13.22,
@@ -20,5 +20,5 @@
   "dividend_yield": 183.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T13:07:30Z"
+  "last_updated": "2026-07-18T19:02:15Z"
 }

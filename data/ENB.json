@@ -2,7 +2,7 @@
   "ticker": "ENB",
   "name": null,
   "price": 56.71,
-  "market_cap": 0,
+  "market_cap": 123837423616,
   "revenue_ttm": 49250356633.38089,
   "net_income_ttm": 4925106990.014266,
   "ocf_ttm": 8244650499.286734,
@@ -12,7 +12,7 @@
   "total_debt": 78120542082.73895,
   "cash_and_equivalents": 1166191155.4921541,
   "book_value_ttm": 46340941512.125534,
-  "shares_outstanding": 0,
+  "shares_outstanding": 2183696415,
   "beta": 0.8,
   "roe": 10.13,
   "analyst_growth_estimate": 5.12,
@@ -20,5 +20,5 @@
   "dividend_yield": 496.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T13:08:48Z"
+  "last_updated": "2026-07-18T19:00:36Z"
 }

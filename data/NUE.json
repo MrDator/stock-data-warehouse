@@ -2,7 +2,7 @@
   "ticker": "NUE",
   "name": null,
   "price": 236.61,
-  "market_cap": 0,
+  "market_cap": 53885784064,
   "revenue_ttm": 34160000000.0,
   "net_income_ttm": 2331000000.0,
   "ocf_ttm": 3756000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 7124000000.0,
   "cash_and_equivalents": 2481000000.0,
   "book_value_ttm": 21453000000.0,
-  "shares_outstanding": 0,
+  "shares_outstanding": 227740950,
   "beta": 1.92,
   "roe": 12.29,
-  "analyst_growth_estimate": 20.0,
+  "analyst_growth_estimate": 4.51,
   "forward_eps": 17.40929,
   "dividend_yield": 95.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T07:43:24Z"
+  "last_updated": "2026-07-18T18:59:58Z"
 }

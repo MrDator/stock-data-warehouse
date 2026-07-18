@@ -2,7 +2,7 @@
   "ticker": "V",
   "name": null,
   "price": 358.56,
-  "market_cap": 0,
+  "market_cap": 681889234944,
   "revenue_ttm": 43027000000.0,
   "net_income_ttm": 22236000000.0,
   "ocf_ttm": 22756000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 23976000000.0,
   "cash_and_equivalents": 13913000000.0,
   "book_value_ttm": 35661000000.0,
-  "shares_outstanding": 0,
+  "shares_outstanding": 1659709932,
   "beta": 0.75,
   "roe": 60.35,
   "analyst_growth_estimate": 15.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 75.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-18T13:09:27Z"
+  "last_updated": "2026-07-18T18:59:33Z"
 }
