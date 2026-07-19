@@ -1,6 +1,6 @@
 {
   "ticker": "ENB",
-  "name": "Enbridge Inc",
+  "name": null,
   "price": 56.71,
   "market_cap": 123837423616,
   "revenue_ttm": 49250356633.38089,
@@ -20,5 +20,5 @@
   "dividend_yield": 496.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-07-19T08:11:57Z"
+  "last_updated": "2026-07-19T13:11:21Z"
 }

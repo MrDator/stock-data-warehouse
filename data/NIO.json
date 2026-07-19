@@ -1,6 +1,6 @@
 {
   "ticker": "NIO",
-  "name": "NIO Inc.",
+  "name": null,
   "price": 4.88,
   "market_cap": 12227655680,
   "revenue_ttm": 14901640302.207533,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-19T08:11:32Z"
+  "last_updated": "2026-07-19T13:13:41Z"
 }
