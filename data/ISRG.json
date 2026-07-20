@@ -1,8 +1,8 @@
 {
   "ticker": "ISRG",
   "name": "Intuitive Surgical, Inc.",
-  "price": 345.42,
-  "market_cap": 122334937088,
+  "price": 344.0,
+  "market_cap": 121832022016,
   "revenue_ttm": 8142100000.0,
   "net_income_ttm": 2320700000.0,
   "ocf_ttm": 3360800000.0,
@@ -16,9 +16,9 @@
   "beta": 1.46,
   "roe": 17.42,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 11.99586,
+  "forward_eps": 12.00549,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-20T08:52:24Z"
+  "last_updated": "2026-07-20T14:02:38Z"
 }
