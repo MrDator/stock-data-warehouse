@@ -1,8 +1,8 @@
 {
   "ticker": "GE",
   "name": "GE Aerospace",
-  "price": 347.845,
-  "market_cap": 360910913536,
+  "price": 341.11,
+  "market_cap": 353922940928,
   "revenue_ttm": 50638000000.0,
   "net_income_ttm": 8972000000.0,
   "ocf_ttm": 9800000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1037562513,
   "beta": 1.35,
   "roe": 48.23,
-  "analyst_growth_estimate": 4.88,
-  "forward_eps": 8.88194,
+  "analyst_growth_estimate": 4.79,
+  "forward_eps": 9.00248,
   "dividend_yield": 54.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-20T14:15:13Z"
+  "last_updated": "2026-07-20T19:45:00Z"
 }

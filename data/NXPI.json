@@ -1,8 +1,8 @@
 {
   "ticker": "NXPI",
   "name": "NXP Semiconductors N.V.",
-  "price": 268.03,
-  "market_cap": 67669819392,
+  "price": 267.96,
+  "market_cap": 67652145152,
   "revenue_ttm": 12615000000.0,
   "net_income_ttm": 2653000000.0,
   "ocf_ttm": 3048000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 252471079,
   "beta": 1.8,
   "roe": 25.81,
-  "analyst_growth_estimate": 38.28,
-  "forward_eps": 17.84422,
+  "analyst_growth_estimate": 38.27,
+  "forward_eps": 17.86342,
   "dividend_yield": 152.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-20T14:13:51Z"
+  "last_updated": "2026-07-20T19:44:27Z"
 }
