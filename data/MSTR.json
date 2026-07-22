@@ -1,8 +1,8 @@
 {
   "ticker": "MSTR",
   "name": "Strategy Inc",
-  "price": 101.95,
-  "market_cap": 37244334080,
+  "price": 100.625,
+  "market_cap": 36718276608,
   "revenue_ttm": 490467000.0,
   "net_income_ttm": -12173452000.0,
   "ocf_ttm": -50863000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-22T08:24:39Z"
+  "last_updated": "2026-07-22T13:44:10Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "CB",
   "name": "Chubb Limited",
-  "price": 354.8,
-  "market_cap": 137612754944,
+  "price": 341.85,
+  "market_cap": 132589977600,
   "revenue_ttm": 61199000000.0,
   "net_income_ttm": 11299000000.0,
   "ocf_ttm": 15197000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 43373000000.0,
   "book_value_ttm": 73788000000.0,
   "shares_outstanding": 387860106,
-  "beta": 0.8,
-  "roe": 15.43,
-  "analyst_growth_estimate": 4.02,
-  "forward_eps": 29.18997,
-  "dividend_yield": 116.0,
+  "beta": 1.0,
+  "roe": 14.82,
+  "analyst_growth_estimate": 3.87,
+  "forward_eps": 29.19171,
+  "dividend_yield": 115.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-22T08:23:17Z"
+  "last_updated": "2026-07-22T13:51:06Z"
 }
