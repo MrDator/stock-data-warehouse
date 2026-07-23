@@ -1,8 +1,8 @@
 {
   "ticker": "CMG",
   "name": "Chipotle Mexican Grill, Inc.",
-  "price": 32.11,
-  "market_cap": 41182171136,
+  "price": 32.2,
+  "market_cap": 41304035328,
   "revenue_ttm": 12138590000.0,
   "net_income_ttm": 1451986000.0,
   "ocf_ttm": 2208201000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 868839000.0,
   "book_value_ttm": 2407635000.0,
   "shares_outstanding": 1282734000,
-  "beta": 0.96,
-  "roe": 49.23,
-  "analyst_growth_estimate": 16.45,
-  "forward_eps": 1.35411,
+  "beta": 1.0,
+  "roe": 0.0,
+  "analyst_growth_estimate": 3.0,
+  "forward_eps": 0,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-22T19:11:23Z"
+  "last_updated": "2026-07-23T02:32:08Z"
 }
