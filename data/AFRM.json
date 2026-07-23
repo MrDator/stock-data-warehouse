@@ -3,11 +3,11 @@
   "name": "Affirm Holdings, Inc.",
   "price": 73.915,
   "market_cap": 24754026496,
-  "revenue_ttm": 0.0,
-  "net_income_ttm": 0.0,
-  "ocf_ttm": 0.0,
-  "capex_ttm": 0.0,
-  "sbc_ttm": 0.0,
+  "revenue_ttm": 3971539000.0,
+  "net_income_ttm": 382424000.0,
+  "ocf_ttm": 1009448000.0,
+  "capex_ttm": 222594000.0,
+  "sbc_ttm": 302985000.0,
   "buyback_ttm": 0.0,
   "total_debt": 9090749000.0,
   "cash_and_equivalents": 2481010000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:35:56Z"
+  "last_updated": "2026-07-23T08:28:49Z"
 }

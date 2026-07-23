@@ -3,8 +3,8 @@
   "name": "Intuit Inc.",
   "price": 284.47,
   "market_cap": 77813071872,
-  "revenue_ttm": 0.0,
-  "net_income_ttm": 0.0,
+  "revenue_ttm": 20925000000.0,
+  "net_income_ttm": 4584000000.0,
   "ocf_ttm": 7888000000.0,
   "capex_ttm": 173000000.0,
   "sbc_ttm": 2039000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 273537000,
   "beta": 1.0,
   "roe": 22.5,
-  "analyst_growth_estimate": 23.16,
+  "analyst_growth_estimate": 23.6,
   "forward_eps": 27.33035,
   "dividend_yield": 166.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:41:56Z"
+  "last_updated": "2026-07-23T08:27:54Z"
 }

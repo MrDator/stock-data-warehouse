@@ -9,9 +9,9 @@
   "capex_ttm": 153730000.0,
   "sbc_ttm": 1238944000.0,
   "buyback_ttm": 2521351000.0,
-  "total_debt": 0.0,
-  "cash_and_equivalents": 0.0,
-  "book_value_ttm": 19737456405.0,
+  "total_debt": 8133391000.0,
+  "cash_and_equivalents": 13262148000.0,
+  "book_value_ttm": 21715338000.0,
   "shares_outstanding": 535195000,
   "beta": 2.5,
   "roe": 3.74,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:34:20Z"
+  "last_updated": "2026-07-23T08:28:13Z"
 }

@@ -5,10 +5,10 @@
   "market_cap": 399294824448,
   "revenue_ttm": 21681845000.0,
   "net_income_ttm": 6708202000.0,
-  "ocf_ttm": 0.0,
-  "capex_ttm": 0.0,
-  "sbc_ttm": 0.0,
-  "buyback_ttm": 0.0,
+  "ocf_ttm": 6954617000.0,
+  "capex_ttm": 949795000.0,
+  "sbc_ttm": 376682000.0,
+  "buyback_ttm": 4897060000.0,
   "total_debt": 3734479000.0,
   "cash_and_equivalents": 4750936000.0,
   "book_value_ttm": 10584779000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 32.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:39:04Z"
+  "last_updated": "2026-07-23T08:27:22Z"
 }

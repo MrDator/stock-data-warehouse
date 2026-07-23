@@ -3,8 +3,8 @@
   "name": "Cloudflare, Inc.",
   "price": 268.98,
   "market_cap": 95471640576,
-  "revenue_ttm": 0.0,
-  "net_income_ttm": 0.0,
+  "revenue_ttm": 2328605000.0,
+  "net_income_ttm": -86740000.0,
   "ocf_ttm": 615660000.0,
   "capex_ttm": 323891000.0,
   "sbc_ttm": 470160000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:44:01Z"
+  "last_updated": "2026-07-23T08:28:54Z"
 }

@@ -3,8 +3,8 @@
   "name": "Alphabet Inc.",
   "price": 342.09,
   "market_cap": 4174378172416,
-  "revenue_ttm": 0.0,
-  "net_income_ttm": 0.0,
+  "revenue_ttm": 422499000000.0,
+  "net_income_ttm": 160208000000.0,
   "ocf_ttm": 174353000000.0,
   "capex_ttm": 109924000000.0,
   "sbc_ttm": 26188000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 25.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T02:32:22Z"
+  "last_updated": "2026-07-23T08:25:08Z"
 }
