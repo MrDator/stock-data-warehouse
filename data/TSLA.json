@@ -1,10 +1,10 @@
 {
   "ticker": "TSLA",
   "name": "Tesla, Inc.",
-  "price": 320.485,
-  "market_cap": 1203653050368,
-  "revenue_ttm": 97879000000.0,
-  "net_income_ttm": 3862000000.0,
+  "price": 319.69,
+  "market_cap": 1262630862848,
+  "revenue_ttm": 75383000000.0,
+  "net_income_ttm": 2690000000.0,
   "ocf_ttm": 16528000000.0,
   "capex_ttm": 9528000000.0,
   "sbc_ttm": 3282000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 15890000000.0,
   "cash_and_equivalents": 44743000000.0,
   "book_value_ttm": 84116000000.0,
-  "shares_outstanding": 3755723871,
+  "shares_outstanding": 3949547394,
   "beta": 1.0,
   "roe": 4.67,
   "analyst_growth_estimate": 20.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-23T19:13:44Z"
+  "last_updated": "2026-07-24T02:24:42Z"
 }
