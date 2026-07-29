@@ -1,10 +1,10 @@
 {
   "ticker": "KO",
   "name": "Coca-Cola Company (The)",
-  "price": 90.2788,
-  "market_cap": 388469686272,
-  "revenue_ttm": 49284000000.0,
-  "net_income_ttm": 13701000000.0,
+  "price": 88.97,
+  "market_cap": 382880972800,
+  "revenue_ttm": 36749000000.0,
+  "net_income_ttm": 9891000000.0,
   "ocf_ttm": 14631000000.0,
   "capex_ttm": 2069000000.0,
   "sbc_ttm": 272000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 13820000000.0,
   "book_value_ttm": 33633000000.0,
   "shares_outstanding": 4303000000,
-  "beta": 0.8,
-  "roe": 43.37,
-  "analyst_growth_estimate": 6.91,
-  "forward_eps": 3.48341,
-  "dividend_yield": 252.0,
+  "beta": 1.0,
+  "roe": 42.05,
+  "analyst_growth_estimate": 6.81,
+  "forward_eps": 3.52225,
+  "dividend_yield": 240.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-07-29T14:03:55Z"
+  "last_updated": "2026-07-29T19:10:33Z"
 }
