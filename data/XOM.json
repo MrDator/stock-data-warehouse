@@ -1,8 +1,8 @@
 {
   "ticker": "XOM",
   "name": "ExxonMobil Holdings Corporation",
-  "price": 154.785,
-  "market_cap": 641575682048,
+  "price": 157.18,
+  "market_cap": 651502747648,
   "revenue_ttm": 326008000000.0,
   "net_income_ttm": 25314000000.0,
   "ocf_ttm": 47722000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 9.87,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 10.75085,
+  "forward_eps": 10.58827,
   "dividend_yield": 263.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-07-30T13:57:16Z"
+  "last_updated": "2026-07-30T19:25:58Z"
 }
