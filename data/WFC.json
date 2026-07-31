@@ -1,8 +1,8 @@
 {
   "ticker": "WFC",
   "name": "Wells Fargo & Company",
-  "price": 85.43,
-  "market_cap": 258340257792,
+  "price": 85.6,
+  "market_cap": 258854322176,
   "revenue_ttm": 86796000000.0,
   "net_income_ttm": 22610000000.0,
   "ocf_ttm": 19170000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 3023999336,
   "beta": 0.92,
   "roe": 12.57,
-  "analyst_growth_estimate": 7.66,
+  "analyst_growth_estimate": 7.83,
   "forward_eps": 7.88119,
-  "dividend_yield": 238.0,
+  "dividend_yield": 234.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-07-31T08:48:58Z"
+  "last_updated": "2026-07-31T13:57:50Z"
 }
