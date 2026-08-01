@@ -2,7 +2,7 @@
   "ticker": "GS",
   "name": "Goldman Sachs Group, Inc. (The)",
   "price": 1018.38,
-  "market_cap": 0,
+  "market_cap": 300429672448,
   "revenue_ttm": 45865000000.0,
   "net_income_ttm": 14345000000.0,
   "ocf_ttm": -39792000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 434737000000.0,
   "cash_and_equivalents": 194020000000.0,
   "book_value_ttm": 122782000000.0,
-  "shares_outstanding": 0,
+  "shares_outstanding": 295007421,
   "beta": 1.29,
   "roe": 16.95,
-  "analyst_growth_estimate": 11.38,
+  "analyst_growth_estimate": 11.31,
   "forward_eps": 73.76846,
-  "dividend_yield": 195.0,
+  "dividend_yield": 196.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-08-01T08:18:53Z"
+  "last_updated": "2026-08-01T13:11:54Z"
 }
