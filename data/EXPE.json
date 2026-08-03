@@ -1,8 +1,8 @@
 {
   "ticker": "EXPE",
   "name": "Expedia Group, Inc.",
-  "price": 302.16,
-  "market_cap": 36265873408,
+  "price": 299.77,
+  "market_cap": 35979018240,
   "revenue_ttm": 15171000000.0,
   "net_income_ttm": 1488000000.0,
   "ocf_ttm": 4859000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 5794000000.0,
   "book_value_ttm": 576000000.0,
   "shares_outstanding": 114498625,
-  "beta": 1.23,
+  "beta": 1.25,
   "roe": 71.49,
   "analyst_growth_estimate": 20.0,
   "forward_eps": 22.9064,
   "dividend_yield": 60.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-03T14:33:02Z"
+  "last_updated": "2026-08-03T19:28:45Z"
 }
