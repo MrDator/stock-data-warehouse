@@ -1,8 +1,8 @@
 {
   "ticker": "KLAC",
   "name": "KLA Corporation",
-  "price": 182.82,
-  "market_cap": 238813249536,
+  "price": 180.415,
+  "market_cap": 235671633920,
   "revenue_ttm": 9921920000.0,
   "net_income_ttm": 3467712000.0,
   "ocf_ttm": 4401640000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 4957938000.0,
   "book_value_ttm": 5830495000.0,
   "shares_outstanding": 1306275210,
-  "beta": 1.41,
+  "beta": 1.46,
   "roe": 87.5,
-  "analyst_growth_estimate": 28.54,
+  "analyst_growth_estimate": 28.17,
   "forward_eps": 6.54928,
   "dividend_yield": 50.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-08-03T09:40:54Z"
+  "last_updated": "2026-08-03T14:35:19Z"
 }

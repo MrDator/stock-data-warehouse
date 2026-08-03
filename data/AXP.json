@@ -1,8 +1,8 @@
 {
   "ticker": "AXP",
   "name": "American Express Company",
-  "price": 336.25,
-  "market_cap": 227072933888,
+  "price": 343.575,
+  "market_cap": 232019574784,
   "revenue_ttm": 75952000000.0,
   "net_income_ttm": 11445000000.0,
   "ocf_ttm": 18475000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 46040000000.0,
   "book_value_ttm": 34280000000.0,
   "shares_outstanding": 675309833,
-  "beta": 1.04,
+  "beta": 1.05,
   "roe": 34.38,
-  "analyst_growth_estimate": 13.0,
-  "forward_eps": 20.11015,
+  "analyst_growth_estimate": 13.28,
+  "forward_eps": 20.11417,
   "dividend_yield": 113.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-08-03T09:41:11Z"
+  "last_updated": "2026-08-03T14:31:31Z"
 }
