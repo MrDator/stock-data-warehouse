@@ -1,8 +1,8 @@
 {
   "ticker": "ABNB",
   "name": "Airbnb, Inc.",
-  "price": 151.055,
-  "market_cap": 89651879936,
+  "price": 150.64,
+  "market_cap": 89405579264,
   "revenue_ttm": 12647000000.0,
   "net_income_ttm": 2517000000.0,
   "ocf_ttm": 4565000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.14,
   "roe": 32.32,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 6.01898,
+  "forward_eps": 5.99539,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-03T19:31:36Z"
+  "last_updated": "2026-08-04T02:10:17Z"
 }
