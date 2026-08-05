@@ -1,7 +1,7 @@
 {
   "ticker": "LLY",
   "name": "Eli Lilly and Company",
-  "price": 1187.436,
+  "price": 1162.57,
   "market_cap": 0,
   "revenue_ttm": 72249500000.0,
   "net_income_ttm": 25276700000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 0,
   "beta": 0.51,
   "roe": 107.46,
-  "analyst_growth_estimate": 27.54,
-  "forward_eps": 45.08017,
+  "analyst_growth_estimate": 26.5,
+  "forward_eps": 45.25148,
   "dividend_yield": 62.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-08-05T14:00:20Z"
+  "last_updated": "2026-08-05T19:26:36Z"
 }
