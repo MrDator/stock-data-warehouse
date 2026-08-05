@@ -1,8 +1,8 @@
 {
   "ticker": "RBLX",
   "name": "Roblox Corporation",
-  "price": 37.365,
-  "market_cap": 26692657152,
+  "price": 37.0,
+  "market_cap": 26431909888,
   "revenue_ttm": 5685667000.0,
   "net_income_ttm": -1000626000.0,
   "ocf_ttm": 2100358000.0,
@@ -16,9 +16,9 @@
   "beta": 1.46,
   "roe": -432.28,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": -1.21729,
+  "forward_eps": -1.22329,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-04T19:28:04Z"
+  "last_updated": "2026-08-05T02:10:00Z"
 }
