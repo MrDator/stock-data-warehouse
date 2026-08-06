@@ -1,8 +1,8 @@
 {
   "ticker": "GILD",
   "name": "Gilead Sciences, Inc.",
-  "price": 131.29,
-  "market_cap": 163005710336,
+  "price": 131.76,
+  "market_cap": 163589242880,
   "revenue_ttm": 22653000000.0,
   "net_income_ttm": 7256000000.0,
   "ocf_ttm": 10806000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.2,
   "roe": 43.36,
   "analyst_growth_estimate": 4.4,
-  "forward_eps": 9.86518,
-  "dividend_yield": 243.0,
+  "forward_eps": 9.8419,
+  "dividend_yield": 250.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-08-05T19:25:30Z"
+  "last_updated": "2026-08-06T02:17:55Z"
 }
