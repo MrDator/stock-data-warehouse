@@ -2,7 +2,7 @@
   "ticker": "DIS",
   "name": "Walt Disney Company (The)",
   "price": 104.68,
-  "market_cap": 181778022400,
+  "market_cap": 0,
   "revenue_ttm": 73613000000.0,
   "net_income_ttm": 5962000000.0,
   "ocf_ttm": 15792000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 47358000000.0,
   "cash_and_equivalents": 5682000000.0,
   "book_value_ttm": 108708000000.0,
-  "shares_outstanding": 1736511424,
+  "shares_outstanding": 0,
   "beta": 1.0,
   "roe": 8.01,
-  "analyst_growth_estimate": 9.43,
+  "analyst_growth_estimate": 9.16,
   "forward_eps": 7.45869,
   "dividend_yield": 147.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-06T23:59:49Z"
+  "last_updated": "2026-08-07T02:32:09Z"
 }
