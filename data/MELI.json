@@ -2,7 +2,7 @@
   "ticker": "MELI",
   "name": "MercadoLibre, Inc.",
   "price": 1830.0,
-  "market_cap": 92775849984,
+  "market_cap": 92775145472,
   "revenue_ttm": 31803000000.0,
   "net_income_ttm": 1920000000.0,
   "ocf_ttm": 13160000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 12345000000.0,
   "cash_and_equivalents": 5456000000.0,
   "book_value_ttm": 7281000000.0,
-  "shares_outstanding": 50697182,
+  "shares_outstanding": 50696802,
   "beta": 1.31,
   "roe": 31.26,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 58.27719,
+  "forward_eps": 58.03862,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-07T02:32:26Z"
+  "last_updated": "2026-08-07T07:12:53Z"
 }
