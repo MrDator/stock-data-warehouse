@@ -1,8 +1,8 @@
 {
   "ticker": "BA",
   "name": "Boeing Company (The)",
-  "price": 233.9,
-  "market_cap": 184732467200,
+  "price": 234.42,
+  "market_cap": 185143164928,
   "revenue_ttm": 69435000000.0,
   "net_income_ttm": 2879000000.0,
   "ocf_ttm": 2502000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-07T18:52:56Z"
+  "last_updated": "2026-08-08T01:22:11Z"
 }
