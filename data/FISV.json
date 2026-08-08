@@ -2,7 +2,7 @@
   "ticker": "FISV",
   "name": "Fiserv, Inc.",
   "price": 52.41,
-  "market_cap": 27947841536,
+  "market_cap": 27869894656,
   "revenue_ttm": 21090000000.0,
   "net_income_ttm": 3200000000.0,
   "ocf_ttm": 6013000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 29307000000.0,
   "cash_and_equivalents": 335000000.0,
   "book_value_ttm": 26201000000.0,
-  "shares_outstanding": 533253986,
+  "shares_outstanding": 531766721,
   "beta": 1.0,
   "roe": 0.0,
   "analyst_growth_estimate": 3.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-08T01:21:08Z"
+  "last_updated": "2026-08-08T06:48:03Z"
 }
