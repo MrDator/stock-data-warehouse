@@ -1,8 +1,8 @@
 {
   "ticker": "RH",
   "name": "RH",
-  "price": 180.56,
-  "market_cap": 3417318144,
+  "price": 180.25,
+  "market_cap": 3411451136,
   "revenue_ttm": 3425912000.0,
   "net_income_ttm": 103051000.0,
   "ocf_ttm": 418101000.0,
@@ -16,9 +16,9 @@
   "beta": 1.87,
   "roe": 0.0,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 9.19505,
+  "forward_eps": 9.21255,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-12T18:59:19Z"
+  "last_updated": "2026-08-13T01:47:15Z"
 }

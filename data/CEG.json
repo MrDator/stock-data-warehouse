@@ -1,8 +1,8 @@
 {
   "ticker": "CEG",
   "name": "Constellation Energy Corporatio",
-  "price": 278.3501,
-  "market_cap": 98621497344,
+  "price": 278.68,
+  "market_cap": 98738380800,
   "revenue_ttm": 31270000000.0,
   "net_income_ttm": 3465000000.0,
   "ocf_ttm": 4206000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 354307379,
   "beta": 1.12,
   "roe": 15.06,
-  "analyst_growth_estimate": 7.27,
+  "analyst_growth_estimate": 7.26,
   "forward_eps": 13.3219,
   "dividend_yield": 61.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-08-12T19:01:41Z"
+  "last_updated": "2026-08-13T01:42:25Z"
 }
