@@ -1,8 +1,8 @@
 {
   "ticker": "AMD",
   "name": "Advanced Micro Devices, Inc.",
-  "price": 508.78,
-  "market_cap": 830570627072,
+  "price": 506.0,
+  "market_cap": 826032324608,
   "revenue_ttm": 41305000000.0,
   "net_income_ttm": 6434000000.0,
   "ocf_ttm": 10080000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-08-17T18:38:34Z"
+  "last_updated": "2026-08-18T01:02:29Z"
 }
