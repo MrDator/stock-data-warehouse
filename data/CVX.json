@@ -1,8 +1,8 @@
 {
   "ticker": "CVX",
   "name": "Chevron Corporation",
-  "price": 205.3558,
-  "market_cap": 402826625024,
+  "price": 205.74,
+  "market_cap": 403580289024,
   "revenue_ttm": 208711000000.0,
   "net_income_ttm": 20591000000.0,
   "ocf_ttm": 45321000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 12.23,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 13.11351,
+  "forward_eps": 13.17559,
   "dividend_yield": 351.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-08-18T18:33:12Z"
+  "last_updated": "2026-08-19T01:04:44Z"
 }
