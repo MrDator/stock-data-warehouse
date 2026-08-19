@@ -1,8 +1,8 @@
 {
   "ticker": "SO",
   "name": "Southern Company (The)",
-  "price": 92.07,
-  "market_cap": 105913925632,
+  "price": 92.3,
+  "market_cap": 106178510848,
   "revenue_ttm": 30178000000.0,
   "net_income_ttm": 4657000000.0,
   "ocf_ttm": 10651000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1150362966,
   "beta": 0.8,
   "roe": 11.48,
-  "analyst_growth_estimate": 9.4,
+  "analyst_growth_estimate": 9.42,
   "forward_eps": 4.92406,
   "dividend_yield": 330.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-08-19T12:38:47Z"
+  "last_updated": "2026-08-19T18:35:08Z"
 }
