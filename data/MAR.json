@@ -1,8 +1,8 @@
 {
   "ticker": "MAR",
   "name": "Marriott International",
-  "price": 356.95,
-  "market_cap": 93080526848,
+  "price": 356.6,
+  "market_cap": 92989259776,
   "revenue_ttm": 26904000000.0,
   "net_income_ttm": 2587000000.0,
   "ocf_ttm": 3728000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 260766288,
   "beta": 1.12,
   "roe": 0.0,
-  "analyst_growth_estimate": 18.13,
-  "forward_eps": 13.15657,
+  "analyst_growth_estimate": 18.11,
+  "forward_eps": 13.16519,
   "dividend_yield": 81.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-20T18:36:24Z"
+  "last_updated": "2026-08-21T01:08:18Z"
 }
