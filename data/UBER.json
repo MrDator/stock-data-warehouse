@@ -1,8 +1,8 @@
 {
   "ticker": "UBER",
   "name": "Uber Technologies, Inc.",
-  "price": 78.55,
-  "market_cap": 160443105280,
+  "price": 78.515,
+  "market_cap": 160371605504,
   "revenue_ttm": 55227000000.0,
   "net_income_ttm": 9579000000.0,
   "ocf_ttm": 10424000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-08-21T12:42:17Z"
+  "last_updated": "2026-08-21T18:33:38Z"
 }

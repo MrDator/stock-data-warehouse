@@ -1,8 +1,8 @@
 {
   "ticker": "WM",
   "name": "Waste Management, Inc.",
-  "price": 224.92,
-  "market_cap": 89903939584,
+  "price": 224.6,
+  "market_cap": 89776037888,
   "revenue_ttm": 25667000000.0,
   "net_income_ttm": 2853000000.0,
   "ocf_ttm": 6517000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 399715184,
   "beta": 0.8,
   "roe": 29.84,
-  "analyst_growth_estimate": 13.85,
+  "analyst_growth_estimate": 13.83,
   "forward_eps": 9.11924,
   "dividend_yield": 157.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-21T12:39:47Z"
+  "last_updated": "2026-08-21T18:36:52Z"
 }
