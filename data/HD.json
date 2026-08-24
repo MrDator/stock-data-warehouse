@@ -2,7 +2,7 @@
   "ticker": "HD",
   "name": "Home Depot, Inc. (The)",
   "price": 335.61,
-  "market_cap": 334642315264,
+  "market_cap": 0,
   "revenue_ttm": 166592000000.0,
   "net_income_ttm": 14012000000.0,
   "ocf_ttm": 18032000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 63157000000.0,
   "cash_and_equivalents": 1601000000.0,
   "book_value_ttm": 13874000000.0,
-  "shares_outstanding": 997116682,
+  "shares_outstanding": 0,
   "beta": 0.96,
   "roe": 104.3,
   "analyst_growth_estimate": 12.55,
-  "forward_eps": 16.03892,
+  "forward_eps": 16.03862,
   "dividend_yield": 278.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-08-24T06:50:57Z"
+  "last_updated": "2026-08-24T12:44:57Z"
 }
