@@ -1,8 +1,8 @@
 {
   "ticker": "EXC",
   "name": "Exelon Corporation",
-  "price": 44.415,
-  "market_cap": 45758730240,
+  "price": 44.44,
+  "market_cap": 45784485888,
   "revenue_ttm": 25326000000.0,
   "net_income_ttm": 2784000000.0,
   "ocf_ttm": 7212000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1030253967,
   "beta": 0.8,
   "roe": 9.71,
-  "analyst_growth_estimate": 6.48,
+  "analyst_growth_estimate": 6.38,
   "forward_eps": 3.0383,
   "dividend_yield": 379.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-08-26T19:44:59Z"
+  "last_updated": "2026-08-27T07:09:09Z"
 }
