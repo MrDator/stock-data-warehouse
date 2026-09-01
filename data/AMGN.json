@@ -1,8 +1,8 @@
 {
   "ticker": "AMGN",
   "name": "Amgen Inc.",
-  "price": 432.57,
-  "market_cap": 233928769536,
+  "price": 438.12,
+  "market_cap": 236861685760,
   "revenue_ttm": 38095000000.0,
   "net_income_ttm": 8743000000.0,
   "ocf_ttm": 12478000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 540632005,
   "beta": 1.2,
   "roe": 91.47,
-  "analyst_growth_estimate": 11.72,
+  "analyst_growth_estimate": 12.05,
   "forward_eps": 24.39759,
   "dividend_yield": 234.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-09-01T16:02:13Z"
+  "last_updated": "2026-09-01T20:32:15Z"
 }
