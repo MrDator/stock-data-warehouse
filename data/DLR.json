@@ -9,9 +9,9 @@
   "capex_ttm": 0.0,
   "sbc_ttm": 98147000.0,
   "buyback_ttm": 0.0,
-  "total_debt": NaN,
-  "cash_and_equivalents": NaN,
-  "book_value_ttm": NaN,
+  "total_debt": 19215142000.0,
+  "cash_and_equivalents": 2426631000.0,
+  "book_value_ttm": 23368753000.0,
   "shares_outstanding": 370998727,
   "beta": 1.04,
   "roe": 2.91,
@@ -20,5 +20,5 @@
   "dividend_yield": 263.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-08-31T22:24:27Z"
+  "last_updated": "2026-09-01T03:25:16Z"
 }
