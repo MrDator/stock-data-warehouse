@@ -2,7 +2,7 @@
   "ticker": "PSA",
   "name": "Public Storage",
   "price": 302.86,
-  "market_cap": 56557813760,
+  "market_cap": 55744114688,
   "revenue_ttm": 4890457000.0,
   "net_income_ttm": 2044371000.0,
   "ocf_ttm": 3171916000.0,
@@ -12,13 +12,13 @@
   "total_debt": 10180215000.0,
   "cash_and_equivalents": 259936000.0,
   "book_value_ttm": 9190280000.0,
-  "shares_outstanding": 186745748,
+  "shares_outstanding": 184059026,
   "beta": 0.94,
   "roe": 21.93,
-  "analyst_growth_estimate": 6.26,
+  "analyst_growth_estimate": 6.35,
   "forward_eps": 10.17484,
   "dividend_yield": 391.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-09-01T20:33:43Z"
+  "last_updated": "2026-09-02T02:43:04Z"
 }
