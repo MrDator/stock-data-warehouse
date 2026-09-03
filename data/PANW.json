@@ -1,8 +1,8 @@
 {
   "ticker": "PANW",
   "name": "Palo Alto Networks, Inc.",
-  "price": 328.48,
-  "market_cap": 267711201280,
+  "price": 331.1899,
+  "market_cap": 269919780864,
   "revenue_ttm": 10606300000.0,
   "net_income_ttm": 842800000.0,
   "ocf_ttm": 4216800000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 3111000000.0,
   "book_value_ttm": 27668000000.0,
   "shares_outstanding": 815000000,
-  "beta": 0.89,
-  "roe": 4.83,
+  "beta": 0.91,
+  "roe": 1.74,
   "analyst_growth_estimate": 45.0,
   "forward_eps": 4.89972,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-03T10:39:41Z"
+  "last_updated": "2026-09-03T15:45:57Z"
 }
