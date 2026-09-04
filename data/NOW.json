@@ -1,8 +1,8 @@
 {
   "ticker": "NOW",
   "name": "ServiceNow, Inc.",
-  "price": 141.405,
-  "market_cap": 146193252352,
+  "price": 141.27,
+  "market_cap": 146053693440,
   "revenue_ttm": 14732000000.0,
   "net_income_ttm": 1670000000.0,
   "ocf_ttm": 5308000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 4664000000.0,
   "book_value_ttm": 12516000000.0,
   "shares_outstanding": 1033862000,
-  "beta": 0.93,
+  "beta": 0.97,
   "roe": 14.24,
   "analyst_growth_estimate": 45.0,
   "forward_eps": 5.00551,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-04T15:45:27Z"
+  "last_updated": "2026-09-04T20:14:05Z"
 }
