@@ -1,8 +1,8 @@
 {
   "ticker": "COST",
   "name": "Costco Wholesale Corporation",
-  "price": 925.41,
-  "market_cap": 410399703040,
+  "price": 916.0,
+  "market_cap": 406186655744,
   "revenue_ttm": 293587000000.0,
   "net_income_ttm": 8838000000.0,
   "ocf_ttm": 15000000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 19996000000.0,
   "book_value_ttm": 33509000000.0,
   "shares_outstanding": 443478804,
-  "beta": 0.85,
+  "beta": 0.86,
   "roe": 29.15,
-  "analyst_growth_estimate": 10.25,
+  "analyst_growth_estimate": 10.09,
   "forward_eps": 22.65291,
-  "dividend_yield": 64.0,
+  "dividend_yield": 63.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-04T10:33:54Z"
+  "last_updated": "2026-09-04T15:43:16Z"
 }

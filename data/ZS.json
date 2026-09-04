@@ -1,8 +1,8 @@
 {
   "ticker": "ZS",
   "name": "Zscaler, Inc.",
-  "price": 177.8,
-  "market_cap": 28751953920,
+  "price": 169.38,
+  "market_cap": 27390359552,
   "revenue_ttm": 3173564000.0,
   "net_income_ttm": -77388000.0,
   "ocf_ttm": 1100973000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 3539107000.0,
   "book_value_ttm": 2366595000.0,
   "shares_outstanding": 161709525,
-  "beta": 0.92,
-  "roe": -3.71,
-  "analyst_growth_estimate": 25.4,
+  "beta": 1.0,
+  "roe": -2.87,
+  "analyst_growth_estimate": 24.9,
   "forward_eps": 5.52089,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-04T10:34:25Z"
+  "last_updated": "2026-09-04T15:43:28Z"
 }

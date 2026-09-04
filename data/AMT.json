@@ -1,8 +1,8 @@
 {
   "ticker": "AMT",
   "name": "American Tower Corporation (REI",
-  "price": 177.75,
-  "market_cap": 82824404992,
+  "price": 176.31,
+  "market_cap": 82153414656,
   "revenue_ttm": 10819300000.0,
   "net_income_ttm": 2900300000.0,
   "ocf_ttm": 5569600000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 1608800000.0,
   "book_value_ttm": 3522600000.0,
   "shares_outstanding": 465960048,
-  "beta": 0.9,
+  "beta": 0.89,
   "roe": 33.91,
   "analyst_growth_estimate": 10.0,
   "forward_eps": 7.01004,
-  "dividend_yield": 393.0,
+  "dividend_yield": 404.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-09-04T10:36:02Z"
+  "last_updated": "2026-09-04T15:44:31Z"
 }

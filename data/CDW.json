@@ -1,8 +1,8 @@
 {
   "ticker": "CDW",
   "name": "CDW Corporation",
-  "price": 153.92,
-  "market_cap": 19242682368,
+  "price": 153.255,
+  "market_cap": 19159545856,
   "revenue_ttm": 23500400000.0,
   "net_income_ttm": 1080300000.0,
   "ocf_ttm": 981800000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 125017426,
   "beta": 0.94,
   "roe": 44.01,
-  "analyst_growth_estimate": 13.43,
+  "analyst_growth_estimate": 13.37,
   "forward_eps": 11.93743,
-  "dividend_yield": 164.0,
+  "dividend_yield": 170.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-04T10:34:48Z"
+  "last_updated": "2026-09-04T15:43:50Z"
 }
