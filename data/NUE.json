@@ -6,12 +6,12 @@
   "revenue_ttm": 36101000000.0,
   "net_income_ttm": 2884000000.0,
   "ocf_ttm": 4424000000.0,
-  "capex_ttm": 2270000000.0,
-  "sbc_ttm": 85000000.0,
-  "buyback_ttm": 325000000.0,
-  "total_debt": NaN,
+  "capex_ttm": 2841000000.0,
+  "sbc_ttm": 146000000.0,
+  "buyback_ttm": 675000000.0,
+  "total_debt": 7099000000.0,
   "cash_and_equivalents": 2692000000.0,
-  "book_value_ttm": NaN,
+  "book_value_ttm": 22109000000.0,
   "shares_outstanding": 226875676,
   "beta": 1.88,
   "roe": 14.55,
@@ -20,5 +20,5 @@
   "dividend_yield": 85.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-05T14:32:00Z"
+  "last_updated": "2026-09-05T19:56:21Z"
 }

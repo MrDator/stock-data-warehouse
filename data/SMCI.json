@@ -2,9 +2,9 @@
   "ticker": "SMCI",
   "name": "Super Micro Computer, Inc.",
   "price": 39.59,
-  "market_cap": 25609703424,
-  "revenue_ttm": 33700206000.0,
-  "net_income_ttm": 1247390000.0,
+  "market_cap": 26009260032,
+  "revenue_ttm": 27943295000.0,
+  "net_income_ttm": 1052236000.0,
   "ocf_ttm": -6693234000.0,
   "capex_ttm": 156447000.0,
   "sbc_ttm": 389170000.0,
@@ -12,7 +12,7 @@
   "total_debt": 8805804000.0,
   "cash_and_equivalents": 1290324000.0,
   "book_value_ttm": 7575430000.0,
-  "shares_outstanding": 646873027,
+  "shares_outstanding": 656965384,
   "beta": 2.0,
   "roe": 21.47,
   "analyst_growth_estimate": 13.35,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "Hardware",
   "currency_code": "USD",
-  "last_updated": "2026-09-05T14:33:08Z"
+  "last_updated": "2026-09-05T19:54:52Z"
 }
