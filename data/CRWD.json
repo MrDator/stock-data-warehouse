@@ -6,11 +6,11 @@
   "revenue_ttm": 5396145000.0,
   "net_income_ttm": 58460000.0,
   "ocf_ttm": 2016615000.0,
-  "capex_ttm": 340080000.0,
-  "sbc_ttm": 853625000.0,
+  "capex_ttm": 494012000.0,
+  "sbc_ttm": 1244004000.0,
   "buyback_ttm": 175622000.0,
   "total_debt": 820179000.0,
-  "cash_and_equivalents": NaN,
+  "cash_and_equivalents": 5013847000.0,
   "book_value_ttm": 5101724000.0,
   "shares_outstanding": 1023934842,
   "beta": 1.25,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-05T19:58:18Z"
+  "last_updated": "2026-09-06T02:48:03Z"
 }

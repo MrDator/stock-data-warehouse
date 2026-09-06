@@ -4,11 +4,11 @@
   "price": 101.33,
   "market_cap": 29566443520,
   "revenue_ttm": 4993050000.0,
-  "net_income_ttm": 1712630000.0,
+  "net_income_ttm": 3255075000.0,
   "ocf_ttm": 2000208000.0,
   "capex_ttm": 75075000.0,
   "sbc_ttm": 729245000.0,
-  "buyback_ttm": 1099090000.0,
+  "buyback_ttm": 1459596000.0,
   "total_debt": 60272000.0,
   "cash_and_equivalents": 7249721000.0,
   "book_value_ttm": 11303611000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-05T19:56:08Z"
+  "last_updated": "2026-09-06T02:46:48Z"
 }

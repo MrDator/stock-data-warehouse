@@ -3,15 +3,15 @@
   "name": "Synopsys, Inc.",
   "price": 393.84,
   "market_cap": 75474173952,
-  "revenue_ttm": 6939643000.0,
+  "revenue_ttm": 9416465000.0,
   "net_income_ttm": 1076559000.0,
   "ocf_ttm": 2938341000.0,
-  "capex_ttm": 124064000.0,
+  "capex_ttm": 190635000.0,
   "sbc_ttm": 950016000.0,
   "buyback_ttm": 37500000.0,
-  "total_debt": NaN,
+  "total_debt": 10841789000.0,
   "cash_and_equivalents": 3607669000.0,
-  "book_value_ttm": NaN,
+  "book_value_ttm": 31152539000.0,
   "shares_outstanding": 191636646,
   "beta": 1.23,
   "roe": 3.66,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-05T19:54:17Z"
+  "last_updated": "2026-09-06T02:52:10Z"
 }
