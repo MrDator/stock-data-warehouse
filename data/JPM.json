@@ -1,8 +1,8 @@
 {
   "ticker": "JPM",
   "name": "JP Morgan Chase & Co.",
-  "price": 358.64,
-  "market_cap": 953331941376,
+  "price": 355.5,
+  "market_cap": 944985210880,
   "revenue_ttm": 194911000000.0,
   "net_income_ttm": 65067000000.0,
   "ocf_ttm": -162534000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 2658186195,
   "beta": 0.97,
   "roe": 17.79,
-  "analyst_growth_estimate": 9.2,
+  "analyst_growth_estimate": 9.12,
   "forward_eps": 25.02449,
   "dividend_yield": 167.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-09-08T10:34:19Z"
+  "last_updated": "2026-09-08T15:58:03Z"
 }
