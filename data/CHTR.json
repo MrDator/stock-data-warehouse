@@ -1,8 +1,8 @@
 {
   "ticker": "CHTR",
   "name": "Charter Communications, Inc.",
-  "price": 145.77,
-  "market_cap": 19646515200,
+  "price": 143.605,
+  "market_cap": 19354720256,
   "revenue_ttm": 54396000000.0,
   "net_income_ttm": 4924000000.0,
   "ocf_ttm": 16470000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 119277492,
   "beta": 0.69,
   "roe": 27.2,
-  "analyst_growth_estimate": 4.57,
-  "forward_eps": 44.10271,
+  "analyst_growth_estimate": 4.5,
+  "forward_eps": 41.86,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-14T11:44:18Z"
+  "last_updated": "2026-09-14T17:42:03Z"
 }
