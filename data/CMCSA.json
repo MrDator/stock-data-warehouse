@@ -1,8 +1,8 @@
 {
   "ticker": "CMCSA",
   "name": "Comcast Corporation",
-  "price": 24.88,
-  "market_cap": 88290074624,
+  "price": 24.52,
+  "market_cap": 87012573184,
   "revenue_ttm": 124905000000.0,
   "net_income_ttm": 11200000000.0,
   "ocf_ttm": 32517000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 3539192198,
   "beta": 0.66,
   "roe": 11.49,
-  "analyst_growth_estimate": 0.06,
+  "analyst_growth_estimate": 0.05,
   "forward_eps": 3.62523,
   "dividend_yield": 531.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-15T11:05:29Z"
+  "last_updated": "2026-09-15T16:13:46Z"
 }
