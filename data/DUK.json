@@ -1,8 +1,8 @@
 {
   "ticker": "DUK",
   "name": "Duke Energy Corporation (Holdin",
-  "price": 117.325,
-  "market_cap": 91478556672,
+  "price": 117.53,
+  "market_cap": 91638398976,
   "revenue_ttm": 33250000000.0,
   "net_income_ttm": 5247000000.0,
   "ocf_ttm": 11562000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 779702193,
   "beta": 0.8,
   "roe": 9.86,
-  "analyst_growth_estimate": 8.07,
-  "forward_eps": 7.17232,
+  "analyst_growth_estimate": 8.08,
+  "forward_eps": 7.17137,
   "dividend_yield": 366.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-09-18T15:47:53Z"
+  "last_updated": "2026-09-18T20:26:02Z"
 }
