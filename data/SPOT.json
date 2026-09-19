@@ -2,7 +2,7 @@
   "ticker": "SPOT",
   "name": "Spotify Technology S.A.",
   "price": 509.45,
-  "market_cap": 104753143808,
+  "market_cap": 104734875648,
   "revenue_ttm": 20812363552.797886,
   "net_income_ttm": 3836608066.1840744,
   "ocf_ttm": 3834310008.043204,
@@ -12,7 +12,7 @@
   "total_debt": 535447546.8229346,
   "cash_and_equivalents": 10787084913.248306,
   "book_value_ttm": 9634608755.601517,
-  "shares_outstanding": 205620061,
+  "shares_outstanding": 205584205,
   "beta": 1.59,
   "roe": 44.48,
   "analyst_growth_estimate": 19.4,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-19T15:20:03Z"
+  "last_updated": "2026-09-19T20:02:53Z"
 }
