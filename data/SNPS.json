@@ -1,8 +1,8 @@
 {
   "ticker": "SNPS",
   "name": "Synopsys, Inc.",
-  "price": 409.5502,
-  "market_cap": 78484824064,
+  "price": 409.24,
+  "market_cap": 78425374720,
   "revenue_ttm": 9416465000.0,
   "net_income_ttm": 1076559000.0,
   "ocf_ttm": 2938341000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 191636646,
   "beta": 1.23,
   "roe": 3.66,
-  "analyst_growth_estimate": 34.64,
+  "analyst_growth_estimate": 33.1,
   "forward_eps": 17.52589,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-22T16:14:46Z"
+  "last_updated": "2026-09-22T20:54:36Z"
 }

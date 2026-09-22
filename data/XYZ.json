@@ -1,8 +1,8 @@
 {
   "ticker": "XYZ",
   "name": "Block, Inc.",
-  "price": 77.49,
-  "market_cap": 46552600576,
+  "price": 77.53,
+  "market_cap": 46579638272,
   "revenue_ttm": 25041964000.0,
   "net_income_ttm": 357142000.0,
   "ocf_ttm": 4057472000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-09-22T16:12:51Z"
+  "last_updated": "2026-09-22T20:55:10Z"
 }
