@@ -1,8 +1,8 @@
 {
   "ticker": "DLTR",
   "name": "Dollar Tree, Inc.",
-  "price": 113.3,
-  "market_cap": 21258514432,
+  "price": 113.14,
+  "market_cap": 21228492800,
   "revenue_ttm": 20068700000.0,
   "net_income_ttm": 1612500000.0,
   "ocf_ttm": 3117000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 187630299,
   "beta": 0.66,
   "roe": 46.03,
-  "analyst_growth_estimate": 9.58,
+  "analyst_growth_estimate": 12.16,
   "forward_eps": 7.91247,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-09-30T11:56:08Z"
+  "last_updated": "2026-09-30T17:38:34Z"
 }
