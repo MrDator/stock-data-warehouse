@@ -1,8 +1,8 @@
 {
   "ticker": "ADSK",
   "name": "Autodesk, Inc.",
-  "price": 212.0441,
-  "market_cap": 44317216768,
+  "price": 212.0,
+  "market_cap": 44308000768,
   "revenue_ttm": 7790000000.0,
   "net_income_ttm": 1642000000.0,
   "ocf_ttm": 2896000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 209000000,
   "beta": 1.31,
   "roe": 53.85,
-  "analyst_growth_estimate": 38.74,
+  "analyst_growth_estimate": 38.73,
   "forward_eps": 14.19939,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-10-02T17:25:42Z"
+  "last_updated": "2026-10-02T21:49:21Z"
 }

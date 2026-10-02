@@ -1,8 +1,8 @@
 {
   "ticker": "REGN",
   "name": "Regeneron Pharmaceuticals, Inc.",
-  "price": 735.645,
-  "market_cap": 75738324992,
+  "price": 735.2,
+  "market_cap": 75692515328,
   "revenue_ttm": 15534700000.0,
   "net_income_ttm": 4328700000.0,
   "ocf_ttm": 4681300000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 101137842,
   "beta": 1.2,
   "roe": 14.04,
-  "analyst_growth_estimate": 13.79,
+  "analyst_growth_estimate": 13.78,
   "forward_eps": 60.88362,
   "dividend_yield": 51.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-10-02T17:27:16Z"
+  "last_updated": "2026-10-02T21:51:38Z"
 }
