@@ -1,8 +1,8 @@
 {
   "ticker": "QCOM",
   "name": "QUALCOMM Incorporated",
-  "price": 184.225,
-  "market_cap": 196886265856,
+  "price": 180.79,
+  "market_cap": 193094647808,
   "revenue_ttm": 44069000000.0,
   "net_income_ttm": 9259000000.0,
   "ocf_ttm": 12401000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1068060487,
   "beta": 1.65,
   "roe": 33.75,
-  "analyst_growth_estimate": 26.02,
-  "forward_eps": 10.19665,
+  "analyst_growth_estimate": 25.52,
+  "forward_eps": 10.20401,
   "dividend_yield": 199.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-10-05T13:34:59Z"
+  "last_updated": "2026-10-05T23:45:13Z"
 }
