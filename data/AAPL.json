@@ -1,8 +1,8 @@
 {
   "ticker": "AAPL",
   "name": "Apple Inc.",
-  "price": 341.755,
-  "market_cap": 4987634057216,
+  "price": 340.97,
+  "market_cap": 4976177840128,
   "revenue_ttm": 466823000000.0,
   "net_income_ttm": 128930000000.0,
   "ocf_ttm": 146724000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 14594180000,
   "beta": 1.07,
   "roe": 148.75,
-  "analyst_growth_estimate": 14.57,
-  "forward_eps": 9.58768,
+  "analyst_growth_estimate": 14.54,
+  "forward_eps": 9.59035,
   "dividend_yield": 32.0,
   "sector_type": "Hardware",
   "currency_code": "USD",
-  "last_updated": "2026-10-12T14:24:40Z"
+  "last_updated": "2026-10-13T00:12:19Z"
 }
