@@ -1,8 +1,8 @@
 {
   "ticker": "CCI",
   "name": "Crown Castle Inc.",
-  "price": 82.26,
-  "market_cap": 35947622400,
+  "price": 81.06,
+  "market_cap": 34487414784,
   "revenue_ttm": 4161000000.0,
   "net_income_ttm": 862000000.0,
   "ocf_ttm": 2624000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 23404000000.0,
   "cash_and_equivalents": 1042000000.0,
   "book_value_ttm": -3270000000.0,
-  "shares_outstanding": 437000000,
+  "shares_outstanding": 425455439,
   "beta": 0.96,
   "roe": 0.0,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 2.90105,
+  "forward_eps": 2.90429,
   "dividend_yield": 517.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-10-19T12:03:39Z"
+  "last_updated": "2026-10-19T22:01:58Z"
 }

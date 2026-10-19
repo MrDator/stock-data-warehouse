@@ -1,8 +1,8 @@
 {
   "ticker": "ORLY",
   "name": "O'Reilly Automotive, Inc.",
-  "price": 89.27,
-  "market_cap": 72215928832,
+  "price": 89.07,
+  "market_cap": 72054136832,
   "revenue_ttm": 18572562000.0,
   "net_income_ttm": 2650374000.0,
   "ocf_ttm": 3289439000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 808960792,
   "beta": 0.54,
   "roe": 0.0,
-  "analyst_growth_estimate": 12.94,
+  "analyst_growth_estimate": 12.91,
   "forward_eps": 3.65419,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-19T12:05:59Z"
+  "last_updated": "2026-10-19T22:00:55Z"
 }
