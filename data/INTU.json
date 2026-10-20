@@ -1,8 +1,8 @@
 {
   "ticker": "INTU",
   "name": "Intuit Inc.",
-  "price": 335.81,
-  "market_cap": 89740517376,
+  "price": 335.29,
+  "market_cap": 89601564672,
   "revenue_ttm": 21448000000.0,
   "net_income_ttm": 4566000000.0,
   "ocf_ttm": 8838000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 267236000,
   "beta": 1.01,
   "roe": 23.6,
-  "analyst_growth_estimate": 19.81,
+  "analyst_growth_estimate": 19.78,
   "forward_eps": 26.94382,
   "dividend_yield": 170.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-10-20T16:20:25Z"
+  "last_updated": "2026-10-20T21:16:17Z"
 }
