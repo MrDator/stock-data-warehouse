@@ -1,8 +1,8 @@
 {
   "ticker": "MMM",
   "name": "3M Company",
-  "price": 174.74,
-  "market_cap": 90117341184,
+  "price": 174.42,
+  "market_cap": 89952305152,
   "revenue_ttm": 25180000000.0,
   "net_income_ttm": 2997000000.0,
   "ocf_ttm": 4899000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 515722417,
   "beta": 1.06,
   "roe": 72.97,
-  "analyst_growth_estimate": 16.2,
+  "analyst_growth_estimate": 15.87,
   "forward_eps": 9.90527,
   "dividend_yield": 179.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-22T11:10:38Z"
+  "last_updated": "2026-10-22T16:34:52Z"
 }
