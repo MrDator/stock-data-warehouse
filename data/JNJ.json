@@ -1,8 +1,8 @@
 {
   "ticker": "JNJ",
   "name": "Johnson & Johnson",
-  "price": 267.07,
-  "market_cap": 643611623424,
+  "price": 267.61,
+  "market_cap": 644912906240,
   "revenue_ttm": 97929000000.0,
   "net_income_ttm": 21037000000.0,
   "ocf_ttm": 27608000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 2409898597,
   "beta": 1.2,
   "roe": 0.0,
-  "analyst_growth_estimate": 14.22,
+  "analyst_growth_estimate": 14.25,
   "forward_eps": 11.6175,
   "dividend_yield": 208.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-10-22T16:37:09Z"
+  "last_updated": "2026-10-22T21:15:08Z"
 }
