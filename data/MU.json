@@ -1,8 +1,8 @@
 {
   "ticker": "MU",
   "name": "Micron Technology, Inc.",
-  "price": 885.14,
-  "market_cap": 1001468002304,
+  "price": 877.55,
+  "market_cap": 992880427008,
   "revenue_ttm": 90274000000.0,
   "net_income_ttm": 50469000000.0,
   "ocf_ttm": 51432000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 26022000000.0,
   "book_value_ttm": 100724000000.0,
   "shares_outstanding": 1131423212,
-  "beta": 1.35,
+  "beta": 1.6,
   "roe": 88.26,
   "analyst_growth_estimate": 30.0,
   "forward_eps": 206.89381,
   "dividend_yield": 7.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-10-23T16:25:42Z"
+  "last_updated": "2026-10-23T21:00:41Z"
 }

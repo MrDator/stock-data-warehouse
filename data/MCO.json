@@ -1,8 +1,8 @@
 {
   "ticker": "MCO",
   "name": "Moody's Corporation",
-  "price": 481.225,
-  "market_cap": 82974777344,
+  "price": 483.45,
+  "market_cap": 83358425088,
   "revenue_ttm": 8160000000.0,
   "net_income_ttm": 2795000000.0,
   "ocf_ttm": 3319000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.35,
   "roe": 76.74,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 18.76318,
+  "forward_eps": 18.68522,
   "dividend_yield": 84.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-10-23T16:24:39Z"
+  "last_updated": "2026-10-23T20:56:37Z"
 }
