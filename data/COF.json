@@ -2,7 +2,7 @@
   "ticker": "COF",
   "name": "Capital One Financial Corporati",
   "price": 203.43,
-  "market_cap": 124801220608,
+  "market_cap": 124804308992,
   "revenue_ttm": 61938000000.0,
   "net_income_ttm": 10520000000.0,
   "ocf_ttm": 31452000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 44677000000.0,
   "cash_and_equivalents": 56739000000.0,
   "book_value_ttm": 113793000000.0,
-  "shares_outstanding": 613484836,
+  "shares_outstanding": 613500000,
   "beta": 1.0,
   "roe": 9.39,
   "analyst_growth_estimate": 15.0,
-  "forward_eps": 23.81941,
+  "forward_eps": 24.09597,
   "dividend_yield": 155.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-10-22T21:11:37Z"
+  "last_updated": "2026-10-23T03:18:32Z"
 }
