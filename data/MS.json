@@ -3,8 +3,8 @@
   "name": "Morgan Stanley",
   "price": 179.49,
   "market_cap": 280901844992,
-  "revenue_ttm": 73053000000.0,
-  "net_income_ttm": 20155000000.0,
+  "revenue_ttm": 55970000000.0,
+  "net_income_ttm": 15545000000.0,
   "ocf_ttm": -15587000000.0,
   "capex_ttm": 2995000000.0,
   "sbc_ttm": 2051000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 256.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-10-25T03:04:26Z"
+  "last_updated": "2026-10-25T10:40:12Z"
 }
