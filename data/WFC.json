@@ -3,8 +3,8 @@
   "name": "Wells Fargo & Company",
   "price": 82.39,
   "market_cap": 247305027584,
-  "revenue_ttm": 86796000000.0,
-  "net_income_ttm": 22610000000.0,
+  "revenue_ttm": 65360000000.0,
+  "net_income_ttm": 17021000000.0,
   "ocf_ttm": 19170000000.0,
   "capex_ttm": 0.0,
   "sbc_ttm": 0.0,
@@ -16,9 +16,9 @@
   "beta": 0.95,
   "roe": 12.91,
   "analyst_growth_estimate": 9.08,
-  "forward_eps": 8.01302,
+  "forward_eps": 8.01152,
   "dividend_yield": 243.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-10-25T15:33:30Z"
+  "last_updated": "2026-10-25T20:25:09Z"
 }
