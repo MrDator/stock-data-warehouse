@@ -1,8 +1,8 @@
 {
   "ticker": "ORCL",
   "name": "Oracle Corporation",
-  "price": 130.53,
-  "market_cap": 395701813248,
+  "price": 144.54,
+  "market_cap": 438173138944,
   "revenue_ttm": 71777000000.0,
   "net_income_ttm": 18920000000.0,
   "ocf_ttm": 46940000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 3031501149,
   "beta": 1.6,
   "roe": 41.19,
-  "analyst_growth_estimate": 28.82,
+  "analyst_growth_estimate": 31.91,
   "forward_eps": 10.99167,
   "dividend_yield": 153.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-10-28T12:08:01Z"
+  "last_updated": "2026-10-28T22:13:53Z"
 }

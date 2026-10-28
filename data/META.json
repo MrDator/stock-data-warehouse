@@ -1,8 +1,8 @@
 {
   "ticker": "META",
   "name": "Meta Platforms, Inc.",
-  "price": 620.19,
-  "market_cap": 1585722294272,
+  "price": 612.49,
+  "market_cap": 1594209206272,
   "revenue_ttm": 241606000000.0,
   "net_income_ttm": 75249000000.0,
   "ocf_ttm": 133087000000.0,
@@ -12,7 +12,7 @@
   "total_debt": 114842000000.0,
   "cash_and_equivalents": 82449000000.0,
   "book_value_ttm": 272386000000.0,
-  "shares_outstanding": 2214455318,
+  "shares_outstanding": 2260455318,
   "beta": 1.19,
   "roe": 32.26,
   "analyst_growth_estimate": 20.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 33.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-28T12:04:03Z"
+  "last_updated": "2026-10-28T22:13:05Z"
 }
