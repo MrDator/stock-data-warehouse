@@ -3,8 +3,8 @@
   "name": "Waste Management, Inc.",
   "price": 225.15,
   "market_cap": 89995878400,
-  "revenue_ttm": 25667000000.0,
-  "net_income_ttm": 2853000000.0,
+  "revenue_ttm": 19224000000.0,
+  "net_income_ttm": 2250000000.0,
   "ocf_ttm": 6517000000.0,
   "capex_ttm": 2944000000.0,
   "sbc_ttm": 175000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 399715184,
   "beta": 0.8,
   "roe": 29.84,
-  "analyst_growth_estimate": 14.37,
-  "forward_eps": 9.07937,
+  "analyst_growth_estimate": 15.39,
+  "forward_eps": 9.07737,
   "dividend_yield": 157.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-28T22:09:50Z"
+  "last_updated": "2026-10-29T04:15:33Z"
 }
