@@ -1,10 +1,10 @@
 {
   "ticker": "DASH",
   "name": "DoorDash, Inc.",
-  "price": 179.0,
-  "market_cap": 77560332288,
-  "revenue_ttm": 15891000000.0,
-  "net_income_ttm": 841000000.0,
+  "price": 178.99,
+  "market_cap": 77555998720,
+  "revenue_ttm": 12445000000.0,
+  "net_income_ttm": 597000000.0,
   "ocf_ttm": 2830000000.0,
   "capex_ttm": 691000000.0,
   "sbc_ttm": 1114000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.0,
   "roe": 10.48,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 8.1674,
+  "forward_eps": 8.08964,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-30T12:04:50Z"
+  "last_updated": "2026-10-30T21:59:27Z"
 }
