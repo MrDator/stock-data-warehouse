@@ -2,7 +2,7 @@
   "ticker": "CNI",
   "name": "Canadian National Railway Compa",
   "price": 123.69,
-  "market_cap": 74721124352,
+  "market_cap": 74176888832,
   "revenue_ttm": 12710942532.02605,
   "net_income_ttm": 3422314463.6083875,
   "ocf_ttm": 5021112144.850783,
@@ -12,7 +12,7 @@
   "total_debt": 16185500608.316038,
   "cash_and_equivalents": 200386459.60065842,
   "book_value_ttm": 15673799470.407213,
-  "shares_outstanding": 604100000,
+  "shares_outstanding": 599700000,
   "beta": 1.0,
   "roe": 22.45,
   "analyst_growth_estimate": 8.88,
@@ -20,5 +20,5 @@
   "dividend_yield": 212.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-10-31T11:44:20Z"
+  "last_updated": "2026-10-31T16:46:24Z"
 }
