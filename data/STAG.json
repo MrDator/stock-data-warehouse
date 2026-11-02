@@ -1,8 +1,8 @@
 {
   "ticker": "STAG",
   "name": "Stag Industrial, Inc.",
-  "price": 36.86,
-  "market_cap": 7254145024,
+  "price": 37.19,
+  "market_cap": 7319089152,
   "revenue_ttm": 900517000.0,
   "net_income_ttm": 269105000.0,
   "ocf_ttm": 480342000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 12222000.0,
   "book_value_ttm": 3650272000.0,
   "shares_outstanding": 192803274,
-  "beta": 0.96,
+  "beta": 0.92,
   "roe": 7.6,
-  "analyst_growth_estimate": 1.34,
+  "analyst_growth_estimate": 1.35,
   "forward_eps": 0.88,
   "dividend_yield": 421.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-11-02T04:17:20Z"
+  "last_updated": "2026-11-02T14:47:01Z"
 }

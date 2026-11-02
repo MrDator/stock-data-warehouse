@@ -1,8 +1,8 @@
 {
   "ticker": "FAST",
   "name": "Fastenal Company",
-  "price": 51.91,
-  "market_cap": 59556421632,
+  "price": 52.74,
+  "market_cap": 60508684288,
   "revenue_ttm": 9079300000.0,
   "net_income_ttm": 1418200000.0,
   "ocf_ttm": 1433800000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 211900000.0,
   "book_value_ttm": 4149300000.0,
   "shares_outstanding": 1147301488,
-  "beta": 0.69,
+  "beta": 0.66,
   "roe": 35.26,
-  "analyst_growth_estimate": 12.6,
+  "analyst_growth_estimate": 12.8,
   "forward_eps": 1.41083,
   "dividend_yield": 200.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-02T04:14:35Z"
+  "last_updated": "2026-11-02T14:42:12Z"
 }

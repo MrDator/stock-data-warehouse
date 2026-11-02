@@ -1,8 +1,8 @@
 {
   "ticker": "ADBE",
   "name": "Adobe Inc.",
-  "price": 250.23,
-  "market_cap": 97389510656,
+  "price": 253.37,
+  "market_cap": 98611601408,
   "revenue_ttm": 25970000000.0,
   "net_income_ttm": 7284000000.0,
   "ocf_ttm": 10806000000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 5639000000.0,
   "book_value_ttm": 11764000000.0,
   "shares_outstanding": 389200000,
-  "beta": 1.42,
+  "beta": 1.38,
   "roe": 61.9,
-  "analyst_growth_estimate": 23.29,
-  "forward_eps": 27.50756,
+  "analyst_growth_estimate": 23.58,
+  "forward_eps": 27.42894,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-11-02T04:14:45Z"
+  "last_updated": "2026-11-02T14:47:18Z"
 }

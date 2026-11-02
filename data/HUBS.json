@@ -1,8 +1,8 @@
 {
   "ticker": "HUBS",
   "name": "HubSpot, Inc.",
-  "price": 234.87,
-  "market_cap": 11712073728,
+  "price": 232.705,
+  "market_cap": 11604114432,
   "revenue_ttm": 3448999000.0,
   "net_income_ttm": 146854000.0,
   "ocf_ttm": 856365000.0,
@@ -13,12 +13,12 @@
   "cash_and_equivalents": 1337943000.0,
   "book_value_ttm": 1656728000.0,
   "shares_outstanding": 49866201,
-  "beta": 1.24,
+  "beta": 1.14,
   "roe": 7.89,
   "analyst_growth_estimate": 45.0,
   "forward_eps": 16.82091,
   "dividend_yield": 0.0,
   "sector_type": "SaaS",
   "currency_code": "USD",
-  "last_updated": "2026-11-02T04:15:22Z"
+  "last_updated": "2026-11-02T14:42:50Z"
 }
