@@ -3,12 +3,12 @@
   "name": "DaVita Inc.",
   "price": 182.17,
   "market_cap": 11458492416,
-  "revenue_ttm": 10613461000.0,
-  "net_income_ttm": 654678000.0,
-  "ocf_ttm": 2221916000.0,
-  "capex_ttm": 573020000.0,
-  "sbc_ttm": 134735000.0,
-  "buyback_ttm": 1304738000.0,
+  "revenue_ttm": 14167545000.0,
+  "net_income_ttm": 920075000.0,
+  "ocf_ttm": 1870456000.0,
+  "capex_ttm": 576753000.0,
+  "sbc_ttm": 121772000.0,
+  "buyback_ttm": 1199006000.0,
   "total_debt": 13392426000.0,
   "cash_and_equivalents": 566302000.0,
   "book_value_ttm": -591087000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-03T22:53:11Z"
+  "last_updated": "2026-11-04T04:47:38Z"
 }
