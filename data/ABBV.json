@@ -2,7 +2,7 @@
   "ticker": "ABBV",
   "name": "AbbVie Inc.",
   "price": 294.83,
-  "market_cap": 520999174144,
+  "market_cap": 521146269696,
   "revenue_ttm": 66014000000.0,
   "net_income_ttm": 10342000000.0,
   "ocf_ttm": 20089000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 80903000000.0,
   "cash_and_equivalents": 10774000000.0,
   "book_value_ttm": -4583000000.0,
-  "shares_outstanding": 1767117285,
+  "shares_outstanding": 1767616306,
   "beta": 1.2,
   "roe": 0.0,
   "analyst_growth_estimate": 30.0,
   "forward_eps": 16.18173,
-  "dividend_yield": 242.0,
+  "dividend_yield": 235.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-11-05T04:58:23Z"
+  "last_updated": "2026-11-05T14:02:18Z"
 }
