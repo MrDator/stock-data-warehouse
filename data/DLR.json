@@ -1,8 +1,8 @@
 {
   "ticker": "DLR",
   "name": "Digital Realty Trust, Inc.",
-  "price": 174.67,
-  "market_cap": 65966518272,
+  "price": 174.2,
+  "market_cap": 67065409536,
   "revenue_ttm": 5172262000.0,
   "net_income_ttm": 473267000.0,
   "ocf_ttm": 1633633000.0,
@@ -12,13 +12,13 @@
   "total_debt": 20687049000.0,
   "cash_and_equivalents": 802903000.0,
   "book_value_ttm": 28112327000.0,
-  "shares_outstanding": 370998727,
+  "shares_outstanding": 378325884,
   "beta": 1.0,
   "roe": 3.34,
-  "analyst_growth_estimate": 4.95,
+  "analyst_growth_estimate": 5.23,
   "forward_eps": 3.03459,
   "dividend_yield": 279.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-11-06T13:42:00Z"
+  "last_updated": "2026-11-06T22:41:59Z"
 }
