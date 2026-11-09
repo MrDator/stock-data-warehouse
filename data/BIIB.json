@@ -1,8 +1,8 @@
 {
   "ticker": "BIIB",
   "name": "Biogen Inc.",
-  "price": 248.35,
-  "market_cap": 36711153664,
+  "price": 250.975,
+  "market_cap": 37099180032,
   "revenue_ttm": 10297300000.0,
   "net_income_ttm": 347500000.0,
   "ocf_ttm": 2247100000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 147820223,
   "beta": 1.2,
   "roe": 1.87,
-  "analyst_growth_estimate": 31.81,
-  "forward_eps": 16.26129,
+  "analyst_growth_estimate": 32.14,
+  "forward_eps": 16.25869,
   "dividend_yield": 0.0,
   "sector_type": "BioTech",
   "currency_code": "USD",
-  "last_updated": "2026-11-09T04:32:03Z"
+  "last_updated": "2026-11-09T15:08:10Z"
 }
