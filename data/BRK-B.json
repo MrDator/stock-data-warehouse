@@ -1,8 +1,8 @@
 {
   "ticker": "BRK-B",
   "name": "Berkshire Hathaway Inc. New",
-  "price": 583.34,
-  "market_cap": 1239317086208,
+  "price": 588.24,
+  "market_cap": 1249727217664,
   "revenue_ttm": 438990000000.0,
   "net_income_ttm": 77084000000.0,
   "ocf_ttm": 45106000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1403805594,
   "beta": 0.57,
   "roe": 10.57,
-  "analyst_growth_estimate": 1.62,
+  "analyst_growth_estimate": 1.64,
   "forward_eps": 22.46995,
   "dividend_yield": 0.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-11-11T13:34:35Z"
+  "last_updated": "2026-11-12T00:04:26Z"
 }
