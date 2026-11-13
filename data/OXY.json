@@ -1,8 +1,8 @@
 {
   "ticker": "OXY",
   "name": "Occidental Petroleum Corporatio",
-  "price": 58.4,
-  "market_cap": 58393853952,
+  "price": 58.75,
+  "market_cap": 58743816192,
   "revenue_ttm": 21614000000.0,
   "net_income_ttm": 8230000000.0,
   "ocf_ttm": 11858000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": 13.18,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 5.32755,
+  "forward_eps": 5.34515,
   "dividend_yield": 192.0,
   "sector_type": "Energy/Utility",
   "currency_code": "USD",
-  "last_updated": "2026-11-13T13:56:48Z"
+  "last_updated": "2026-11-13T23:12:31Z"
 }
