@@ -1,8 +1,8 @@
 {
   "ticker": "JEF",
   "name": "Jefferies Financial Group Inc.",
-  "price": 43.75,
-  "market_cap": 10048046080,
+  "price": 43.19,
+  "market_cap": 9919430656,
   "revenue_ttm": 12169084000.0,
   "net_income_ttm": 936650000.0,
   "ocf_ttm": 4413298000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 189090556,
   "beta": 1.49,
   "roe": 8.59,
-  "analyst_growth_estimate": 10.7,
+  "analyst_growth_estimate": 10.57,
   "forward_eps": 4.52104,
-  "dividend_yield": 350.0,
+  "dividend_yield": 366.0,
   "sector_type": "Financial",
   "currency_code": "USD",
-  "last_updated": "2026-11-17T01:31:56Z"
+  "last_updated": "2026-11-17T15:27:59Z"
 }
