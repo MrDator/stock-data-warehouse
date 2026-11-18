@@ -1,8 +1,8 @@
 {
   "ticker": "VTR",
   "name": "Ventas, Inc.",
-  "price": 88.04,
-  "market_cap": 46557315072,
+  "price": 88.41,
+  "market_cap": 46752976896,
   "revenue_ttm": 6784366000.0,
   "net_income_ttm": 262064000.0,
   "ocf_ttm": 1912422000.0,
@@ -16,9 +16,9 @@
   "beta": 0.77,
   "roe": 1.86,
   "analyst_growth_estimate": 10.0,
-  "forward_eps": 0.695,
-  "dividend_yield": 234.0,
+  "forward_eps": 0.63,
+  "dividend_yield": 236.0,
   "sector_type": "REIT",
   "currency_code": "USD",
-  "last_updated": "2026-11-18T00:33:31Z"
+  "last_updated": "2026-11-18T15:02:07Z"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "KDP",
   "name": "Keurig Dr Pepper Inc.",
-  "price": 34.79,
-  "market_cap": 47347392512,
+  "price": 35.15,
+  "market_cap": 49875021824,
   "revenue_ttm": 23128000000.0,
   "net_income_ttm": 1647000000.0,
   "ocf_ttm": 2932000000.0,
@@ -12,13 +12,13 @@
   "total_debt": 28865000000.0,
   "cash_and_equivalents": 1290000000.0,
   "book_value_ttm": 25426000000.0,
-  "shares_outstanding": 1360948350,
+  "shares_outstanding": 1418919365,
   "beta": 0.8,
   "roe": 6.01,
   "analyst_growth_estimate": 20.0,
-  "forward_eps": 2.53628,
-  "dividend_yield": 259.0,
+  "forward_eps": 2.53122,
+  "dividend_yield": 264.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-18T00:28:18Z"
+  "last_updated": "2026-11-18T15:01:36Z"
 }
