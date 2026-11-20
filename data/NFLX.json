@@ -1,8 +1,8 @@
 {
   "ticker": "NFLX",
   "name": "Netflix, Inc.",
-  "price": 58.875,
-  "market_cap": 241759944704,
+  "price": 56.73,
+  "market_cap": 232951873536,
   "revenue_ttm": 49734633000.0,
   "net_income_ttm": 14766653000.0,
   "ocf_ttm": 12307938000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 4106325903,
   "beta": 1.6,
   "roe": 53.46,
-  "analyst_growth_estimate": 17.91,
+  "analyst_growth_estimate": 17.63,
   "forward_eps": 3.77134,
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-20T14:51:31Z"
+  "last_updated": "2026-11-20T23:43:05Z"
 }
