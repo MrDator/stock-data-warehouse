@@ -1,8 +1,8 @@
 {
   "ticker": "T",
   "name": "AT&T Inc.",
-  "price": 21.645,
-  "market_cap": 145810980864,
+  "price": 21.85,
+  "market_cap": 147191955456,
   "revenue_ttm": 128852000000.0,
   "net_income_ttm": 13135000000.0,
   "ocf_ttm": 40235000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 6736473433,
   "beta": 0.8,
   "roe": 11.61,
-  "analyst_growth_estimate": 8.97,
+  "analyst_growth_estimate": 9.06,
   "forward_eps": 2.5958,
   "dividend_yield": 506.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-19T15:13:26Z"
+  "last_updated": "2026-11-20T00:15:53Z"
 }
