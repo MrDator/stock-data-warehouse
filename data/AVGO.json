@@ -1,8 +1,8 @@
 {
   "ticker": "AVGO",
   "name": "Broadcom Inc.",
-  "price": 304.41,
-  "market_cap": 1453140738048,
+  "price": 310.125,
+  "market_cap": 1480421933056,
   "revenue_ttm": 89104000000.0,
   "net_income_ttm": 38265000000.0,
   "ocf_ttm": 40653000000.0,
@@ -16,9 +16,9 @@
   "beta": 1.35,
   "roe": 44.25,
   "analyst_growth_estimate": 30.0,
-  "forward_eps": 19.41404,
+  "forward_eps": 19.386,
   "dividend_yield": 85.0,
   "sector_type": "Semiconductor",
   "currency_code": "USD",
-  "last_updated": "2026-11-23T05:37:16Z"
+  "last_updated": "2026-11-23T17:17:18Z"
 }
