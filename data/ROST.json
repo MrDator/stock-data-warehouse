@@ -1,8 +1,8 @@
 {
   "ticker": "ROST",
   "name": "Ross Stores, Inc.",
-  "price": 217.19,
-  "market_cap": 69670445056,
+  "price": 217.04,
+  "market_cap": 69622325248,
   "revenue_ttm": 18910852000.0,
   "net_income_ttm": 2147128000.0,
   "ocf_ttm": 3660573000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 320781076,
   "beta": 0.85,
   "roe": 43.01,
-  "analyst_growth_estimate": 12.9,
+  "analyst_growth_estimate": 12.89,
   "forward_eps": 9.00985,
   "dividend_yield": 83.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-23T17:21:16Z"
+  "last_updated": "2026-11-24T03:47:49Z"
 }
