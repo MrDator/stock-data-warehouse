@@ -1,8 +1,8 @@
 {
   "ticker": "PEP",
   "name": "Pepsico, Inc.",
-  "price": 142.68,
-  "market_cap": 194435891200,
+  "price": 144.8,
+  "market_cap": 197324914688,
   "revenue_ttm": 98241000000.0,
   "net_income_ttm": 10896000000.0,
   "ocf_ttm": 14569000000.0,
@@ -15,10 +15,10 @@
   "shares_outstanding": 1362741092,
   "beta": 0.8,
   "roe": 52.19,
-  "analyst_growth_estimate": 6.34,
+  "analyst_growth_estimate": 6.44,
   "forward_eps": 8.59386,
-  "dividend_yield": 422.0,
+  "dividend_yield": 415.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-25T01:53:46Z"
+  "last_updated": "2026-11-25T16:46:54Z"
 }
