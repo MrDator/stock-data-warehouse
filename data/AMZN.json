@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "name": "Amazon.com, Inc.",
-  "price": 254.325,
-  "market_cap": 2750051254272,
+  "price": 254.12,
+  "market_cap": 2747834564608,
   "revenue_ttm": 596849000000.0,
   "net_income_ttm": 72132000000.0,
   "ocf_ttm": 158438000000.0,
@@ -20,5 +20,5 @@
   "dividend_yield": 0.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-27T16:05:15Z"
+  "last_updated": "2026-11-28T01:04:09Z"
 }

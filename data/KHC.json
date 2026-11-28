@@ -1,8 +1,8 @@
 {
   "ticker": "KHC",
   "name": "The Kraft Heinz Company",
-  "price": 26.305,
-  "market_cap": 31140622336,
+  "price": 26.49,
+  "market_cap": 31359629312,
   "revenue_ttm": 24778000000.0,
   "net_income_ttm": -3467000000.0,
   "ocf_ttm": 4336000000.0,
@@ -16,9 +16,9 @@
   "beta": 0.8,
   "roe": -8.95,
   "analyst_growth_estimate": -2.0,
-  "forward_eps": 2.04628,
+  "forward_eps": 2.0426,
   "dividend_yield": 604.0,
   "sector_type": "General",
   "currency_code": "USD",
-  "last_updated": "2026-11-27T16:06:22Z"
+  "last_updated": "2026-11-28T01:02:52Z"
 }
